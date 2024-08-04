@@ -9,4 +9,6 @@ Si vous souhaitez participer au développement du site Les Archives de Feynman, 
 
 Vous ne devez un aucun cas modifier ou supprimer un fichier qui n'est pas le votre même si la traduction n'est pas juste.
 
+Une grande partie de ces traduction à été réalisée par Galileo51 Galilée ( La Nature de la Physique - Conférences 1,2,3,4,6 )
+
 Nous remercions tous ceux qui contribuent ou ont contribué à ce site.
