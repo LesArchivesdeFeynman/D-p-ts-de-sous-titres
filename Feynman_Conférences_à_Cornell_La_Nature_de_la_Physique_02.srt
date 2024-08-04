@@ -1,0 +1,5181 @@
+1
+00:01:07,100 --> 00:01:10,850
+La relation entre
+les mathématiques
+et la physique
+
+2
+00:01:15,230 --> 00:01:17,290
+Je peux voir le public ce soir
+
+3
+00:01:17,390 --> 00:01:19,290
+je peux aussi voir d'après sa taille,
+
+4
+00:01:19,300 --> 00:01:22,590
+la dernière fois je n'y voyais rien,
+
+5
+00:01:23,210 --> 00:01:24,930
+qu'il doit y' en avoir beaucoup parmi vous
+
+6
+00:01:24,930 --> 00:01:26,930
+qui ne sont pas très familiers avec la physique
+
+7
+00:01:27,810 --> 00:01:29,740
+et aussi un certain nombre
+
+8
+00:01:29,860 --> 00:01:32,530
+qui ne sont pas ferrus de mathématiques,
+
+9
+00:01:32,770 --> 00:01:34,710
+Je ne doute pas qu'il doit y en avoir
+
+10
+00:01:34,760 --> 00:01:35,950
+qui ne connaissent pas très bien ni la physique
+
+11
+00:01:36,010 --> 00:01:38,080
+ni les mathématiques.
+
+12
+00:01:38,560 --> 00:01:41,020
+Cela pose un terrible défi pour le conférencier
+
+13
+00:01:41,060 --> 00:01:44,350
+qui va parler des relations entre le physique et les mathématiques.
+
+14
+00:01:45,180 --> 00:01:47,760
+Un défi que de toute
+manière je n'accepterai pas.
+
+15
+00:01:50,080 --> 00:01:53,230
+J'ai publié le titre de cette conférence
+
+16
+00:01:53,330 --> 00:01:55,300
+de manière très claire,
+dans un langage précis
+
+17
+00:01:55,330 --> 00:01:57,450
+je ne ferai pas comme si ça n'était pas ce que c'est
+
+18
+00:01:57,480 --> 00:01:59,230
+c'est la relation entre la physique
+et les mathématiques
+
+19
+00:01:59,280 --> 00:02:01,540
+et si vous trouvez que parfois
+
+20
+00:02:01,610 --> 00:02:03,570
+cela suppose des connaissances mineures
+
+21
+00:02:03,680 --> 00:02:05,440
+en physique ou en mathématiques
+
+22
+00:02:05,550 --> 00:02:07,100
+je ne peux rien pour vous,
+
+23
+00:02:07,150 --> 00:02:08,700
+c'était intitulé comme ça.
+
+24
+00:02:12,750 --> 00:02:15,170
+En pensant aux applications des mathématiques
+
+25
+00:02:15,210 --> 00:02:17,170
+en physique, il est naturel de penser
+
+26
+00:02:17,410 --> 00:02:20,760
+que les mathématiques sont utiles quand des grands nombres
+
+27
+00:02:20,980 --> 00:02:23,470
+sont impliqués dans
+des situations complexes.
+
+28
+00:02:24,410 --> 00:02:27,540
+Par exemple, en biologie
+
+29
+00:02:27,680 --> 00:02:29,690
+l'action d'un virus sur une bactérie
+
+30
+00:02:29,720 --> 00:02:32,110
+n'est pas mathématique si vous l'observez au microscope
+
+31
+00:02:32,180 --> 00:02:34,110
+il y a un virus qui s'agite,
+cherchant à s'accrocher
+
+32
+00:02:34,180 --> 00:02:35,710
+sur une bactérie informe,
+
+33
+00:02:35,770 --> 00:02:37,020
+elles ont toutes une forme différente,
+
+34
+00:02:37,600 --> 00:02:38,160
+il trouve un endroit,
+
+35
+00:02:38,190 --> 00:02:41,250
+peut être qu'il y glisse son ADN,
+
+36
+00:02:41,300 --> 00:02:43,250
+ou peut être pas, et ainsi de suite...
+
+37
+00:02:44,300 --> 00:02:45,280
+Et pourtant,
+
+38
+00:02:45,410 --> 00:02:47,010
+si nous faisons l'expérience
+
+39
+00:02:47,040 --> 00:02:49,800
+avec des millions et des
+millions de bactéries et de virus
+
+40
+00:02:49,850 --> 00:02:52,050
+alors on peut en apprendre beaucoup sur le virus
+
+41
+00:02:52,100 --> 00:02:54,330
+en utilisant des moyennes.
+
+42
+00:02:54,850 --> 00:02:56,710
+Nous pouvons nous
+servir des mathématiques
+
+43
+00:02:56,830 --> 00:02:58,420
+sous la forme d'opérations de moyennage,
+
+44
+00:02:58,450 --> 00:03:01,050
+nous pouvons regarder si le virus se développe dans les bactéries,
+
+45
+00:03:01,110 --> 00:03:03,330
+si de nouvelles souches se forment et dans quelles propotions
+
+46
+00:03:03,460 --> 00:03:06,940
+et nous pouvons étudier la
+génétique, les mutations etc ...
+
+47
+00:03:08,980 --> 00:03:11,730
+Pour prendre un exemple plus trivial,
+
+48
+00:03:12,460 --> 00:03:14,920
+imaginez un immense plateau de jeu
+
+49
+00:03:15,040 --> 00:03:18,130
+un plateau d'échecs, pour jouer aux échecs, et aux dames.
+
+50
+00:03:22,680 --> 00:03:24,540
+Si le plateau est très grand
+
+51
+00:03:24,840 --> 00:03:27,850
+l'action faite par les joueurs à chaque tour
+
+52
+00:03:28,360 --> 00:03:30,010
+n'est pas mathématique
+
+53
+00:03:30,110 --> 00:03:32,330
+ou c'est vraiment basique
+si c'est mathématique
+
+54
+00:03:32,390 --> 00:03:34,640
+les pièces vont d'un côté à l'autre
+
+55
+00:03:34,670 --> 00:03:38,270
+en diagonale, etc...
+
+56
+00:03:38,720 --> 00:03:40,540
+Les règles sont très simples
+
+57
+00:03:40,560 --> 00:03:43,060
+et il n'est pas nécessaire de faire
+appel aux mathématiques.
+
+58
+00:03:43,520 --> 00:03:45,770
+Mais vous imaginez bien que
+sur un plateau gigantesque
+
+59
+00:03:45,790 --> 00:03:47,000
+avec beaucoup de pions,
+
+60
+00:03:47,050 --> 00:03:50,180
+trouver les bons, les meilleurs ou les pires coups
+
+61
+00:03:50,210 --> 00:03:52,970
+est seulement possible grâce à un
+raisonnement très poussé
+
+62
+00:03:53,060 --> 00:03:55,870
+mené par la première
+personne que ça intéresse
+
+63
+00:03:55,890 --> 00:03:58,200
+et cette pensée
+devient mathématique,
+
+64
+00:03:58,240 --> 00:03:59,760
+ou un raisonnement abstrait.
+
+65
+00:03:59,810 --> 00:04:01,900
+Un autre exemple, les transistors dans les ordinateurs.
+
+66
+00:04:02,290 --> 00:04:04,690
+Si vous avez un interrupteur,
+il est soit ouvert ou fermé
+
+67
+00:04:04,830 --> 00:04:06,690
+et cela n'a rien de très mathématique
+
+68
+00:04:06,720 --> 00:04:08,780
+même si les mathématiciens
+aiment commencer par là
+
+69
+00:04:08,810 --> 00:04:09,590
+avec leurs mathématiques.
+
+70
+00:04:11,440 --> 00:04:13,250
+Mais avec toutes les
+interconnections, les câbles...
+
+71
+00:04:13,300 --> 00:04:15,450
+pour comprendre ce qu'un grand système fera,
+
+72
+00:04:15,670 --> 00:04:17,450
+vous aurez besoin des mathématiques.
+
+73
+00:04:17,860 --> 00:04:19,790
+Et je voudrai tout de suite dire
+
+74
+00:04:20,110 --> 00:04:22,910
+que les mathématiques ont
+leur plus grande application,
+
+75
+00:04:22,940 --> 00:04:25,630
+ont un nombre fantastique
+d'applications en physique
+
+76
+00:04:25,770 --> 00:04:29,320
+dans l'analyse détaillée
+de phénomènes compliqués,
+
+77
+00:04:29,360 --> 00:04:31,730
+à condition que nous ayons
+les règles de base du jeu.
+
+78
+00:04:33,040 --> 00:04:37,450
+Et si je parlais uniquement des relations entre mathématiques et la physique
+
+79
+00:04:37,520 --> 00:04:39,960
+j'insisterai sur ce point.
+
+80
+00:04:40,310 --> 00:04:42,320
+Comme ceci fait partie
+d'une série de conférences
+
+81
+00:04:42,380 --> 00:04:44,220
+sur le caractère des lois physiques
+
+82
+00:04:44,320 --> 00:04:46,800
+je n'ai pas le temps de discuter
+
+83
+00:04:46,910 --> 00:04:49,130
+des applications des mathématiques en physique,
+
+84
+00:04:49,200 --> 00:04:51,890
+comment calculer ce qui arrive dans des situations compliquées
+
+85
+00:04:51,990 --> 00:04:53,890
+mais je vais sauter directement
+à une autre question
+
+86
+00:04:53,910 --> 00:04:56,410
+qui est le caractère des lois fondamentales.
+
+87
+00:04:56,490 --> 00:04:58,410
+Si nous revenons à notre jeu d'échecs,
+
+88
+00:04:58,850 --> 00:05:00,720
+les lois fondamentales sont les règles
+
+89
+00:05:00,770 --> 00:05:02,720
+que respectent les pièces
+dans leur déplacement.
+
+90
+00:05:02,720 --> 00:05:05,450
+Les mathématiques seront utiles dans les situations complexes,
+
+91
+00:05:05,530 --> 00:05:07,100
+pour savoir ce qui arrivera au prochain coup,
+
+92
+00:05:07,120 --> 00:05:08,620
+quel est le bon coup à jouer ?
+
+93
+00:05:10,960 --> 00:05:12,450
+Les mathématiques sont peu utiles
+
+94
+00:05:12,550 --> 00:05:16,780
+dans l'énoncé des règles fondamentales.
+
+95
+00:05:19,200 --> 00:05:21,440
+A présent, ce qui est étrange en physique
+
+96
+00:05:21,590 --> 00:05:23,320
+c'est que pour les lois fondamentales
+
+97
+00:05:23,500 --> 00:05:25,440
+nous avons toujours besoin des mathématiques.
+
+98
+00:05:26,700 --> 00:05:28,220
+Par exemple,
+
+99
+00:05:28,380 --> 00:05:29,470
+enfin deux exemples,
+
+100
+00:05:29,520 --> 00:05:32,240
+un où nous n'avons pas besoin et un où nous en avons besoin.
+
+101
+00:05:32,370 --> 00:05:34,940
+Il y a une loi en physique
+qu'un appelle la loi de Faraday
+
+102
+00:05:35,020 --> 00:05:36,780
+qui dit que lors d'une électrolyse
+
+103
+00:05:36,910 --> 00:05:39,090
+la quantité de matière déposée
+
+104
+00:05:39,250 --> 00:05:40,900
+est proportionnelle au courant
+
+105
+00:05:40,980 --> 00:05:43,440
+et au temps durant lequel le courant passe.
+
+106
+00:05:43,650 --> 00:05:45,530
+Et cela veut dire que la quantité de matière
+
+107
+00:05:45,600 --> 00:05:48,330
+est proportionnelle à la charge totale qui traverse le système.
+
+108
+00:05:48,610 --> 00:05:50,010
+Cela sonne très mathématique.
+
+109
+00:05:50,320 --> 00:05:52,010
+Mais ce qui se passe vraiment
+
+110
+00:05:52,250 --> 00:05:54,170
+c'est qu'un électron passe dans le câble,
+
+111
+00:05:54,200 --> 00:05:55,530
+chacun transportant une charge,
+
+112
+00:05:55,810 --> 00:05:58,290
+et pour prendre un exemple plus parlant
+
+113
+00:05:58,330 --> 00:06:02,090
+peut être que pour déposer un atome il faut qu'un électron arrive.
+
+114
+00:06:02,520 --> 00:06:04,390
+Le nombre d'atomes déposés
+
+115
+00:06:04,420 --> 00:06:05,880
+est nécessairement proportionnel
+
+116
+00:06:05,920 --> 00:06:07,930
+au nombre d'électrons qui passent,
+
+117
+00:06:08,000 --> 00:06:09,390
+donc à la charge qui traverse le câble.
+
+118
+00:06:09,410 --> 00:06:11,440
+Bien que la loi soit mathématique
+
+119
+00:06:11,720 --> 00:06:14,310
+elle n'est fondée sur rien de très profond,
+
+120
+00:06:14,490 --> 00:06:16,970
+ne demandant aucune connaissance
+mathématique particulière.
+
+121
+00:06:17,230 --> 00:06:19,140
+Un atome a besoin d'un électron
+
+122
+00:06:19,170 --> 00:06:21,140
+pour pouvoir se déposer.
+
+123
+00:06:22,210 --> 00:06:24,190
+C'est "mathématique",
+car j'ai dit le nombre 1,
+
+124
+00:06:24,300 --> 00:06:26,850
+mais ce ne sont pas les
+mathématiques dont je parle ce soir.
+
+125
+00:06:29,250 --> 00:06:31,230
+La loi de Newton pour la gravitation
+
+126
+00:06:31,300 --> 00:06:34,860
+que j'ai écrite au tableau la dernière fois
+
+127
+00:06:34,910 --> 00:06:36,720
+juste pour vous impressionner
+avec la rapidité à laquelle
+
+128
+00:06:36,750 --> 00:06:40,120
+les symboles mathématiques
+peuvent transmettre de l'information.
+
+129
+00:06:40,360 --> 00:06:43,300
+Nous avions dit que la force
+est proportionnelle au produit des masses
+
+130
+00:06:43,520 --> 00:06:47,310
+de deux objets, et inversemment proportionelle au carré de la distance qui les séparent.
+
+131
+00:06:47,360 --> 00:06:50,170
+Et qu'un corps réagit à une force
+en changeant sa vitesse
+
+132
+00:06:50,260 --> 00:06:53,270
+ou son mouvement, dans la direction de la force
+
+133
+00:06:53,490 --> 00:06:55,780
+d'une quantité proportionnelle à la force
+
+134
+00:06:55,820 --> 00:06:58,440
+et inversement proportionnelle à sa masse.
+
+135
+00:06:59,970 --> 00:07:02,860
+Ce que je viens de dire est correct et je n'ai pas besoin d'écrire l'équation
+
+136
+00:07:02,960 --> 00:07:05,520
+mais néanmoins ça sonne
+un peu mathématique
+
+137
+00:07:05,670 --> 00:07:07,520
+et on peut se demander :
+
+138
+00:07:07,950 --> 00:07:09,330
+comment ça peut être une loi fondamentale ?
+
+139
+00:07:09,380 --> 00:07:11,100
+Que fait donc cette planète ?
+
+140
+00:07:11,210 --> 00:07:13,190
+Est ce qu'elle regarde le Soleil,
+
+141
+00:07:13,260 --> 00:07:14,810
+regarde à quelle distance il est
+
+142
+00:07:14,880 --> 00:07:17,880
+et se met à calculer, grâce
+à une machinerie interne,
+
+143
+00:07:17,920 --> 00:07:19,630
+l'inverse du carré de la distance
+
+144
+00:07:19,700 --> 00:07:21,010
+et cela lui dit de combien se déplacer ?
+
+145
+00:07:21,060 --> 00:07:25,270
+Ce n'est certainement pas une explication du mécanisme de gravitation.
+
+146
+00:07:25,640 --> 00:07:27,280
+Vous voudriez en savoir plus
+
+147
+00:07:27,710 --> 00:07:30,120
+et plusieurs personnes
+ont essayé d'en savoir plus.
+
+148
+00:07:30,290 --> 00:07:33,760
+A l'époque on dit à Newton :
+
+149
+00:07:33,860 --> 00:07:35,860
+"Ça ne veut rien dire !
+Ça ne nous apprend rien ! "
+
+150
+00:07:35,910 --> 00:07:37,400
+Il répondit : "Ça vous dit comment ça bouge"
+
+151
+00:07:37,470 --> 00:07:39,750
+"Ca devrait vous suffire, je vous ai dit comment ça bouge..."
+
+152
+00:07:39,950 --> 00:07:41,750
+"... pas pourquoi."
+
+153
+00:07:44,290 --> 00:07:47,800
+Mais sans un mécanisme les gens ne sont généralement pas satisfaits
+
+154
+00:07:47,850 --> 00:07:50,680
+et je voudrai aborder une théorie
+
+155
+00:07:50,810 --> 00:07:52,680
+qui a été inventée
+
+156
+00:07:52,910 --> 00:07:54,150
+parmi d'autres,
+
+157
+00:07:54,210 --> 00:07:55,610
+qui répond à ce que vous attendez,
+
+158
+00:07:55,650 --> 00:07:57,840
+que cette loi est le résultat
+d'un grand nombre d'actions,
+
+159
+00:07:57,930 --> 00:07:59,440
+et explique pourquoi la loi est mathématique.
+
+160
+00:08:01,000 --> 00:08:02,120
+Peut être vous y avez déjà pensé,
+
+161
+00:08:02,160 --> 00:08:06,560
+parfois des étudiants débarquent et trouvent l'explication de la gravitation.
+
+162
+00:08:06,880 --> 00:08:09,020
+Imaginez que partout dans le monde
+
+163
+00:08:09,170 --> 00:08:12,510
+il existe des particules
+se déplaçant à grande vitesse
+
+164
+00:08:12,600 --> 00:08:15,990
+arrivant uniformément
+dans toutes les directions
+
+165
+00:08:16,560 --> 00:08:19,150
+et de temps en temps elles
+frappent, elles nous bombardent.
+
+166
+00:08:19,870 --> 00:08:23,610
+Mais le Soleil et la Terre sont quasiment transparents pour elles.
+
+167
+00:08:24,400 --> 00:08:27,290
+Mais certaines frappent et donc ils ne sont pas complètement transparents.
+
+168
+00:08:27,530 --> 00:08:29,610
+Regardez ce qu'il se passe, si le Soleil est ici
+
+169
+00:08:30,360 --> 00:08:31,610
+et la Terre est ici
+
+170
+00:08:32,560 --> 00:08:34,150
+Si le Soleil n'était pas là
+
+171
+00:08:34,160 --> 00:08:36,400
+il y aurait des particules
+bombardant de tous les côtés
+
+172
+00:08:36,440 --> 00:08:40,110
+donnant des légères impulsions au rythme des "bang bang" de celles qui touchent.
+
+173
+00:08:40,180 --> 00:08:42,920
+ce qui ne secouerait pas la Terre dans une direction particulière
+
+174
+00:08:42,990 --> 00:08:45,020
+car il y'en a autant qui touchent
+d'un côté et de l'autre,
+
+175
+00:08:45,060 --> 00:08:46,390
+par au dessus et par en dessous.
+
+176
+00:08:46,660 --> 00:08:47,330
+Cependant,
+
+177
+00:08:47,490 --> 00:08:49,330
+quand le Soleil est ici,
+
+178
+00:08:50,160 --> 00:08:52,650
+les particules arrivant dans cette direction
+
+179
+00:08:53,070 --> 00:08:54,800
+sont en partie absorbées par le Soleil
+
+180
+00:08:54,850 --> 00:08:57,520
+car certaines touchent le Soleil et ne passent pas à travers.
+
+181
+00:08:58,010 --> 00:09:00,560
+Ainsi, le nombre de particules arrivant dans cette direction
+
+182
+00:09:00,760 --> 00:09:01,920
+est plus faible
+
+183
+00:09:02,180 --> 00:09:03,920
+que celui arrivant de l'autre côté
+
+184
+00:09:03,990 --> 00:09:06,650
+car de ce côté le Soleil ne fait pas obstacle.
+
+185
+00:09:07,410 --> 00:09:09,160
+Et il est facile de voir,
+
+186
+00:09:09,370 --> 00:09:11,100
+après quelques efforts mentaux,
+
+187
+00:09:12,440 --> 00:09:14,460
+que plus le Soleil est loin de la Terre
+
+188
+00:09:14,490 --> 00:09:17,880
+plus la proportion de
+particules absorbées diminue
+
+189
+00:09:17,980 --> 00:09:20,480
+par rapport à l'ensemble des directions d'arrivée des particules.
+
+190
+00:09:20,720 --> 00:09:22,300
+Le Soleil semble plus "petit",
+
+191
+00:09:22,430 --> 00:09:25,480
+exactement comme
+l'inverse du carré de la distance.
+
+192
+00:09:25,740 --> 00:09:28,440
+Il doit alors y avoir une impulsion vers le Soleil
+
+193
+00:09:28,790 --> 00:09:29,520
+sur la Terre,
+
+194
+00:09:29,620 --> 00:09:31,470
+inversement proportionnelle
+au carré de la distance
+
+195
+00:09:31,680 --> 00:09:33,660
+et qui résulte d'un grand nombre
+
+196
+00:09:33,840 --> 00:09:35,360
+d'opérations très simples.
+
+197
+00:09:35,430 --> 00:09:36,780
+Juste des coups,
+
+198
+00:09:37,250 --> 00:09:38,960
+l'un après l'autre, dans toutes les directions.
+
+199
+00:09:40,550 --> 00:09:42,330
+L'étrangeté de cette loi mathématique
+
+200
+00:09:42,370 --> 00:09:44,750
+serait réduite car l'opération fondamentale
+
+201
+00:09:44,780 --> 00:09:45,810
+est beaucoup plus simple
+
+202
+00:09:45,860 --> 00:09:48,050
+que de calculer l'inverse
+du carré de la distance.
+
+203
+00:09:48,090 --> 00:09:50,070
+Ce mécanisme fait le calcul.
+
+204
+00:09:50,450 --> 00:09:52,070
+Le choc de ces particules.
+
+205
+00:09:53,470 --> 00:09:54,770
+Le seul problème avec cette théorie
+
+206
+00:09:54,960 --> 00:09:56,910
+c'est qu'elle ne marche pas
+
+207
+00:09:57,980 --> 00:09:58,910
+pour d'autres raisons.
+
+208
+00:09:59,020 --> 00:10:00,340
+N'importe qu'elle théorie que vous inventez
+
+209
+00:10:00,380 --> 00:10:03,580
+doit être analysée sur toutes ses conséquences possibles
+
+210
+00:10:03,650 --> 00:10:05,420
+pour voir si elle prédit
+quelque-chose d'autre.
+
+211
+00:10:05,670 --> 00:10:07,420
+Et celle-ci prédit
+quelque-chose d'autre.
+
+212
+00:10:07,900 --> 00:10:09,810
+Si la Terre se déplace de cette manière,
+
+213
+00:10:10,340 --> 00:10:13,000
+plus de particules la frapperait
+à l'avant qu'à l'arrière.
+
+214
+00:10:13,360 --> 00:10:14,570
+Si vous courrez sous la pluie
+
+215
+00:10:14,640 --> 00:10:17,560
+plus de gouttes vous frappent le visage que l'arrière de la tête
+
+216
+00:10:17,810 --> 00:10:19,430
+car vous courrez vers la pluie.
+
+217
+00:10:19,560 --> 00:10:21,280
+Donc si la Terre se
+déplace dans cette direction
+
+218
+00:10:21,330 --> 00:10:23,040
+elle va vers les particules devant elles
+
+219
+00:10:23,070 --> 00:10:25,560
+et fuit celles qui arrivent par derrière.
+
+220
+00:10:25,690 --> 00:10:28,100
+Donc plus de particules la percutent à l'avant qu'à l'arrière
+
+221
+00:10:28,280 --> 00:10:32,140
+et il y' aurait aussi une force s'opposant à son mouvement.
+
+222
+00:10:32,370 --> 00:10:34,820
+Cette force ralentirait la Terre sur son orbite
+
+223
+00:10:34,880 --> 00:10:36,460
+et elle n'aurait pas pu tourner
+
+224
+00:10:36,590 --> 00:10:40,490
+comme elle l'a fait durant trois ou quatre milliards d'années.
+
+225
+00:10:40,720 --> 00:10:42,640
+C'est donc la mort de cette théorie.
+
+226
+00:10:44,060 --> 00:10:44,630
+Vous me direz :
+
+227
+00:10:44,660 --> 00:10:46,850
+"Moi je l'aimais bien, elle nous débarrassait des mathématiques
+
+228
+00:10:46,900 --> 00:10:48,300
+pour un moment, peut être ...
+
+229
+00:10:49,300 --> 00:10:51,300
+... peut être que je peux
+en inventer une meilleure. "
+
+230
+00:10:51,940 --> 00:10:53,050
+Peut être que non,
+
+231
+00:10:53,570 --> 00:10:55,650
+car personne ne connaît le mot de la fin.
+
+232
+00:10:56,230 --> 00:10:58,750
+Depuis l'époque de Newton à aujourd'hui,
+
+233
+00:10:58,800 --> 00:11:01,650
+personne n'a inventé d'autre description théorique
+
+234
+00:11:01,680 --> 00:11:04,140
+pour expliquer la nature
+mathématique de cette loi
+
+235
+00:11:05,190 --> 00:11:07,760
+qui ne répète pas
+ce qui a été déjà été dit
+
+236
+00:11:07,810 --> 00:11:09,850
+ou qui rende les mathématiques
+encore plus difficiles
+
+237
+00:11:10,440 --> 00:11:13,280
+et qui en plus ne prédit
+pas de faux phénomènes.
+
+238
+00:11:13,330 --> 00:11:14,920
+Celle théorie l'explique
+
+239
+00:11:14,950 --> 00:11:16,950
+mais elle prédit quelque-chose de faux.
+
+240
+00:11:18,050 --> 00:11:20,840
+Il n'y a aucun modèle de la théorie de la gravitation aujourd'hui
+
+241
+00:11:21,320 --> 00:11:23,310
+hormis sa forme mathématique.
+
+242
+00:11:24,060 --> 00:11:26,330
+Si c'était la seule loi de cette nature
+
+243
+00:11:26,370 --> 00:11:28,910
+ce serait intéressant et plutôt agaçant.
+
+244
+00:11:29,540 --> 00:11:32,260
+Ce qui nous apparait certain c'est que plus nous avançons
+
+245
+00:11:32,310 --> 00:11:35,120
+et plus nous trouvons de lois et plus nous pénétrons la Nature
+
+246
+00:11:35,340 --> 00:11:36,490
+cette maladie se répand,
+
+247
+00:11:36,520 --> 00:11:39,600
+et chacune de nos lois devient
+un énoncé purement mathématique,
+
+248
+00:11:40,080 --> 00:11:42,120
+s'exprimant en des termes complexes et abstraits,
+
+249
+00:11:42,140 --> 00:11:44,230
+ces mathématiques là sont plutôt simples.
+
+250
+00:11:44,430 --> 00:11:46,070
+Les lois deviennent de plus en plus abstraites
+
+251
+00:11:46,120 --> 00:11:48,320
+et de plus en plus difficiles d'un point de vue mathématique.
+
+252
+00:11:48,590 --> 00:11:49,580
+Pourquoi ?
+
+253
+00:11:50,340 --> 00:11:52,470
+Je n'en ai pas la moindre idée.
+
+254
+00:11:52,650 --> 00:11:54,560
+Mon seul but dans cette conférence
+
+255
+00:11:54,610 --> 00:11:55,860
+est de vous parler de ce fait.
+
+256
+00:11:56,330 --> 00:11:58,120
+En d'autres termes mon but
+
+257
+00:11:58,160 --> 00:12:00,270
+est de vous expliquer pourquoi
+
+258
+00:12:00,310 --> 00:12:02,060
+je ne peux pas vous satisfaire,
+
+259
+00:12:02,110 --> 00:12:04,510
+si vous ne comprenez pas suffisament les mathématiques,
+
+260
+00:12:05,010 --> 00:12:07,200
+lorsque j'essaie de vous décrire la Nature.
+
+261
+00:12:07,260 --> 00:12:09,200
+C'est le fardeau de cette conférence,
+
+262
+00:12:09,350 --> 00:12:11,200
+de devoir vous annoncer ce fait,
+
+263
+00:12:11,640 --> 00:12:14,670
+qu'il est honnêtement impossible
+
+264
+00:12:14,690 --> 00:12:16,320
+d'expliquer à quelqu'un,
+
+265
+00:12:16,440 --> 00:12:18,300
+de manière à ce que qu'il la ressente,
+
+266
+00:12:18,500 --> 00:12:20,400
+la beauté des lois de la Nature
+
+267
+00:12:20,550 --> 00:12:22,860
+sans avoir une compréhension profonde des mathématiques.
+
+268
+00:12:23,010 --> 00:12:25,580
+Je suis désolé, c'est
+comme ça apparemment...
+
+269
+00:12:27,590 --> 00:12:30,320
+Vous me direz : " D'accord, il n'y a pas
+d'explication à cette loi "
+
+270
+00:12:30,470 --> 00:12:32,320
+" au moins dites moi qu'elle est cette loi "
+
+271
+00:12:32,520 --> 00:12:35,530
+" en utilisant des mots au lieu de ces symboles. "
+
+272
+00:12:35,680 --> 00:12:37,390
+"Les mathématiques ne sont qu'un langage "
+
+273
+00:12:37,710 --> 00:12:39,610
+" et je devrai être en mesure de traduire ce langage. "
+
+274
+00:12:39,690 --> 00:12:40,980
+Et il se trouve que je peux le faire.
+
+275
+00:12:41,170 --> 00:12:43,350
+Et avec de la patience,
+je pense que je l'ai fait en partie,
+
+276
+00:12:43,400 --> 00:12:44,510
+je pourrai aller un peu plus loin
+
+277
+00:12:44,560 --> 00:12:45,930
+et expliquer plus en détail
+
+278
+00:12:45,980 --> 00:12:47,760
+si la distance est multipliée par deux
+
+279
+00:12:47,800 --> 00:12:49,850
+la force est réduite par quatre etc ...
+
+280
+00:12:50,170 --> 00:12:51,950
+et je peux convertir tous ces détails en mots.
+
+281
+00:12:52,370 --> 00:12:54,560
+Je serai alors bon envers les profanes
+
+282
+00:12:54,610 --> 00:12:56,960
+assis devant moi espérant
+comprendre ces choses.
+
+283
+00:12:57,250 --> 00:12:58,800
+Et de nombreuses personnes
+
+284
+00:12:59,150 --> 00:13:01,000
+ont des réputations bien différentes
+
+285
+00:13:01,080 --> 00:13:03,730
+quant à leur aptitude à
+expliquer aux profanes
+
+286
+00:13:03,830 --> 00:13:05,430
+dans le langage ordinaire,
+
+287
+00:13:05,550 --> 00:13:07,520
+ces sujets difficiles et abstraits.
+
+288
+00:13:09,600 --> 00:13:13,560
+Le profane cherche alors
+de livre en livre, avec l'espoir
+
+289
+00:13:15,150 --> 00:13:17,600
+qu'il puisse éviter la complexité,
+
+290
+00:13:17,680 --> 00:13:22,090
+qui finit toujours par arriver, même dans le meilleur ouvrage de vulgarisation.
+
+291
+00:13:22,450 --> 00:13:25,880
+En lisant ces livres, il finit par se retrouver
+
+292
+00:13:25,920 --> 00:13:27,730
+dans une confusion toujours croissante
+
+293
+00:13:27,730 --> 00:13:29,720
+des énoncés toujours
+plus compliqués,
+
+294
+00:13:29,800 --> 00:13:32,410
+des concepts toujours plus
+difficiles à comprendre,
+
+295
+00:13:32,430 --> 00:13:34,700
+apparemment sans rapport entre eux.
+
+296
+00:13:34,870 --> 00:13:36,630
+Et ainsi se répand une zone ombre
+
+297
+00:13:36,670 --> 00:13:38,320
+qui peut-être sera éclaircie dans un autre livre
+
+298
+00:13:38,400 --> 00:13:40,380
+où il y aura une autre explication ...
+
+299
+00:13:40,880 --> 00:13:42,660
+" Cet auteur avait presque réussi ! "
+
+300
+00:13:43,450 --> 00:13:45,570
+" Peut être qu'un autre auteur y arrivera ! "
+
+301
+00:13:45,890 --> 00:13:47,440
+Je ne pense pas que cela soit possible
+
+302
+00:13:47,460 --> 00:13:48,860
+car il y a autre chose,
+
+303
+00:13:48,900 --> 00:13:51,080
+les mathématiques ne sont
+pas seulement un langage.
+
+304
+00:13:51,780 --> 00:13:54,250
+Les mathématiques sont
+un langage plus le raisonnement.
+
+305
+00:13:54,410 --> 00:13:56,950
+C'est comme un langage avec de la logique.
+
+306
+00:13:57,440 --> 00:13:59,740
+Les mathématiques sont un
+outil pour le raisonnement.
+
+307
+00:13:59,780 --> 00:14:02,050
+C'est une grande collection
+
+308
+00:14:02,630 --> 00:14:06,460
+de résultats obtenus par la
+pensée et le raisonnement.
+
+309
+00:14:07,030 --> 00:14:08,490
+Avec les mathématiques
+
+310
+00:14:08,650 --> 00:14:11,790
+il est possible de relier une
+proposition à une autre.
+
+311
+00:14:12,200 --> 00:14:15,410
+Par exemple, je peux dire que la force est dirigée vers le Soleil.
+
+312
+00:14:15,660 --> 00:14:17,760
+Je peux aussi vous dire
+
+313
+00:14:18,630 --> 00:14:20,090
+que les planètes se déplacent,
+
+314
+00:14:20,380 --> 00:14:23,290
+si je trace une ligne joignant le Soleil et la planète,
+
+315
+00:14:23,760 --> 00:14:25,810
+et en trace une autre,
+
+316
+00:14:26,110 --> 00:14:28,730
+après une certaine période,
+trois semaines plus tard,
+
+317
+00:14:28,820 --> 00:14:29,940
+alors l'aire,
+
+318
+00:14:30,400 --> 00:14:32,360
+balayée par la planète,
+
+319
+00:14:32,670 --> 00:14:36,340
+est exactement la même que celle balayée pendant les trois semaines suivantes...
+
+320
+00:14:36,380 --> 00:14:37,890
+à mesure qu'elle tourne autour du Soleil.
+
+321
+00:14:38,530 --> 00:14:41,780
+Je peux vous expliquer avec
+soin ces deux énoncés
+
+322
+00:14:42,160 --> 00:14:43,490
+mais je ne peux pas vous expliquer
+
+323
+00:14:43,530 --> 00:14:46,190
+pourquoi ils sont équivalents.
+
+324
+00:14:46,770 --> 00:14:49,120
+Donc si vous n'appréciez pas les mathématiques
+
+325
+00:14:49,190 --> 00:14:51,040
+vous ne pouvez pas voir
+
+326
+00:14:51,910 --> 00:14:54,090
+que la grande variété de faits,
+
+327
+00:14:54,240 --> 00:14:56,860
+l'apparente complexité de la Nature,
+
+328
+00:14:56,890 --> 00:14:59,050
+avec toutes ces drôles de lois et de règles,
+
+329
+00:14:59,170 --> 00:15:01,330
+chacune d'entre elles vous ayant été expliquée soigneusement,
+
+330
+00:15:01,420 --> 00:15:03,920
+sont en fait étroitement reliées,
+
+331
+00:15:03,920 --> 00:15:06,900
+et la logique vous permet
+de passer de l'une à l'autre.
+
+332
+00:15:08,730 --> 00:15:10,210
+Cela parait incroyable
+
+333
+00:15:10,610 --> 00:15:11,740
+que je puisse démontrer
+
+334
+00:15:11,760 --> 00:15:13,770
+que des aires égales seront balayées en des temps égaux
+
+335
+00:15:13,800 --> 00:15:15,820
+si la force est dirigée vers le Soleil.
+
+336
+00:15:17,170 --> 00:15:18,200
+Si je peux me permettre,
+
+337
+00:15:18,700 --> 00:15:20,400
+je vais vous faire une démonstration
+
+338
+00:15:20,400 --> 00:15:22,900
+pour vous montrer que ces propositions sont bien équivalentes,
+
+339
+00:15:23,140 --> 00:15:24,700
+pour que vous puissiez apprécier,
+
+340
+00:15:24,720 --> 00:15:27,840
+en plus du simple énoncé de ces deux lois,
+
+341
+00:15:28,270 --> 00:15:29,510
+leur connection
+
+342
+00:15:29,520 --> 00:15:32,420
+que le raisonnement seul peut révéler.
+
+343
+00:15:32,890 --> 00:15:34,800
+Les mathématiques sont
+du raisonnement organisé
+
+344
+00:15:35,130 --> 00:15:37,080
+et c'est bien de voir
+comment on s'en sert
+
+345
+00:15:37,400 --> 00:15:40,690
+pour apprécier la beauté de
+la relation entre ces énoncés.
+
+346
+00:15:40,920 --> 00:15:43,280
+Donc je vais vous prouvez,
+si vous me le permettez,
+
+347
+00:15:43,310 --> 00:15:44,610
+la relation qu'il y a
+
+348
+00:15:45,270 --> 00:15:49,540
+entre les énoncés
+"la force est dirigée vers le Soleil "
+
+349
+00:15:49,580 --> 00:15:51,780
+et " des aires égales sont balayées en des temps égaux " .
+
+350
+00:15:52,450 --> 00:15:53,340
+Le Soleil est ici
+
+351
+00:15:54,400 --> 00:15:56,730
+et nous imaginons qu'à un moment
+
+352
+00:15:57,160 --> 00:15:59,070
+la planète se trouve ici,
+
+353
+00:16:00,420 --> 00:16:02,060
+et elle se déplace d'une manière telle que
+
+354
+00:16:02,100 --> 00:16:04,640
+une seconde après, ou une heure après,
+
+355
+00:16:04,690 --> 00:16:05,860
+une seconde plus tard,
+
+356
+00:16:06,290 --> 00:16:07,970
+elle se déplace d'une manière telle
+
+357
+00:16:08,050 --> 00:16:10,380
+qu'elle arrive en position 2.
+
+358
+00:16:12,620 --> 00:16:15,440
+A présent si le Soleil n'exerce aucune force,
+
+359
+00:16:15,490 --> 00:16:16,990
+d'après le principe d'inertie,
+
+360
+00:16:17,050 --> 00:16:18,980
+elle continue en ligne droite.
+
+361
+00:16:19,370 --> 00:16:21,860
+Dans le même
+intervalle de temps suivant,
+
+362
+00:16:21,870 --> 00:16:22,860
+durant la seconde suivante,
+
+363
+00:16:23,030 --> 00:16:25,890
+elle se déplacera exactement de la même distance sur la même ligne droite
+
+364
+00:16:25,940 --> 00:16:27,240
+jusqu'à la position 3,
+
+365
+00:16:27,340 --> 00:16:28,800
+s'il n' y a pas de force.
+
+366
+00:16:29,640 --> 00:16:32,070
+D'abord nous allons montrer
+que s'il n'y a pas de force
+
+367
+00:16:32,130 --> 00:16:34,740
+des aires égales sont balayées en des temps égaux.
+
+368
+00:16:35,020 --> 00:16:36,940
+Je vous rappelle que l'aire d'un triangle
+
+369
+00:16:36,950 --> 00:16:39,280
+est égale à la moitié de la
+base fois sa hauteur,
+
+370
+00:16:39,300 --> 00:16:42,690
+où la hauteur est la distance
+verticale à la base.
+
+371
+00:16:43,810 --> 00:16:46,270
+Si le triangle est ?
+
+372
+00:16:46,320 --> 00:16:48,270
+il y a un nom pour ça mais j'ai oublié ...
+
+373
+00:16:48,270 --> 00:16:50,270
+obtus, obtus !
+
+374
+00:16:50,630 --> 00:16:53,760
+alors la hauteur est cette distance verticale là.
+
+375
+00:16:54,910 --> 00:16:57,290
+Je m'y connais en triangle mais je ne connais pas leurs noms.
+
+376
+00:16:59,030 --> 00:17:02,130
+A présent traçons des lignes
+jusqu'à ces deux points.
+
+377
+00:17:02,220 --> 00:17:04,590
+dans le cas où il n'y pas de force.
+
+378
+00:17:06,050 --> 00:17:07,860
+Je ne dessine pas très bien,
+je ne suis pas précis,
+
+379
+00:17:08,380 --> 00:17:11,090
+mais souvenez vous que
+ces deux distances sont égales.
+
+380
+00:17:11,200 --> 00:17:13,290
+Question : ces deux aires
+sont-elles égales ?
+
+381
+00:17:13,520 --> 00:17:15,100
+Prenez le triangle
+
+382
+00:17:16,410 --> 00:17:19,140
+formé par le Soleil et les points 1 et  2 .
+
+383
+00:17:19,230 --> 00:17:21,540
+Celui là.
+
+384
+00:17:21,620 --> 00:17:22,560
+Son aire ?
+
+385
+00:17:22,580 --> 00:17:26,310
+C'est cette base multipliée par cette hauteur.
+
+386
+00:17:27,140 --> 00:17:29,730
+Et l'aire de l'autre triangle ?
+
+387
+00:17:30,760 --> 00:17:34,030
+Le triangle formé par le déplacement du point 2 au point 3 .
+
+388
+00:17:34,100 --> 00:17:36,710
+C'est cette base fois la même hauteur.
+
+389
+00:17:36,760 --> 00:17:38,260
+Les deux triangles ont la même hauteur,
+
+390
+00:17:38,300 --> 00:17:41,010
+la même base et donc la même aire.
+
+391
+00:17:41,010 --> 00:17:42,420
+Jusque là tout va bien.
+
+392
+00:17:42,470 --> 00:17:44,420
+Si le Soleil n'exerçait pas de force
+
+393
+00:17:44,480 --> 00:17:46,420
+des aires égales seraient balayées en des durées égales.
+
+394
+00:17:46,500 --> 00:17:48,150
+car les deux triangles
+ont la même aire.
+
+395
+00:17:48,280 --> 00:17:49,920
+Mais il y a une force
+exercée par le Soleil.
+
+396
+00:17:50,200 --> 00:17:52,740
+Et durant cet intervalle, entre 1, 2 et 3
+
+397
+00:17:52,850 --> 00:17:54,860
+le Soleil modifie le mouvement par attraction,
+
+398
+00:17:55,000 --> 00:17:57,970
+dans différentes directions.
+
+399
+00:17:58,240 --> 00:18:00,000
+Pour faire une bonne approximation
+
+400
+00:18:00,050 --> 00:18:02,650
+nous prendrons la position au centre, la position moyenne
+
+401
+00:18:02,690 --> 00:18:04,930
+et dirons que l'effet total
+durant cet intervalle
+
+402
+00:18:05,000 --> 00:18:07,240
+est de mofifier le déplacement
+d'une certaine quantité
+
+403
+00:18:07,310 --> 00:18:09,850
+dans cette direction, vers le Soleil.
+
+404
+00:18:10,890 --> 00:18:11,890
+Cela signifie que
+
+405
+00:18:11,890 --> 00:18:14,020
+bien que la planète
+se déplace tout droit
+
+406
+00:18:14,020 --> 00:18:16,020
+et aurait continué tout droit
+
+407
+00:18:16,210 --> 00:18:17,730
+la seconde suivante,
+
+408
+00:18:18,520 --> 00:18:20,340
+à cause de l'influence du Soleil
+
+409
+00:18:20,650 --> 00:18:21,920
+son mouvement est dévié
+
+410
+00:18:22,400 --> 00:18:24,710
+d'une certaine quantité
+dans cette direction
+
+411
+00:18:25,340 --> 00:18:26,710
+parallèle à cette ligne,
+
+412
+00:18:26,960 --> 00:18:29,350
+exactement parallèle,
+ces lignes sont parallèles.
+
+413
+00:18:30,080 --> 00:18:33,330
+C'est dans cette direction que
+se poursuit le mouvement
+
+414
+00:18:33,360 --> 00:18:35,610
+qui est un compromis entre
+ce que veut faire la planète
+
+415
+00:18:35,820 --> 00:18:39,190
+et le changement induit
+par l'action du Soleil.
+
+416
+00:18:39,700 --> 00:18:41,810
+Donc la planète n'arrive pas à la position 3,
+
+417
+00:18:41,980 --> 00:18:43,610
+mais plutôt à la position 4.
+
+418
+00:18:43,940 --> 00:18:45,460
+Nous voulons comparer,
+
+419
+00:18:45,490 --> 00:18:47,350
+il devient compliqué ce schéma,
+
+420
+00:18:47,410 --> 00:18:51,460
+les triangles [2-4-S] et [2-3-S] .
+
+421
+00:18:51,460 --> 00:18:52,940
+Je vais vous montrer qu'ils sont égaux.
+
+422
+00:18:53,290 --> 00:18:55,480
+Ces deux triangles ont la même base
+
+423
+00:18:55,530 --> 00:18:57,110
+celui-ci,
+
+424
+00:18:57,240 --> 00:18:59,140
+et celui où il n'y avait pas de force.
+
+425
+00:18:59,140 --> 00:19:01,820
+Force ou non, ces deux
+triangles ont la même base.
+
+426
+00:19:01,900 --> 00:19:03,610
+Ont-ils la même hauteur ? Bien sûr.
+
+427
+00:19:03,660 --> 00:19:05,940
+Car elles sont comprises
+entre des lignes parallèles.
+
+428
+00:19:06,130 --> 00:19:08,410
+Ils ont donc la même hauteur.
+
+429
+00:19:08,500 --> 00:19:11,900
+Et donc l'aire du dernier
+triangle que j'ai dessiné,
+
+430
+00:19:11,960 --> 00:19:14,290
+est identique à celle du deuxième,
+
+431
+00:19:14,420 --> 00:19:16,770
+et aussi égale à l'aire
+du premier triangle.
+
+432
+00:19:16,940 --> 00:19:19,670
+Au cours du mouvement de la planète,
+
+433
+00:19:19,860 --> 00:19:22,690
+l'aire parcourue pendant
+la première seconde
+
+434
+00:19:22,800 --> 00:19:24,740
+et pendant la seconde
+suivante sont égales.
+
+435
+00:19:25,350 --> 00:19:27,970
+Par le raisonnement, nous
+pouvons voir le lien entre
+
+436
+00:19:28,830 --> 00:19:30,760
+le fait que la force est dirigée vers le Soleil
+
+437
+00:19:31,000 --> 00:19:34,350
+et que les aires sont égales.
+
+438
+00:19:34,470 --> 00:19:35,570
+Astucieux non ?
+
+439
+00:19:35,950 --> 00:19:37,930
+J'ai emprunté cette démonstration à Newton,
+
+440
+00:19:37,940 --> 00:19:39,990
+elle est issue des "Principiae ".
+
+441
+00:19:39,990 --> 00:19:42,920
+Il n'y a que les lettres qui sont différentes, car il écrivait en latin.
+
+442
+00:19:43,840 --> 00:19:45,460
+Nous utilisons des chiffres arabes.
+
+443
+00:19:48,020 --> 00:19:49,630
+Il se trouve que Newton
+
+444
+00:19:51,250 --> 00:19:53,390
+a élaboré toutes ses preuves
+de manière géométrique
+
+445
+00:19:53,440 --> 00:19:56,760
+et toutes les démonstrations que l'on trouve dans ses livres sont de cette nature.
+
+446
+00:19:56,900 --> 00:19:58,820
+Aujourd'hui nous n'utilisons plus ce genre de raisonnement
+
+447
+00:19:58,880 --> 00:20:01,020
+nous utilisons un raisonnement plus analytique
+
+448
+00:20:01,250 --> 00:20:02,020
+avec des symboles.
+
+449
+00:20:02,410 --> 00:20:05,380
+Ce raisonnement géométrique
+demande de l'ingéniosité
+
+450
+00:20:05,400 --> 00:20:06,690
+tracer le bon triangle,
+
+451
+00:20:06,840 --> 00:20:08,210
+le triangle qu'il faut,
+
+452
+00:20:08,330 --> 00:20:10,610
+de faire attention aux aires...
+
+453
+00:20:10,610 --> 00:20:12,820
+Bien s'y prendre requiert de l’intelligence.
+
+454
+00:20:13,000 --> 00:20:15,330
+Mais les méthodes ont été améliorées
+
+455
+00:20:15,700 --> 00:20:17,840
+pour mener l'analyse de
+manière plus stupide.
+
+456
+00:20:19,570 --> 00:20:21,650
+Elles sont plus rapides
+et plus efficaces.
+
+457
+00:20:21,890 --> 00:20:24,660
+Et je voudrai juste vous
+montrer à quoi ça ressemble
+
+458
+00:20:25,010 --> 00:20:28,160
+avec une notation
+mathématique plus moderne,
+
+459
+00:20:28,260 --> 00:20:31,590
+où vous vous contentez
+d'écrire des symboles.
+
+460
+00:20:31,800 --> 00:20:34,930
+Nous voulons connaître la rapidité
+avec laquelle l'aire change,
+
+461
+00:20:35,060 --> 00:20:37,090
+et nous représentons ça par A point .
+
+462
+00:20:37,410 --> 00:20:43,100
+L'aire change quand le rayon tourne.
+
+463
+00:20:43,170 --> 00:20:45,930
+C'est la composante de la vitesse à angle droit avec le rayon
+
+464
+00:20:46,070 --> 00:20:48,660
+fois le rayon qui nous dit
+avec quelle rapidité l'aire varie.
+
+465
+00:20:48,810 --> 00:20:52,640
+Donc A point est égal au rayon
+
+466
+00:20:52,740 --> 00:20:56,440
+fois la vitesse perpendiculaire au rayon.
+
+467
+00:20:57,170 --> 00:20:59,920
+La question est de savoir si
+le taux de variation de l'aire
+
+468
+00:21:00,000 --> 00:21:01,040
+lui-même change ?
+
+469
+00:21:01,170 --> 00:21:03,040
+Le principe dit qu'il ne change pas,
+
+470
+00:21:03,040 --> 00:21:05,970
+le taux de variation de
+l'aire ne doit pas changer.
+
+471
+00:21:06,530 --> 00:21:08,720
+Alors nous dérivons encore cette expression,
+
+472
+00:21:09,270 --> 00:21:12,800
+il y a des techniques pour mettre
+des points aux bons endroits ...
+
+473
+00:21:14,960 --> 00:21:16,600
+Vous devez juste apprendre les astuces.
+
+474
+00:21:18,530 --> 00:21:22,630
+Ce sont juste des règles que des gens ont trouvé et qui sont très puissantes.
+
+475
+00:21:22,840 --> 00:21:23,920
+Et le premier terme est :
+
+476
+00:21:23,990 --> 00:21:26,660
+la composante de la vitesse
+perpendiculaire à la vitesse
+
+477
+00:21:26,800 --> 00:21:28,040
+ce terme est nul,
+
+478
+00:21:28,150 --> 00:21:30,490
+la vitesse est dans la
+même direction qu'elle-même.
+
+479
+00:21:30,800 --> 00:21:32,930
+et l'accélération,
+
+480
+00:21:33,320 --> 00:21:35,290
+ce terme ci,
+la dérivée seconde,
+
+481
+00:21:36,290 --> 00:21:39,300
+est égale à la force
+divisée par la masse.
+
+482
+00:21:39,460 --> 00:21:42,730
+Cette équation dit que le taux de variation du taux de variation de l'aire
+
+483
+00:21:42,820 --> 00:21:45,700
+est égale à la composante perpendiculaire de la force au rayon.
+
+484
+00:21:45,850 --> 00:21:47,810
+Mais si la force est
+orientée suivant le rayon,
+
+485
+00:21:47,820 --> 00:21:49,000
+comme l'a dit Newton,
+
+486
+00:21:49,030 --> 00:21:51,930
+il n'y a pas de force
+perpendiculaire au rayon.
+
+487
+00:21:52,070 --> 00:21:56,260
+Donc le taux de variation
+de l'aire ne change pas.
+
+488
+00:21:57,930 --> 00:21:59,140
+Je voulais juste illustrer
+
+489
+00:21:59,410 --> 00:22:00,630
+les différents types de notation.
+
+490
+00:22:00,790 --> 00:22:03,240
+Newton savait plus ou moins
+calculer de cette façon
+
+491
+00:22:03,480 --> 00:22:04,590
+avec des notations différentes,
+
+492
+00:22:04,590 --> 00:22:06,080
+mais il fit tout de cette manière
+
+493
+00:22:06,280 --> 00:22:10,090
+car il essayait de rendre ses publications compréhensibles pour les autres.
+
+494
+00:22:10,180 --> 00:22:13,000
+Il a inventé l'analyse,
+ce genre de mathématiques,
+
+495
+00:22:13,130 --> 00:22:16,210
+et c'est une bonne illustration de la relation entre les mathématiques et la physique.
+
+496
+00:22:16,260 --> 00:22:18,430
+Quand un problème en
+physique devient difficile
+
+497
+00:22:19,120 --> 00:22:21,210
+nous allons souvent voir les mathématiciens
+
+498
+00:22:21,230 --> 00:22:24,800
+qui ont déjà étudié ce problème et ont préparé un raisonnement
+
+499
+00:22:24,820 --> 00:22:27,220
+qu'il nous suffit ensuite de suivre.
+
+500
+00:22:27,410 --> 00:22:28,660
+Parfois ils n'en ont pas,
+
+501
+00:22:28,700 --> 00:22:31,240
+dans ce cas nous devons inventer le nôtre,
+
+502
+00:22:31,280 --> 00:22:33,520
+que nous donnons ensuite aux mathématiciens.
+
+503
+00:22:33,560 --> 00:22:36,540
+Car n'importe-qui réfléchissant avec soin
+
+504
+00:22:37,480 --> 00:22:41,220
+fait une contribution à la connaissance dans un domaine de la réflexion
+
+505
+00:22:41,270 --> 00:22:44,180
+et s'il le rend abstrait et l’envoie au département de mathématiques
+
+506
+00:22:44,290 --> 00:22:48,170
+il sera ajouté dans les livres comme une nouvelle branche des mathématiques.
+
+507
+00:22:49,090 --> 00:22:50,210
+Les mathématiques sont un moyen
+
+508
+00:22:50,270 --> 00:22:52,970
+pour passer d'un énoncé à un autre.
+
+509
+00:22:53,360 --> 00:22:54,930
+C'est évidemment utile en physique
+
+510
+00:22:55,060 --> 00:22:58,180
+car nous avons plein de façons différentes
+
+511
+00:22:58,180 --> 00:23:01,940
+de parler des choses, et cela nous permet de penser les conséquences,
+
+512
+00:23:02,200 --> 00:23:03,870
+d'analyser les situations,
+
+513
+00:23:03,870 --> 00:23:06,320
+de modifier les lois,
+
+514
+00:23:06,320 --> 00:23:08,610
+de connecter ensemble
+différents énoncés.
+
+515
+00:23:08,740 --> 00:23:12,380
+En fait, le total que connaît
+un physicien est très mince.
+
+516
+00:23:12,610 --> 00:23:14,070
+Il doit seulement
+se rappeler les règles
+
+517
+00:23:14,070 --> 00:23:15,650
+pour passer d'un point à l'autre.
+
+518
+00:23:16,020 --> 00:23:17,920
+Et ça lui suffit.
+
+519
+00:23:20,100 --> 00:23:21,910
+Tous les énoncés
+
+520
+00:23:21,910 --> 00:23:25,060
+comme les temps égaux, la force est orientée suivant le rayon...
+
+521
+00:23:25,120 --> 00:23:26,680
+sont tous connectés
+par le raisonnement.
+
+522
+00:23:27,210 --> 00:23:29,280
+A présent, une question
+intéressante apparaît.
+
+523
+00:23:29,430 --> 00:23:30,880
+Y a t'il un chemin particulier ?
+
+524
+00:23:31,220 --> 00:23:32,660
+Existe-t-il un endroit par où commencer ?
+
+525
+00:23:33,250 --> 00:23:36,470
+Des principes fondamentaux à partir desquels tout est déduit ?
+
+526
+00:23:37,140 --> 00:23:39,540
+Existe-t-il un un ordre
+particulier dans la Nature
+
+527
+00:23:39,620 --> 00:23:40,800
+à partir duquel nous comprenons
+
+528
+00:23:40,900 --> 00:23:45,380
+si un énoncé est plutôt fondamental ou plutôt une conséquence ?
+
+529
+00:23:46,190 --> 00:23:48,880
+Il existe deux approches
+distinctes en mathématiques,
+
+530
+00:23:48,990 --> 00:23:50,790
+que je nommerai ici,
+
+531
+00:23:50,880 --> 00:23:53,890
+la tradition babylonienne
+et la tradition grecque.
+
+532
+00:23:54,250 --> 00:23:57,130
+Dans les écoles de
+mathématiques babyloniennes
+
+533
+00:23:57,210 --> 00:24:00,690
+les étudiants apprenaient en travaillant sur un grand nombre d'exemples
+
+534
+00:24:00,850 --> 00:24:02,990
+jusqu'à ce qu'ils intègrent la règle générale.
+
+535
+00:24:04,050 --> 00:24:08,140
+La géométrie, par exemple, était bien connue :
+
+536
+00:24:08,240 --> 00:24:09,450
+les propriétés des cercles,
+
+537
+00:24:09,650 --> 00:24:11,520
+le théorème de Pythagore,
+
+538
+00:24:11,970 --> 00:24:15,840
+les formules pour les aires des cubes, des triangles et tout le reste.
+
+539
+00:24:16,180 --> 00:24:18,930
+Quelques arguments existaient
+
+540
+00:24:19,070 --> 00:24:20,900
+pour passer d'un énoncé à l'autre.
+
+541
+00:24:23,870 --> 00:24:26,310
+Des tables pour certaines quantités
+
+542
+00:24:26,400 --> 00:24:29,400
+étaient mises à disposition pour résoudre des équations difficiles.
+
+543
+00:24:29,650 --> 00:24:32,960
+Tout était pensé pour
+calculer des choses.
+
+544
+00:24:34,410 --> 00:24:35,950
+Euclide a découvert
+
+545
+00:24:36,210 --> 00:24:39,410
+qu'il existait une voie à partir de
+laquelle toute la géométrie
+
+546
+00:24:39,500 --> 00:24:41,940
+pouvait être déduite à
+partir d'un jeu d'axiomes
+
+547
+00:24:42,100 --> 00:24:43,430
+particulièrement simples,
+
+548
+00:24:43,520 --> 00:24:46,440
+et je suis sûr que cette
+géométrie vous est familière.
+
+549
+00:24:46,620 --> 00:24:48,510
+Mais l'attitude babylonienne,
+
+550
+00:24:48,670 --> 00:24:52,320
+ce que j'entends par
+mathématiques babyloniennes,
+
+551
+00:24:52,510 --> 00:24:54,220
+est que vous connaissez
+beaucoup de théorèmes
+
+552
+00:24:54,360 --> 00:24:55,970
+les nombreuses
+connections entre eux,
+
+553
+00:24:56,070 --> 00:25:00,500
+mais vous ne réalisez jamais qu'ils découlent tous d'un jeu d'axiomes.
+
+554
+00:25:01,260 --> 00:25:03,580
+Les mathématiques les plus modernes
+
+555
+00:25:03,650 --> 00:25:05,170
+se concentrent sur les axiomes
+
+556
+00:25:05,520 --> 00:25:06,530
+et les démonstrations
+
+557
+00:25:06,870 --> 00:25:09,650
+dans un cadre très
+précis de conventions
+
+558
+00:25:10,100 --> 00:25:12,760
+sur les axiomes qui sont
+ou non acceptables.
+
+559
+00:25:12,850 --> 00:25:14,690
+Par exemple, en géométrie
+
+560
+00:25:14,830 --> 00:25:18,360
+on part des axiomes d'Euclide, modifiés pour être encore plus parfaits,
+
+561
+00:25:18,560 --> 00:25:20,780
+et on peut en déduire tout le système.
+
+562
+00:25:21,200 --> 00:25:22,880
+On ne prendrait pas
+
+563
+00:25:22,970 --> 00:25:24,240
+le théorème de Pythagore,
+
+564
+00:25:24,410 --> 00:25:30,480
+la somme des carrés des côtés d'un triangle est égale au carré de l’hypoténuse,
+
+565
+00:25:30,740 --> 00:25:32,190
+comme un axiome.
+
+566
+00:25:32,420 --> 00:25:33,520
+Mais d'un autre côté,
+
+567
+00:25:33,640 --> 00:25:37,330
+du point de vue de la géométrie cartésienne
+
+568
+00:25:37,410 --> 00:25:39,130
+le théorème de Pythagore est un axiome.
+
+569
+00:25:39,280 --> 00:25:41,020
+La première chose que nous remarquons
+
+570
+00:25:41,130 --> 00:25:42,420
+est que même en mathématiques
+
+571
+00:25:43,020 --> 00:25:44,980
+on peut partir de différents endroits.
+
+572
+00:25:45,170 --> 00:25:47,370
+Car tous ces théorèmes
+
+573
+00:25:47,520 --> 00:25:49,770
+sont reliés entre eux
+par le raisonnement.
+
+574
+00:25:50,080 --> 00:25:52,210
+Il n'y a donc aucun moyen d'affirmer
+
+575
+00:25:52,310 --> 00:25:54,830
+que ces énoncés sont
+" les fondamentaux ".
+
+576
+00:25:54,950 --> 00:25:56,820
+et ceux là sont connectés par logique.
+
+577
+00:25:57,020 --> 00:25:59,300
+Car si vous en apprenez
+d'autres à la place
+
+578
+00:25:59,380 --> 00:26:01,170
+vous pourriez raisonner dans l'autre sens
+
+579
+00:26:01,280 --> 00:26:02,580
+si vous ne saviez pas celui-là
+
+580
+00:26:02,670 --> 00:26:03,790
+et le retrouver.
+
+581
+00:26:03,860 --> 00:26:04,930
+C'est comme un pont
+
+582
+00:26:05,040 --> 00:26:06,250
+avec beaucoup de passerelles,
+
+583
+00:26:06,350 --> 00:26:08,820
+il est sur-connecté,
+si des passerelles manquent
+
+584
+00:26:08,920 --> 00:26:11,520
+vous pouvez rétablir la
+connexion d'une autre manière.
+
+585
+00:26:12,120 --> 00:26:14,560
+La tradition mathématique d'aujourd'hui
+
+586
+00:26:14,690 --> 00:26:16,170
+consiste à partir d'axiomes particuliers
+
+587
+00:26:16,270 --> 00:26:18,750
+choisis par une sorte de convention
+
+588
+00:26:18,870 --> 00:26:20,800
+et de construire la
+structure à partir d'eux.
+
+589
+00:26:21,050 --> 00:26:23,940
+La tradition babylonienne,
+comme je l'appelle,
+
+590
+00:26:24,490 --> 00:26:26,760
+ce n'est pas babylonien mais bon,
+
+591
+00:26:27,250 --> 00:26:29,860
+consiste à dire " je sais ceci et je sais cela "
+
+592
+00:26:29,960 --> 00:26:31,090
+" et peut être que je connais ça "
+
+593
+00:26:31,170 --> 00:26:32,590
+" et je trouve le reste à partir d'ici. "
+
+594
+00:26:32,800 --> 00:26:34,950
+" Demain, j'aurai oublié que c'était vrai "
+
+595
+00:26:35,010 --> 00:26:36,320
+" mais je me souviendrai de celui-là  "
+
+596
+00:26:36,400 --> 00:26:37,930
+" et je reconstruirai encore "
+
+597
+00:26:38,020 --> 00:26:39,700
+" et donc je ne suis jamais sûr "
+
+598
+00:26:39,810 --> 00:26:42,080
+" d'où je suis sensé partir
+et où je suis sensé arriver. "
+
+599
+00:26:42,180 --> 00:26:43,780
+" Je m'en rappelle toujours assez "
+
+600
+00:26:43,890 --> 00:26:45,140
+" de sorte que si ma mémoire flanche, "
+
+601
+00:26:45,230 --> 00:26:46,530
+" si des pièces tombent, "
+
+602
+00:26:46,630 --> 00:26:49,530
+" je remets tout en place chaque jour. "
+
+603
+00:26:52,880 --> 00:26:55,110
+La méthode consistant
+à partir des axiomes
+
+604
+00:26:55,250 --> 00:26:56,590
+n'est pas efficace
+
+605
+00:26:56,880 --> 00:26:58,490
+pour retrouver des théorèmes.
+
+606
+00:26:58,690 --> 00:27:00,620
+En travaillant sur la géométrie
+
+607
+00:27:00,630 --> 00:27:03,440
+vous ne serez pas efficace si vous devez repartir des axiomes.
+
+608
+00:27:03,610 --> 00:27:05,490
+Si vous vous souvenez
+de quelques énoncés
+
+609
+00:27:05,590 --> 00:27:08,010
+en géométrie vous pouvez
+toujours aller ailleurs.
+
+610
+00:27:08,070 --> 00:27:10,370
+C'est beaucoup plus efficace
+de le faire de cette manière.
+
+611
+00:27:10,740 --> 00:27:12,250
+Savoir quels sont
+les meilleurs axiomes
+
+612
+00:27:12,350 --> 00:27:14,880
+n'est jamais vraiment
+
+613
+00:27:14,990 --> 00:27:18,900
+le meilleur moyen pour arriver à quelque-chose en pratique.
+
+614
+00:27:19,640 --> 00:27:21,660
+En physique nous avons besoin de la méthode babylonienne
+
+615
+00:27:21,770 --> 00:27:24,650
+et non de la méthode
+euclidienne ou grecque.
+
+616
+00:27:24,780 --> 00:27:27,830
+Et je voudrai vous expliquer pourquoi.
+
+617
+00:27:29,330 --> 00:27:31,160
+Le problème de la méthode euclidienne
+
+618
+00:27:31,210 --> 00:27:32,730
+est de faire des axiomes
+
+619
+00:27:32,840 --> 00:27:35,210
+quelque-chose de plus
+intéressant ou plus important.
+
+620
+00:27:35,410 --> 00:27:37,420
+Mais la question qui se pose pour nous,
+
+621
+00:27:37,470 --> 00:27:38,830
+dans le cas de la gravitation,
+
+622
+00:27:38,890 --> 00:27:40,740
+est-ce plus important,
+est-ce plus basique
+
+623
+00:27:40,820 --> 00:27:43,120
+est-ce plus fondamental,
+est-ce un meilleur axiome
+
+624
+00:27:43,600 --> 00:27:45,890
+de dire que " la force est dirigée vers le Soleil "
+
+625
+00:27:46,020 --> 00:27:49,620
+ou de dire que " des aires égales sont balayées en des durées égales " ?
+
+626
+00:27:50,560 --> 00:27:52,410
+D'un certain point de vue,
+
+627
+00:27:52,660 --> 00:27:54,290
+la force est mieux,
+
+628
+00:27:54,460 --> 00:27:56,720
+car lorsque je définis une force
+
+629
+00:27:56,940 --> 00:27:59,110
+je peux travailler sur des systèmes avec plein de particules,
+
+630
+00:27:59,150 --> 00:28:00,920
+où les orbites ne sont plus des ellipses
+
+631
+00:28:01,030 --> 00:28:02,460
+à cause des attractions mutuelles,
+
+632
+00:28:02,570 --> 00:28:04,880
+et le théorème des aires égales est faux.
+
+633
+00:28:05,170 --> 00:28:06,760
+Ainsi, je pense que l'énoncé de la force
+
+634
+00:28:06,850 --> 00:28:09,130
+est un axiome et non l'autre.
+
+635
+00:28:09,810 --> 00:28:10,510
+D'un autre côté,
+
+636
+00:28:10,600 --> 00:28:15,090
+l'énoncé " des aires égales sont balayées en des durées égales "
+
+637
+00:28:15,170 --> 00:28:16,430
+peut être généralisé
+
+638
+00:28:16,620 --> 00:28:18,560
+pour un système fait d'un
+grand nombre de particules
+
+639
+00:28:18,660 --> 00:28:20,030
+à un autre théorème.
+
+640
+00:28:20,400 --> 00:28:22,650
+que j'avais prévu de vous expliquer,
+
+641
+00:28:22,740 --> 00:28:23,900
+mais je manque de temps,
+
+642
+00:28:23,900 --> 00:28:25,360
+mais il y a un autre énoncé
+
+643
+00:28:25,450 --> 00:28:26,730
+qui est plus général
+
+644
+00:28:26,780 --> 00:28:28,810
+que "des aires égales en des durées égales ",
+
+645
+00:28:29,020 --> 00:28:30,600
+mais je dois dire ce que c'est.
+
+646
+00:28:30,740 --> 00:28:32,440
+C'est plutôt compliqué à dire
+
+647
+00:28:32,550 --> 00:28:34,210
+et il n'est pas aussi joli que celui-là
+
+648
+00:28:34,290 --> 00:28:36,120
+mais il est évidemment
+
+649
+00:28:36,360 --> 00:28:37,960
+la somme de celui-là.
+
+650
+00:28:37,960 --> 00:28:40,690
+je veux dire que c'est sa "grande" version.
+
+651
+00:28:42,150 --> 00:28:43,650
+Si vous regardez toutes ces particules
+
+652
+00:28:43,730 --> 00:28:45,060
+Jupiter, Saturne, le Soleil,
+
+653
+00:28:45,110 --> 00:28:46,700
+et toutes ces choses en train de tourner,
+
+654
+00:28:46,760 --> 00:28:48,510
+des étoiles ou autre chose,
+
+655
+00:28:48,630 --> 00:28:50,410
+toutes interagissant les
+unes avec les autres.
+
+656
+00:28:50,510 --> 00:28:51,970
+Regardez les de très loin
+
+657
+00:28:52,020 --> 00:28:54,390
+et projetez les sur un plan,
+comme cette image.
+
+658
+00:28:54,620 --> 00:28:56,230
+Tout est en mouvement,
+
+659
+00:28:56,300 --> 00:28:58,830
+ça bouge comme-ci et comme-ça ...
+
+660
+00:28:59,020 --> 00:29:00,920
+Alors prenez n'importe quel point,
+
+661
+00:29:01,120 --> 00:29:02,310
+ce point,
+
+662
+00:29:02,630 --> 00:29:05,470
+et calculez de combien chacune d'elles
+
+663
+00:29:05,470 --> 00:29:07,030
+change son aire,
+
+664
+00:29:07,120 --> 00:29:10,700
+quelle aire balaye le rayon
+de chaque particule.
+
+665
+00:29:11,120 --> 00:29:12,630
+Et faites-en l'addition.
+
+666
+00:29:13,370 --> 00:29:14,160
+Mais attendez,
+
+667
+00:29:14,210 --> 00:29:15,970
+les particules plus massives
+
+668
+00:29:16,130 --> 00:29:17,360
+comptent d'avantage,
+
+669
+00:29:17,490 --> 00:29:19,070
+si celle-ci est deux fois
+plus massive que celle-là,
+
+670
+00:29:19,130 --> 00:29:20,850
+alors son aire compte deux
+fois plus dans la somme.
+
+671
+00:29:40,180 --> 00:29:42,180
+Et le total de toutes ces quantités
+
+672
+00:29:42,420 --> 00:29:43,990
+ne change pas dans le temps.
+
+673
+00:29:44,100 --> 00:29:46,230
+C'est bien la généralisation de l'autre.
+
+674
+00:29:46,360 --> 00:29:49,200
+Nous appelons ce total
+le moment angulaire.
+
+675
+00:29:49,350 --> 00:29:52,130
+Et on appelle cet énoncé
+la conservation du moment angulaire,
+
+676
+00:29:52,250 --> 00:29:53,920
+le mot conservation veut juste dire
+
+677
+00:29:54,050 --> 00:29:55,920
+que ça ne change pas.
+
+678
+00:29:57,020 --> 00:29:57,920
+A présent,
+
+679
+00:29:58,110 --> 00:30:00,050
+l'une des conséquences de cet énoncé...
+
+680
+00:30:00,240 --> 00:30:01,820
+Je vous montre juste à quoi ça sert.
+
+681
+00:30:01,900 --> 00:30:05,570
+Imaginez un ensemble d'étoiles s'effondrant ensemble pour former une nébuleuse
+
+682
+00:30:05,810 --> 00:30:06,880
+ou une galaxie,
+
+683
+00:30:08,090 --> 00:30:10,080
+lorsqu'elles se rapprochent du centre
+
+684
+00:30:10,420 --> 00:30:12,400
+si elles étaient très loin et
+se déplaçaient lentement
+
+685
+00:30:12,450 --> 00:30:14,300
+il y avait une petite aire balayée
+
+686
+00:30:14,340 --> 00:30:16,210
+mais avec un très grand rayon,
+
+687
+00:30:16,280 --> 00:30:17,880
+la distance au centre.
+
+688
+00:30:18,240 --> 00:30:19,740
+Si l'ensemble se concentre
+
+689
+00:30:19,810 --> 00:30:21,890
+la distance au centre
+est alors plus courte
+
+690
+00:30:21,970 --> 00:30:24,820
+car les étoiles sont proches
+du centre à présent,
+
+691
+00:30:25,240 --> 00:30:26,850
+les rayons sont plus petits,
+
+692
+00:30:26,900 --> 00:30:28,950
+et pour balayer la même aire qu'avant
+
+693
+00:30:29,170 --> 00:30:30,900
+elles doivent aller beaucoup plus vite.
+
+694
+00:30:31,070 --> 00:30:32,260
+Plus elles se rapprochent
+
+695
+00:30:32,310 --> 00:30:33,980
+plus elles tournent vite,
+
+696
+00:30:34,010 --> 00:30:35,740
+et à partir de ça on peut
+à peu près comprendre
+
+697
+00:30:35,790 --> 00:30:38,720
+la forme qualitative des
+nébuleuses spirales.
+
+698
+00:30:38,970 --> 00:30:41,010
+On peut aussi comprendre
+
+699
+00:30:41,280 --> 00:30:42,390
+de la même façon,
+
+700
+00:30:42,550 --> 00:30:43,780
+pourquoi un patineur
+
+701
+00:30:44,410 --> 00:30:46,760
+tourne sur lui même quand il commence avec la jambe tendue,
+
+702
+00:30:46,870 --> 00:30:49,220
+il tourne doucement et
+quand il replie sa jambe il
+
+703
+00:30:49,240 --> 00:30:49,940
+tourne plus vite
+
+704
+00:30:50,040 --> 00:30:50,860
+car lorsque la jambe est tendue
+
+705
+00:30:50,980 --> 00:30:55,460
+elle contribue à balayer une
+certaine aire par seconde
+
+706
+00:30:55,680 --> 00:30:59,420
+et quand elle est repliée, pour balayer la même aire, il faut tourner plus vite.
+
+707
+00:31:00,120 --> 00:31:00,870
+Mais,
+
+708
+00:31:01,510 --> 00:31:03,710
+je n'ai pas démontré cette
+loi pour le patineur,
+
+709
+00:31:04,030 --> 00:31:06,300
+le patineur utiliser des
+forces musculaires
+
+710
+00:31:06,550 --> 00:31:08,830
+alors que la gravité est
+une force différente
+
+711
+00:31:08,970 --> 00:31:10,910
+et pourtant c'est vrai pour le patineur.
+
+712
+00:31:11,280 --> 00:31:12,640
+Là nous avons un problème,
+
+713
+00:31:12,700 --> 00:31:14,400
+Nous pouvons déduire
+
+714
+00:31:14,800 --> 00:31:15,460
+la plupart du temps,
+
+715
+00:31:15,720 --> 00:31:18,020
+à partir d'un énoncé de physique, comme la loi de la gravitation,
+
+716
+00:31:18,020 --> 00:31:19,160
+un principe
+
+717
+00:31:19,500 --> 00:31:23,680
+qui se trouve être valide au delà de son cadre de démonstration
+
+718
+00:31:23,940 --> 00:31:25,440
+Ca n'arrive jamais en mathématiques
+
+719
+00:31:25,470 --> 00:31:29,520
+que des théorèmes soient vrais en des endroits où ils ne sont pas sensés l'être.
+
+720
+00:31:30,770 --> 00:31:32,020
+En d'autres termes,
+
+721
+00:31:32,060 --> 00:31:35,710
+si nous faisons de la loi de la gravitation un postulat de la physique
+
+722
+00:31:35,860 --> 00:31:37,950
+nous pourrions en déduire la conservation du moment angulaire
+
+723
+00:31:38,030 --> 00:31:39,380
+mais uniquement pour la gravitation.
+
+724
+00:31:39,570 --> 00:31:41,680
+Mais nous découvrons
+expérimentalement
+
+725
+00:31:41,770 --> 00:31:44,950
+que la conservation du moment angulaire est une chose bien plus générale.
+
+726
+00:31:45,360 --> 00:31:47,200
+Newton avait posé de nombreux postulats
+
+727
+00:31:47,280 --> 00:31:51,750
+à partir desquels il pouvait retrouver la loi de la conservation du moment angulaire
+
+728
+00:31:51,890 --> 00:31:53,730
+mais les lois de Newton étaient fausses,
+
+729
+00:31:53,790 --> 00:31:56,180
+Il n'y a pas de forces, tout ça n'est que du baratin
+
+730
+00:31:56,260 --> 00:31:58,250
+les particules n'ont pas
+d'orbites et ainsi de suite.
+
+731
+00:31:58,370 --> 00:32:00,230
+Et pourtant, son analogue,
+
+732
+00:32:00,330 --> 00:32:03,740
+la transposition exacte du
+principe sur les aires,
+
+733
+00:32:03,880 --> 00:32:06,140
+la conservation du moment
+angulaire est vraie
+
+734
+00:32:06,240 --> 00:32:07,990
+dans le cas du
+mouvement des atomes,
+
+735
+00:32:08,100 --> 00:32:09,400
+en mécanique quantique,
+
+736
+00:32:09,510 --> 00:32:12,720
+et ce principe a toujours
+été vérifié jusqu'à présent.
+
+737
+00:32:13,240 --> 00:32:14,960
+Ainsi nous avons
+ces grands principes
+
+738
+00:32:15,060 --> 00:32:17,170
+qui recouvrent toutes les lois
+
+739
+00:32:17,580 --> 00:32:20,630
+et si quelqu'un prend trop au
+sérieux la démonstration de ces lois
+
+740
+00:32:20,860 --> 00:32:24,090
+et pense que ceci est valide
+parce que ceci est valide
+
+741
+00:32:24,290 --> 00:32:28,020
+il ne peut pas comprendre les relations entre les branches de la physique.
+
+742
+00:32:28,220 --> 00:32:30,680
+Un jour, quand la physique sera complète
+
+743
+00:32:30,930 --> 00:32:33,540
+alors si nous connaissons toutes les lois
+
+744
+00:32:33,630 --> 00:32:35,060
+nous pourrons partir d'axiomes
+
+745
+00:32:35,170 --> 00:32:37,900
+et quelqu'un finira bien
+par trouver un moyen
+
+746
+00:32:38,140 --> 00:32:40,160
+pour en déduire tout le reste.
+
+747
+00:32:40,290 --> 00:32:42,040
+Mais comme nous ne
+connaissons pas toutes les lois
+
+748
+00:32:42,100 --> 00:32:44,260
+nous pouvons en utiliser
+pour deviner des théorèmes
+
+749
+00:32:44,350 --> 00:32:47,560
+qui s'appliquent au delà
+de leur cadre de démonstration.
+
+750
+00:32:48,320 --> 00:32:50,070
+Pour comprendre la physique
+
+751
+00:32:50,160 --> 00:32:54,050
+il faut garder en tête
+
+752
+00:32:54,080 --> 00:32:57,490
+toutes les propositions et
+leurs liens réciproques
+
+753
+00:32:57,630 --> 00:32:59,070
+car les lois s'appliquent souvent
+
+754
+00:32:59,090 --> 00:33:01,420
+au délà de leur zone de déduction.
+
+755
+00:33:02,100 --> 00:33:03,400
+Tout ça n'aura plus d'importance
+
+756
+00:33:03,440 --> 00:33:05,910
+quand toutes les lois seront connues.
+
+757
+00:33:06,800 --> 00:33:08,340
+Une autre chose intéressante
+
+758
+00:33:08,400 --> 00:33:10,540
+dans la relation entre
+mathématique et physique
+
+759
+00:33:10,580 --> 00:33:11,180
+est la suivante.
+
+760
+00:33:12,400 --> 00:33:14,250
+Une chose bien étrange.
+
+761
+00:33:14,480 --> 00:33:16,080
+Par des arguments mathématiques
+
+762
+00:33:16,120 --> 00:33:17,540
+vous pouvez montrer
+
+763
+00:33:17,760 --> 00:33:20,950
+que vous pouvez partir de
+points vraiment très différents
+
+764
+00:33:21,040 --> 00:33:23,220
+et arriver à la même chose.
+
+765
+00:33:23,670 --> 00:33:25,440
+C'est évident avec des axiomes
+
+766
+00:33:25,490 --> 00:33:27,170
+vous les utilisez comme des théorèmes,
+
+767
+00:33:27,210 --> 00:33:29,250
+mais les lois de la physique
+
+768
+00:33:29,330 --> 00:33:31,550
+sont si délicatement construites
+
+769
+00:33:31,730 --> 00:33:35,140
+que leurs énoncés sont
+qualitativement très différents
+
+770
+00:33:35,190 --> 00:33:36,160
+et c'est leur intérêt,
+
+771
+00:33:36,230 --> 00:33:38,990
+si vous le permettez je vais énoncer la loi de la gravitation
+
+772
+00:33:39,090 --> 00:33:41,070
+de trois manières différentes.
+
+773
+00:33:41,370 --> 00:33:44,740
+Chacune d'elles sont en fait équivalentes
+
+774
+00:33:44,980 --> 00:33:47,140
+mais elles semblent être très différentes.
+
+775
+00:33:47,140 --> 00:33:48,100
+Premièrement,
+
+776
+00:33:48,320 --> 00:33:51,290
+il existe des forces entre les objets, comme je l'ai décrit avant,
+
+777
+00:33:51,380 --> 00:33:53,700
+et chaque objet, quand il "ressent" une force,
+
+778
+00:33:53,990 --> 00:33:55,930
+accélère et change son mouvement
+
+779
+00:33:56,160 --> 00:33:57,600
+d'une certaine quantité par seconde
+
+780
+00:33:57,630 --> 00:33:59,110
+comme je l'ai décrit avant
+
+781
+00:33:59,170 --> 00:34:01,380
+je l'ai appelée la loi de Newton.
+
+782
+00:34:01,760 --> 00:34:03,850
+Maintenant quelque-chose de très différent.
+
+783
+00:34:04,120 --> 00:34:07,310
+Cette loi dit que la force
+dépend de quelque-chose
+
+784
+00:34:07,320 --> 00:34:09,550
+à une certaine distance de là.
+
+785
+00:34:09,980 --> 00:34:12,660
+Elle a un aspect non local,
+
+786
+00:34:12,720 --> 00:34:15,150
+la force ici dépend de
+ce qui se trouve là-bas,
+
+787
+00:34:15,250 --> 00:34:18,760
+et peut être que vous n'aimez pas l'idée d'action à distance,
+
+788
+00:34:19,070 --> 00:34:21,270
+" Il ne peut pas savoir ce qui se passe là-bas."
+
+789
+00:34:21,360 --> 00:34:23,030
+Il y a donc une autre
+façon de poser la loi
+
+790
+00:34:23,070 --> 00:34:24,470
+qui est vraiment étrange
+
+791
+00:34:24,510 --> 00:34:27,520
+et on l'appelle la loi du champ.
+
+792
+00:34:27,700 --> 00:34:29,460
+C'est difficile à expliquer,
+
+793
+00:34:29,540 --> 00:34:32,570
+mais je veux juste vous
+en donner l'idée générale.
+
+794
+00:34:32,710 --> 00:34:36,050
+Son énoncé est différent,
+complètement différent.
+
+795
+00:34:36,640 --> 00:34:38,930
+Il y a un nombre en
+chaque point de l'espace,
+
+796
+00:34:39,070 --> 00:34:40,930
+je sais c'est un nombre,
+ce n'est pas un mécanisme
+
+797
+00:34:41,010 --> 00:34:44,320
+c'est le problème avec la physique c'est qu'elle doit être mathématique.
+
+798
+00:34:44,620 --> 00:34:46,660
+Il y a un nombre en
+chaque point de l'espace,
+
+799
+00:34:46,820 --> 00:34:49,110
+ici il y'a un nombre, ici aussi etc...
+
+800
+00:34:49,380 --> 00:34:53,050
+et ce nombre change quand
+on va d'un endroit à l'autre.
+
+801
+00:34:53,500 --> 00:34:55,970
+Si un objet est placé en un point
+
+802
+00:34:56,200 --> 00:34:57,510
+quelque-part dans l'espace,
+
+803
+00:34:57,570 --> 00:34:58,810
+la force qu'il ressent
+
+804
+00:34:58,920 --> 00:35:01,010
+est dirigée dans la
+direction où ce nombre
+
+805
+00:35:01,180 --> 00:35:03,670
+on lui donne un nom, le potentiel,
+
+806
+00:35:03,950 --> 00:35:05,940
+dans la direction où ce potentiel
+
+807
+00:35:06,020 --> 00:35:08,110
+change le plus rapidement possible.
+
+808
+00:35:08,320 --> 00:35:11,750
+Et la force est proportionnelle à la rapidité à laquelle il change quand vous bougez.
+
+809
+00:35:12,080 --> 00:35:13,010
+C'est le premier point,
+
+810
+00:35:13,060 --> 00:35:15,010
+ce n'est pas suffisant
+car je dois aussi vous dire
+
+811
+00:35:15,060 --> 00:35:17,690
+comment déterminer
+la variation de ce potentiel.
+
+812
+00:35:17,980 --> 00:35:21,880
+Je peux dire que le potentiel varie comme l'inverse de la distance entre deux objets.
+
+813
+00:35:22,080 --> 00:35:26,210
+mais c'est un retour à
+l'idée d'action à distance.
+
+814
+00:35:26,710 --> 00:35:30,000
+Mais vous pouvez énoncer
+la loi d'une autre manière,
+
+815
+00:35:30,160 --> 00:35:31,550
+et dire :
+
+816
+00:35:31,780 --> 00:35:34,360
+je n'ai pas besoin de savoir ce qu'il y a
+
+817
+00:35:34,390 --> 00:35:36,160
+en dehors d'une petite boule
+
+818
+00:35:36,350 --> 00:35:39,110
+si vous voulez savoir quel est le potentiel ici
+
+819
+00:35:39,200 --> 00:35:42,870
+dites moi quelle est sa valeur à la surface d'une boule, si petite soit elle,
+
+820
+00:35:42,980 --> 00:35:44,190
+ne regardez pas
+à l'extérieur,
+
+821
+00:35:44,220 --> 00:35:45,970
+dites moi seulement
+ce qu'il y a au voisinage
+
+822
+00:35:46,010 --> 00:35:47,960
+et combien de masse
+il y a dans la boule.
+
+823
+00:35:48,080 --> 00:35:49,060
+La règle est la suivante :
+
+824
+00:35:49,190 --> 00:35:52,470
+le potentiel au centre
+
+825
+00:35:53,010 --> 00:35:55,700
+est égal au potentiel moyen
+
+826
+00:35:56,150 --> 00:35:58,210
+à la surface de la petite boule.
+
+827
+00:36:00,800 --> 00:36:01,730
+moins
+
+828
+00:36:01,850 --> 00:36:04,350
+la constante qu'on a
+dans l'autre équation
+
+829
+00:36:04,450 --> 00:36:06,920
+divisée par deux fois le rayon de la boule
+
+830
+00:36:06,980 --> 00:36:09,690
+où le rayon de la boule est égal à a,
+
+831
+00:36:09,890 --> 00:36:12,790
+et multipliée par la
+masse à l'intérieur de la boule,
+
+832
+00:36:12,900 --> 00:36:14,640
+si la boule est assez petite.
+
+833
+00:36:14,720 --> 00:36:17,300
+Vous voyez que cette loi
+
+834
+00:36:17,490 --> 00:36:18,710
+est différente de l'autre
+
+835
+00:36:18,780 --> 00:36:23,300
+car elle dit ce qui arrive en un point à partir des points voisins.
+
+836
+00:36:23,680 --> 00:36:26,610
+Les lois de Newton disent
+ce qui arrive à un instant
+
+837
+00:36:26,670 --> 00:36:28,810
+à partir de l'instant voisin.
+
+838
+00:36:29,040 --> 00:36:31,190
+Elle dit comment faire
+entre deux instants.
+
+839
+00:36:31,270 --> 00:36:33,810
+Mais en espace elle
+saute d'un point à l'autre.
+
+840
+00:36:33,950 --> 00:36:38,340
+Mais celle-ci est locale
+en temps et aussi en espace,
+
+841
+00:36:38,350 --> 00:36:40,970
+car elle ne dépend que de
+ce qui se passe au voisinage.
+
+842
+00:36:42,290 --> 00:36:44,300
+Il y a une autre façon
+
+843
+00:36:44,650 --> 00:36:48,470
+de représenter cette loi, d'une manière radicalement différente.
+
+844
+00:36:48,610 --> 00:36:51,340
+Il y a des différences dans
+la philosophie,
+
+845
+00:36:51,540 --> 00:36:52,860
+dans les idées mises en jeu.
+
+846
+00:36:52,900 --> 00:36:54,180
+Si vous n'aimez pas l'action à distance
+
+847
+00:36:54,230 --> 00:36:55,800
+vous pouvez vous en
+débarrasser avec celle-ci.
+
+848
+00:36:55,860 --> 00:36:59,440
+Je veux vous en montrer une qui est à l'opposé philosophiquement.
+
+849
+00:36:59,530 --> 00:37:01,220
+Où on ne dit rien
+
+850
+00:37:01,250 --> 00:37:03,700
+sur comment un objet
+va d'un endroit à l'autre,
+
+851
+00:37:03,810 --> 00:37:05,840
+où tout est contenu
+dans un seul énoncé,
+
+852
+00:37:05,940 --> 00:37:07,850
+qui s'énonce comme suit.
+
+853
+00:37:08,600 --> 00:37:10,210
+Si vous avez un certain
+nombre de particules
+
+854
+00:37:10,260 --> 00:37:12,390
+et vous voulez savoir
+comment celle-là se déplace
+
+855
+00:37:12,550 --> 00:37:14,860
+d'un endroit à l'autre.
+
+856
+00:37:16,030 --> 00:37:17,690
+Vous procédez ainsi :
+
+857
+00:37:19,080 --> 00:37:20,870
+vous calculez une quantité,
+
+858
+00:37:21,130 --> 00:37:22,860
+vous pouvez inventer un chemin possible,
+
+859
+00:37:22,860 --> 00:37:27,380
+essayer de deviner quel est le chemin suivi entre deux points
+
+860
+00:37:27,490 --> 00:37:28,580
+en un temps donné.
+
+861
+00:37:28,620 --> 00:37:30,650
+Elle veut aller d'ici à ici en une heure.
+
+862
+00:37:30,710 --> 00:37:33,990
+Vous voulez savoir par quel chemin elle passe pour aller d'ici à ici en une heure.
+
+863
+00:37:34,100 --> 00:37:35,420
+Suivant quelle courbe ?
+
+864
+00:37:35,660 --> 00:37:38,310
+Vous calculez une quantité pour chaque courbe imaginaire
+
+865
+00:37:38,360 --> 00:37:39,720
+Si vous essayez cette courbe,
+
+866
+00:37:39,790 --> 00:37:41,930
+vous trouvez une valeur
+pour cette quantité.
+
+867
+00:37:42,020 --> 00:37:44,290
+Je ne veux pas dire
+quelle est cette quantité
+
+868
+00:37:44,450 --> 00:37:46,400
+mais ceux qui connaissent cette idée
+
+869
+00:37:46,500 --> 00:37:49,030
+cette quantité pour une
+route est la moyenne
+
+870
+00:37:49,210 --> 00:37:52,500
+de la différence entre l'énergie
+cinétique et potentielle.
+
+871
+00:37:53,110 --> 00:37:56,090
+Si vous calculez cette
+quantité pour cette route
+
+872
+00:37:56,320 --> 00:37:57,650
+et pour une autre route,
+
+873
+00:37:57,730 --> 00:38:00,410
+vous obtenez évidemment
+des valeurs différentes.
+
+874
+00:38:01,260 --> 00:38:02,370
+Mais il y a une route
+
+875
+00:38:02,410 --> 00:38:05,480
+qui donne le plus petit nombre possible,
+
+876
+00:38:06,100 --> 00:38:08,540
+et c'est la route que suit la particule.
+
+877
+00:38:09,170 --> 00:38:12,110
+Nous décrivons alors le
+mouvement suivant une ellipse
+
+878
+00:38:12,450 --> 00:38:15,010
+en parlant de la courbe toute entière.
+
+879
+00:38:15,310 --> 00:38:17,300
+Nous avons perdu l'idée de causalité
+
+880
+00:38:17,330 --> 00:38:18,530
+" La particule est là "
+
+881
+00:38:18,580 --> 00:38:21,120
+" elle sent l'attraction et va là-bas ... "
+
+882
+00:38:21,490 --> 00:38:24,280
+Au lieu de ça, d'une manière générale
+
+883
+00:38:24,500 --> 00:38:26,770
+elle sent toutes les courbes dans cette zone
+
+884
+00:38:26,800 --> 00:38:28,170
+toutes les possibilités,
+
+885
+00:38:28,460 --> 00:38:31,450
+et elle décide laquelle suivre.
+
+886
+00:38:33,470 --> 00:38:35,820
+C'est un exemple de
+l'immense variété
+
+887
+00:38:35,860 --> 00:38:38,480
+d'approches pour décrire
+élégamment la Nature.
+
+888
+00:38:38,660 --> 00:38:40,060
+Et quand des gens disent
+
+889
+00:38:40,080 --> 00:38:41,940
+" La Nature doit respecter la causalité. "
+
+890
+00:38:42,400 --> 00:38:44,150
+Ok, mais vous pouvez le
+dire de cette manière.
+
+891
+00:38:44,450 --> 00:38:47,380
+" La Nature doit respecter le principe de moindre action. "
+
+892
+00:38:47,420 --> 00:38:49,110
+Ok, mais vous pouvez
+en parler de cette manière.
+
+893
+00:38:49,470 --> 00:38:51,090
+" La Nature doit avoir un champ local. "
+
+894
+00:38:51,150 --> 00:38:52,980
+Vous pouvez utiliser ça, et ainsi de suite.
+
+895
+00:38:53,720 --> 00:38:54,970
+Et la question est
+
+896
+00:38:55,410 --> 00:38:57,310
+laquelle est la bonne ?
+
+897
+00:38:59,410 --> 00:39:01,650
+Si toutes ces alternatives
+
+898
+00:39:01,800 --> 00:39:04,620
+ne sont pas tout à fait équivalentes d'un point de vue mathématique,
+
+899
+00:39:05,010 --> 00:39:09,560
+et si certaines ont des
+conséquences différentes
+
+900
+00:39:09,950 --> 00:39:11,910
+alors il n'y a pas de problème,
+
+901
+00:39:11,960 --> 00:39:15,180
+car nous avons seulement
+à réaliser des expériences pour trouver
+
+902
+00:39:15,540 --> 00:39:18,350
+comment la Nature s'y prend vraiment.
+
+903
+00:39:18,870 --> 00:39:21,250
+Des gens vous donnent souvent des arguments philosophiques
+
+904
+00:39:21,280 --> 00:39:22,730
+en faveur de celle-ci
+plutôt qu'une autre
+
+905
+00:39:22,790 --> 00:39:25,060
+mais nous avons appris
+après toutes nos expériences
+
+906
+00:39:25,170 --> 00:39:26,380
+que notre intuition
+
+907
+00:39:26,440 --> 00:39:28,740
+quant à ce que la Nature
+est " sensée être ",
+
+908
+00:39:28,930 --> 00:39:29,870
+faillit.
+
+909
+00:39:30,770 --> 00:39:32,300
+Ça ne marche jamais.
+
+910
+00:39:32,790 --> 00:39:35,200
+Nous pouvons juste comprendre
+toutes ces possibilités
+
+911
+00:39:35,240 --> 00:39:37,200
+et toutes les essayer.
+
+912
+00:39:37,400 --> 00:39:40,120
+Dans le cas particulier
+dont je vous parle ici
+
+913
+00:39:40,420 --> 00:39:43,090
+ces théories sont toutes équivalentes.
+
+914
+00:39:43,450 --> 00:39:44,960
+Les conséquences mathématiques
+
+915
+00:39:45,000 --> 00:39:47,600
+de chacune de ces trois formulations
+
+916
+00:39:47,650 --> 00:39:51,780
+la loi de Newton, le champ local et le principe du moindre action
+
+917
+00:39:52,010 --> 00:39:53,760
+sont exactement les mêmes.
+
+918
+00:39:53,860 --> 00:39:55,060
+Que faire alors ?
+
+919
+00:39:55,260 --> 00:39:57,060
+Vous lirez dans tous les livres
+
+920
+00:39:57,260 --> 00:40:02,050
+que nous ne pouvons pas scientifiquement faire un choix entre ces méthodes.
+
+921
+00:40:03,120 --> 00:40:05,500
+Elles sont toutes équivalentes,
+
+922
+00:40:05,570 --> 00:40:08,380
+scientifiquement, il est
+impossible de trancher.
+
+923
+00:40:09,600 --> 00:40:11,570
+Il n'y a aucune expérience
+capable de les distinguer
+
+924
+00:40:11,600 --> 00:40:13,650
+car leurs conséquences
+sont toutes identiques.
+
+925
+00:40:14,130 --> 00:40:16,230
+Psychologiquement,
+elles sont très différentes.
+
+926
+00:40:16,280 --> 00:40:18,490
+Vous pouvez aimer leur
+philosophie ou non.
+
+927
+00:40:18,580 --> 00:40:22,410
+L'exercice, c'est le seul moyen de lutter contre cette maladie.
+
+928
+00:40:24,630 --> 00:40:26,760
+Psychologiquement,
+elles sont différentes.
+
+929
+00:40:26,920 --> 00:40:28,480
+Parce que
+
+930
+00:40:28,830 --> 00:40:30,750
+elles ne sont pas du tout équivalentes
+
+931
+00:40:30,850 --> 00:40:33,330
+pour trouver une nouvelle loi.
+
+932
+00:40:33,640 --> 00:40:35,330
+Tant que la physique est incomplète
+
+933
+00:40:35,370 --> 00:40:37,310
+et que nous essayons
+de trouver d'autres lois,
+
+934
+00:40:37,370 --> 00:40:39,000
+de comprendre les autres lois,
+
+935
+00:40:39,170 --> 00:40:42,420
+ces différentes formulations
+donnent des indices
+
+936
+00:40:42,730 --> 00:40:44,750
+sur ce qui pourrait arriver
+dans d'autres circonstances.
+
+937
+00:40:44,820 --> 00:40:46,840
+Et elles ne sont plus équivalentes
+
+938
+00:40:46,920 --> 00:40:50,340
+dans leur capacité à nous suggérer
+
+939
+00:40:50,390 --> 00:40:54,320
+ce à quoi les lois ressemblent dans des situations nouvelles.
+
+940
+00:40:54,400 --> 00:40:55,550
+Par exemple,
+
+941
+00:40:56,610 --> 00:41:00,300
+à propos de la loi de
+la gravitation, Einstein réalisa
+
+942
+00:41:00,370 --> 00:41:04,900
+qu'un signal électrique ne pouvait pas se déplacer plus vite que la vitesse de la lumière.
+
+943
+00:41:05,170 --> 00:41:06,860
+Il devina que c'était
+un principe général
+
+944
+00:41:07,010 --> 00:41:09,090
+c'est le même jeu de devinettes
+
+945
+00:41:09,170 --> 00:41:10,980
+qu'avec le moment angulaire
+
+946
+00:41:10,980 --> 00:41:14,240
+qu'on étend de là où on l'a
+prouvé au reste de l'univers.
+
+947
+00:41:14,300 --> 00:41:18,000
+Il devina que c'était vrai, donc que c'était vrai aussi pour la gravitation.
+
+948
+00:41:18,270 --> 00:41:21,380
+Si les signaux ne peuvent pas dépasser la vitesse de la lumière
+
+949
+00:41:21,520 --> 00:41:22,610
+cela signifie
+
+950
+00:41:22,690 --> 00:41:23,600
+que la méthode
+
+951
+00:41:23,680 --> 00:41:25,680
+utilisant des forces instantanées
+
+952
+00:41:25,710 --> 00:41:26,850
+est très médiocre.
+
+953
+00:41:27,040 --> 00:41:29,190
+Dans la généralisation d'Einstein
+
+954
+00:41:29,590 --> 00:41:30,610
+de la gravitation,
+
+955
+00:41:30,720 --> 00:41:32,740
+cette méthode pour décrire la physique
+
+956
+00:41:33,000 --> 00:41:36,000
+est désespéramment
+inadéquate et très compliquée.
+
+957
+00:41:36,280 --> 00:41:38,130
+Alors que celle-ci est habile et simple,
+
+958
+00:41:38,280 --> 00:41:39,290
+celle-là également,
+
+959
+00:41:39,320 --> 00:41:41,480
+nous n'avons pas
+encore choisi entre les deux.
+
+960
+00:41:43,550 --> 00:41:45,670
+Il se trouve qu'en
+mécanique quantique,
+
+961
+00:41:46,160 --> 00:41:47,330
+définies comme je l'ai fait
+
+962
+00:41:47,370 --> 00:41:49,020
+aucune de ces deux
+méthodes est correcte.
+
+963
+00:41:50,470 --> 00:41:52,450
+Le fait qu'un principe de moindre action existe
+
+964
+00:41:52,550 --> 00:41:54,290
+est une conséquence
+
+965
+00:41:54,370 --> 00:41:55,910
+du fait qu'à petites échelles
+
+966
+00:41:56,110 --> 00:41:58,580
+les particules obéissent
+à la mécanique quantique.
+
+967
+00:42:00,930 --> 00:42:04,410
+La meilleure loi pour avancer est une combinaison des deux
+
+968
+00:42:04,560 --> 00:42:06,370
+où on utilise le principe de moindre action
+
+969
+00:42:06,400 --> 00:42:08,840
+plus des forces locales.
+
+970
+00:42:09,380 --> 00:42:11,210
+Nous croyons à présent
+
+971
+00:42:11,780 --> 00:42:13,270
+que les lois de la
+physique doivent avoir
+
+972
+00:42:13,280 --> 00:42:16,820
+un caractère local et un
+principe de moindre action.
+
+973
+00:42:19,170 --> 00:42:21,380
+Mais nous ne le savons pas vraiment.
+
+974
+00:42:25,560 --> 00:42:26,640
+C'est comme ça,
+
+975
+00:42:26,720 --> 00:42:28,470
+si vous avez une structure
+
+976
+00:42:28,830 --> 00:42:30,550
+très approximative
+
+977
+00:42:30,620 --> 00:42:32,760
+et si quelque-chose finit par s’effondrer,
+
+978
+00:42:33,060 --> 00:42:34,890
+si vous avez trouvé les bons axiomes
+
+979
+00:42:34,930 --> 00:42:36,460
+peut être qu'un axiome est faux
+
+980
+00:42:36,510 --> 00:42:38,820
+et le reste demeure,
+changez juste un petit truc.
+
+981
+00:42:39,020 --> 00:42:41,550
+Mais si vous prenez
+un autre jeu d'axiomes
+
+982
+00:42:41,750 --> 00:42:44,940
+tout s'effondre car tout
+était basé sur celui-là.
+
+983
+00:42:45,880 --> 00:42:47,650
+Mais nous ne pouvons
+pas savoir à l' avance
+
+984
+00:42:47,700 --> 00:42:49,280
+sans une certaine intuition,
+
+985
+00:42:49,580 --> 00:42:51,570
+lesquels il faut choisir
+
+986
+00:42:51,620 --> 00:42:53,440
+avant de se retrouver
+dans une nouvelle situation.
+
+987
+00:42:53,490 --> 00:42:58,350
+Nous devons donc toujours garder en tête toutes ces approches.
+
+988
+00:42:58,560 --> 00:43:01,560
+Donc les physiciens font des mathématiques babyloniennes,
+
+989
+00:43:01,700 --> 00:43:03,070
+et n'apportent que peu d'attention
+
+990
+00:43:03,110 --> 00:43:06,570
+à un raisonnement particulier
+fondé sur quelques axiomes.
+
+991
+00:43:07,760 --> 00:43:10,000
+Une des caractéristiques
+fascinantes de la Nature
+
+992
+00:43:10,050 --> 00:43:13,680
+c'est cet éventail d'interprétations possibles.
+
+993
+00:43:14,000 --> 00:43:15,450
+Il se trouve que c'est
+seulement possible
+
+994
+00:43:15,480 --> 00:43:18,120
+parce que les lois n'ont rien de
+spécial et sont fragiles.
+
+995
+00:43:18,180 --> 00:43:18,950
+Par exemple,
+
+996
+00:43:19,540 --> 00:43:22,040
+Que la loi soit en inverse du carré
+
+997
+00:43:22,350 --> 00:43:24,180
+c'est ce qui lui permet de devenir locale.
+
+998
+00:43:24,210 --> 00:43:27,100
+Si c'était en inverse du cube
+ça n'aurait pas été le cas.
+
+999
+00:43:27,700 --> 00:43:29,360
+A l'autre bout de l'équation
+
+1000
+00:43:29,420 --> 00:43:32,870
+que la force soit reliée à l’accélération
+
+1001
+00:43:34,980 --> 00:43:39,000
+nous permet d'écrire la loi sous la forme du principe de moindre action
+
+1002
+00:43:39,040 --> 00:43:42,160
+car si la force était proportionnelle par exemple
+
+1003
+00:43:42,660 --> 00:43:44,690
+à la vitesse,
+
+1004
+00:43:45,170 --> 00:43:46,190
+au lieu de l'accélération
+
+1005
+00:43:46,230 --> 00:43:47,960
+vous ne pourriez pas
+l'écrire de cette façon.
+
+1006
+00:43:49,090 --> 00:43:50,840
+Si vous essayez de modifier les lois
+
+1007
+00:43:50,880 --> 00:43:53,710
+vous trouvez qu'il n'y a plus beaucoup de manière de l'écrire autrement.
+
+1008
+00:43:53,760 --> 00:43:57,020
+J'ai toujours trouvé ça mystérieux
+et j'en ignore la raison.
+
+1009
+00:43:57,100 --> 00:43:59,880
+Pourquoi les lois de la
+physique ont cette capacité
+
+1010
+00:43:59,940 --> 00:44:03,590
+de pouvoir s'exprimer de tant
+de manières différentes ?
+
+1011
+00:44:03,710 --> 00:44:07,800
+On dirait qu'elles sont passées en même temps à travers plusieurs guichets (cricket) .
+
+1012
+00:44:13,060 --> 00:44:16,040
+A présent je voudrai faire
+quelques remarques
+
+1013
+00:44:16,050 --> 00:44:17,830
+sur la relation maths/physique
+
+1014
+00:44:17,950 --> 00:44:19,570
+un peu plus générales.
+
+1015
+00:44:20,070 --> 00:44:23,030
+La première est que les mathématiciens
+
+1016
+00:44:24,080 --> 00:44:27,100
+ne sont intéressés que par
+la structure du raisonnement
+
+1017
+00:44:27,450 --> 00:44:30,710
+et ils ne soucient pas
+vraiment de quoi ils parlent.
+
+1018
+00:44:31,690 --> 00:44:34,110
+Ils n'ont même pas à
+savoir de quoi ils parlent
+
+1019
+00:44:34,110 --> 00:44:37,440
+ou comme ils disent, si ce
+qu'ils disent est vrai.
+
+1020
+00:44:37,760 --> 00:44:39,090
+Je vais expliquer ça.
+
+1021
+00:44:39,300 --> 00:44:42,130
+Si vous posez un axiome
+
+1022
+00:44:42,490 --> 00:44:45,550
+vous dites : " sachant ceci, cela, ceci ... "
+
+1023
+00:44:45,590 --> 00:44:46,950
+" alors quoi ? "
+
+1024
+00:44:47,230 --> 00:44:48,480
+La logique
+
+1025
+00:44:48,680 --> 00:44:51,150
+peut faire son chemin, sans savoir
+
+1026
+00:44:51,490 --> 00:44:54,340
+ce que "sachant ceci et cela " signifie.
+
+1027
+00:44:54,820 --> 00:44:58,670
+C'est à dire que si les
+axiomes sont bons,
+
+1028
+00:44:58,880 --> 00:45:01,630
+je veux dire soigneusement posés et clairs,
+
+1029
+00:45:01,770 --> 00:45:03,920
+il n'est pas nécessaire pour
+celui qui fait le raisonnement
+
+1030
+00:45:03,970 --> 00:45:06,930
+de connaître le sens de ces mots.
+
+1031
+00:45:07,350 --> 00:45:09,730
+Et il sera capable d'en tirer,
+dans le même langage,
+
+1032
+00:45:09,800 --> 00:45:11,470
+de nouvelles conclusions.
+
+1033
+00:45:11,510 --> 00:45:13,750
+Si j'utilise le mot triangle dans un axiome
+
+1034
+00:45:13,890 --> 00:45:16,290
+il y aura une proposition sur les triangles dans les conclusions.
+
+1035
+00:45:16,390 --> 00:45:19,740
+Même si la personne qui réfléchit ne sais pas ce qu'est un triangle.
+
+1036
+00:45:19,960 --> 00:45:21,650
+Après je peux lire son
+raisonnement à l'envers
+
+1037
+00:45:21,680 --> 00:45:24,950
+et dire "Oh, un triangle ! C'est juste un truc à trois côtés avec ceci et cela "
+
+1038
+00:45:25,060 --> 00:45:26,770
+et alors je comprends ses conclusions.
+
+1039
+00:45:26,930 --> 00:45:27,530
+En d'autres termes,
+
+1040
+00:45:27,570 --> 00:45:29,860
+les mathématiciens préparent
+du raisonnement abstrait
+
+1041
+00:45:29,990 --> 00:45:31,330
+prêt à être utilisé
+
+1042
+00:45:31,390 --> 00:45:33,470
+si vous trouvez un set d'axiomes
+
+1043
+00:45:33,520 --> 00:45:34,500
+pour le monde réel.
+
+1044
+00:45:34,530 --> 00:45:35,870
+Mais les physiciens
+
+1045
+00:45:36,250 --> 00:45:37,970
+mettent du sens dans toutes leurs phrases
+
+1046
+00:45:38,100 --> 00:45:40,500
+et il y' a quelque-chose de
+très important que les gens
+
+1047
+00:45:40,630 --> 00:45:42,870
+qui étudient la physique après avoir fait des mathématiques
+
+1048
+00:45:42,920 --> 00:45:43,980
+ne saisissent pas.
+
+1049
+00:45:44,090 --> 00:45:45,690
+La physique ce n'est pas les mathématiques
+
+1050
+00:45:45,810 --> 00:45:47,390
+et les mathématiques
+ne sont pas de la physique.
+
+1051
+00:45:47,540 --> 00:45:49,010
+L'un aide l'autre.
+
+1052
+00:45:49,700 --> 00:45:53,090
+Mais en physique vous devez
+comprendre les relations
+
+1053
+00:45:53,210 --> 00:45:55,430
+entre les mots et le monde réel.
+
+1054
+00:45:55,980 --> 00:45:59,320
+Vous pouvez traduire à la
+fin ce que vous avez trouvé
+
+1055
+00:45:59,480 --> 00:46:00,820
+en anglais.
+
+1056
+00:46:00,950 --> 00:46:02,510
+en réel,
+
+1057
+00:46:02,770 --> 00:46:05,500
+en pièce de cuivre et de verre si vous devez faire une expérience,
+
+1058
+00:46:05,500 --> 00:46:08,510
+pour savoir si ce qui
+est prédit est correct.
+
+1059
+00:46:08,880 --> 00:46:12,640
+Et c'est un problème qui ne
+concerne pas du tout les mathématiques.
+
+1060
+00:46:16,260 --> 00:46:18,720
+J'ai déjà mentionné le fait que
+
+1061
+00:46:18,960 --> 00:46:21,760
+les développements faits en mathématiques
+
+1062
+00:46:21,780 --> 00:46:24,640
+sont très puissants et
+d'une grande aide en physique.
+
+1063
+00:46:26,370 --> 00:46:27,300
+D'un autre côté,
+
+1064
+00:46:27,340 --> 00:46:30,860
+le raisonnement des physiciens est parfois utile pour les mathématiens.
+
+1065
+00:46:31,680 --> 00:46:33,390
+Les mathématiciens aiment aussi
+
+1066
+00:46:33,570 --> 00:46:36,040
+rendre leurs raisonnements aussi généraux que possible.
+
+1067
+00:46:36,370 --> 00:46:38,820
+Si vous dites : " j'ai un espace à trois dimensions "
+
+1068
+00:46:38,920 --> 00:46:41,460
+l'espace ordinaire, je veux
+parler de l'espace ordinaire,
+
+1069
+00:46:41,490 --> 00:46:44,370
+vous y êtes et vous avez besoin de trois nombres pour dire
+
+1070
+00:46:44,450 --> 00:46:46,080
+où se trouve quelque-chose,
+
+1071
+00:46:46,540 --> 00:46:48,420
+longueur, largeur et hauteur.
+
+1072
+00:46:49,540 --> 00:46:50,370
+Un espace à trois dimensions
+
+1073
+00:46:50,370 --> 00:46:52,230
+et vous leur demandez un théorème.
+
+1074
+00:46:52,380 --> 00:46:55,270
+ils vous disent : "Dans un espace à N dimensions..."
+
+1075
+00:46:55,670 --> 00:46:56,700
+" ... voici le théorème. "
+
+1076
+00:46:56,770 --> 00:46:58,430
+" Mais moi je ne veux qu'à 3 "
+
+1077
+00:46:58,470 --> 00:47:00,140
+" Et bien remplace N par 3 ! "
+
+1078
+00:47:06,720 --> 00:47:08,200
+Et il se trouve
+
+1079
+00:47:08,450 --> 00:47:10,780
+que la plupart de leurs
+théorèmes compliqués
+
+1080
+00:47:10,820 --> 00:47:13,730
+sont beaucoup plus simples
+dans les cas particuliers.
+
+1081
+00:47:13,820 --> 00:47:17,310
+Et les physiciens sont toujours intéressés par les cas particuliers.
+
+1082
+00:47:17,460 --> 00:47:20,100
+Et il n'est jamais intéressé par le cas général.
+
+1083
+00:47:20,240 --> 00:47:23,280
+Il est en train de parler
+de quelque-chose.
+
+1084
+00:47:23,730 --> 00:47:26,060
+Il ne parle pas des choses
+de manière abstraite.
+
+1085
+00:47:26,130 --> 00:47:27,490
+Il sait de quoi il parle.
+
+1086
+00:47:27,520 --> 00:47:29,140
+il veut aborder
+
+1087
+00:47:29,440 --> 00:47:30,360
+la loi de la gravité.
+
+1088
+00:47:30,360 --> 00:47:32,610
+Il ne veut pas le cas d'une force arbitraire.
+
+1089
+00:47:32,660 --> 00:47:33,680
+Il veut la gravité.
+
+1090
+00:47:34,200 --> 00:47:37,600
+Il y a donc des réductions à faire
+
+1091
+00:47:37,630 --> 00:47:39,850
+car les mathématiciens ont préparé ces choses
+
+1092
+00:47:40,010 --> 00:47:42,450
+pour une grande classe de problèmes où elles sont utiles.
+
+1093
+00:47:42,590 --> 00:47:44,140
+Et l'instant d'après il s'avère
+
+1094
+00:47:44,250 --> 00:47:46,650
+que le pauvre physicien doit revenir et dire "excusez moi "
+
+1095
+00:47:46,740 --> 00:47:50,450
+" quand vous vouliez me parler de ces 4 dimensions ... "
+
+1096
+00:48:06,020 --> 00:48:09,350
+Une autre chose intéressante dans cette relation
+
+1097
+00:48:09,600 --> 00:48:12,480
+est de savoir comment faire
+de la nouvelle physique.
+
+1098
+00:48:13,070 --> 00:48:15,240
+Est-ce important d'avoir la sensation...
+
+1099
+00:48:15,470 --> 00:48:18,060
+Oh, je dois parler d'un autre aspect avant.
+
+1100
+00:48:18,210 --> 00:48:20,080
+Quand vous savez de quoi vous parlez
+
+1101
+00:48:20,080 --> 00:48:24,360
+que ces choses sont des forces, des masses, et ceci l'inertie etc...
+
+1102
+00:48:24,550 --> 00:48:27,120
+alors vous pouvez utiliser du sens commun,
+
+1103
+00:48:27,300 --> 00:48:28,980
+issu de votre expérience du monde.
+
+1104
+00:48:28,980 --> 00:48:30,140
+Vous avez vu différentes choses
+
+1105
+00:48:30,180 --> 00:48:33,820
+vous savez plus ou moins quels phénomènes vont se produire
+
+1106
+00:48:33,850 --> 00:48:35,040
+Alors que le pauvre mathématicien
+
+1107
+00:48:35,070 --> 00:48:36,870
+traduit tout ça en équation
+
+1108
+00:48:36,910 --> 00:48:38,160
+et les symboles n'ont aucun sens
+
+1109
+00:48:38,210 --> 00:48:39,650
+il n'a pas de guide,
+
+1110
+00:48:39,720 --> 00:48:43,410
+à part une rigueur mathématique
+et une grande vigilance.
+
+1111
+00:48:43,570 --> 00:48:46,920
+Alors que le physicien peut savoir plus ou moins où se trouve la réponse
+
+1112
+00:48:46,960 --> 00:48:50,750
+la devine en partie et peut
+aller au bout plus rapidement.
+
+1113
+00:48:50,880 --> 00:48:52,680
+La rigueur mathématique
+
+1114
+00:48:53,560 --> 00:48:56,290
+n'est pas très utile en physique.
+
+1115
+00:48:56,420 --> 00:48:59,910
+Les mathématiques modernes sont fondées sur les axiomes.
+
+1116
+00:49:00,120 --> 00:49:02,390
+Les mathématiciens font ce qu'ils veulent
+
+1117
+00:49:02,450 --> 00:49:05,960
+on ne devrait pas les critiquer parce qu' ils
+ne sont pas asservis à la physique.
+
+1118
+00:49:06,150 --> 00:49:09,610
+Ce n'est pas parce que quelque-chose pourrait être utile en physique
+
+1119
+00:49:09,760 --> 00:49:11,120
+qu'ils doivent le faire pour vous.
+
+1120
+00:49:11,250 --> 00:49:13,260
+Ils peuvent faire ce qu'ils veulent.
+
+1121
+00:49:13,550 --> 00:49:15,010
+Ils sont leur propre juge.
+
+1122
+00:49:15,090 --> 00:49:18,480
+Et si vous voulez autre chose, vous pouvez le faire vous même.
+
+1123
+00:49:20,730 --> 00:49:24,030
+Viens la question de savoir
+ce que nous devons deviner
+
+1124
+00:49:24,080 --> 00:49:26,110
+quand nous essayons
+d'obtenir une nouvelle loi.
+
+1125
+00:49:26,160 --> 00:49:28,110
+Devons nous utiliser notre sens commun
+
+1126
+00:49:28,150 --> 00:49:29,600
+et des principes philosophiques ?
+
+1127
+00:49:29,700 --> 00:49:31,260
+" Je n'aime pas le principe de moindre action "
+
+1128
+00:49:31,300 --> 00:49:32,980
+" ou j'aime bien le principe de moindre action. "
+
+1129
+00:49:33,120 --> 00:49:35,430
+" Je n'aime pas l'action à distance "
+
+1130
+00:49:35,490 --> 00:49:37,250
+" ou j'aime bien l'action à distance. "
+
+1131
+00:49:37,410 --> 00:49:38,900
+La question c'est
+
+1132
+00:49:38,970 --> 00:49:41,490
+de savoir jusqu'où un modèle nous aide ?
+
+1133
+00:49:41,650 --> 00:49:43,910
+Et la chose très intéressante c'est que
+
+1134
+00:49:44,210 --> 00:49:45,410
+très souvent, les modèles nous aident
+
+1135
+00:49:45,410 --> 00:49:47,180
+et des professeurs de physique
+essayent d'enseigner
+
+1136
+00:49:47,220 --> 00:49:48,290
+comment utiliser ces modèles
+
+1137
+00:49:48,290 --> 00:49:51,630
+et comment avoir un bon sens physique de ce qu'il se passe.
+
+1138
+00:49:52,450 --> 00:49:55,460
+Mais les plus grandes
+découvertes finissent toujours
+
+1139
+00:49:55,620 --> 00:49:57,840
+par s'abstraire du modèle
+qui n'apporte rien de bon.
+
+1140
+00:49:57,910 --> 00:49:59,890
+Les découvertes de Maxwell
+en électrodynamique
+
+1141
+00:49:59,920 --> 00:50:04,130
+ont originalement été conçues avec des leviers et des engrenages imaginaires
+
+1142
+00:50:04,260 --> 00:50:07,060
+et si vous vous débarrassez des engrenages et de tout le reste
+
+1143
+00:50:07,090 --> 00:50:08,690
+la théorie reste intacte.
+
+1144
+00:50:09,090 --> 00:50:13,290
+Dirac a découvert les bonnes lois de la mécanique quantique
+
+1145
+00:50:13,550 --> 00:50:16,670
+seulement en devinant l'équation.
+
+1146
+00:50:16,830 --> 00:50:19,220
+La méthode consistant à deviner les équations semble être
+
+1147
+00:50:19,340 --> 00:50:22,110
+la meilleure méthode pour
+trouver des nouvelles lois.
+
+1148
+00:50:22,450 --> 00:50:24,800
+Cela nous montre une fois de plus que les mathématiques
+
+1149
+00:50:24,850 --> 00:50:27,610
+donnent une description profonde la Nature
+
+1150
+00:50:27,680 --> 00:50:29,550
+et tenter de décrire la Nature
+
+1151
+00:50:29,600 --> 00:50:31,140
+à l'aide de principes philosophiques
+
+1152
+00:50:31,200 --> 00:50:33,600
+ou à l'aide d'un bon sens mécanique,
+
+1153
+00:50:33,760 --> 00:50:36,500
+n'est pas une méthode efficace.
+
+1154
+00:50:38,450 --> 00:50:42,230
+Mais c'est quand même possible et je fais souvent l'hypothèse
+
+1155
+00:50:42,390 --> 00:50:46,000
+qu'en fin de compte la physique n'aura plus recours à des principes mathématiques
+
+1156
+00:50:46,100 --> 00:50:48,420
+que la mécanisme finira pas être révélé.
+
+1157
+00:50:51,290 --> 00:50:52,860
+Cela m'ennuie toujours
+
+1158
+00:50:53,030 --> 00:50:55,480
+malgré tout ce caractère local,
+
+1159
+00:50:55,770 --> 00:50:59,820
+que ce qui se passe dans une si petite région de l'espace,
+
+1160
+00:50:59,920 --> 00:51:01,690
+et dans une région du temps,
+
+1161
+00:51:01,750 --> 00:51:04,160
+selon les lois telles qu'on
+les comprend aujourd'hui,
+
+1162
+00:51:04,290 --> 00:51:07,330
+nécessite une machine à calculer réalisant un nombre infini d'opérations
+
+1163
+00:51:07,400 --> 00:51:08,420
+pour trouver la solution.
+
+1164
+00:51:08,510 --> 00:51:11,960
+Comment tout ça peut être réalisé dans un si petit espace ?
+
+1165
+00:51:13,090 --> 00:51:15,450
+Pourquoi faut il un nombre
+infini d'opérations logiques
+
+1166
+00:51:15,470 --> 00:51:20,110
+pour comprendre ce qui se passera dans un misérable petit bout d'espace-temps ?
+
+1167
+00:51:20,660 --> 00:51:22,520
+Et je fais donc souvent l'hypothèse
+
+1168
+00:51:22,530 --> 00:51:27,580
+que les lois finiront par être simples
+
+1169
+00:51:27,620 --> 00:51:28,820
+comme pour les échecs,
+
+1170
+00:51:28,900 --> 00:51:31,120
+malgré sa complexité apparente.
+
+1171
+00:51:31,340 --> 00:51:34,220
+Mais c'est une spéculation de la même nature
+
+1172
+00:51:34,280 --> 00:51:36,100
+que toutes les autres,
+" j'aime ", " je n'aime pas ",
+
+1173
+00:51:36,150 --> 00:51:39,100
+ce n'est pas bon d'avoir
+trop de préjugés à ce propos.
+
+1174
+00:51:41,980 --> 00:51:43,730
+Pour résumer,
+
+1175
+00:51:43,940 --> 00:51:48,080
+j’emploierai les mots de Jeans qui a dit
+
+1176
+00:51:48,940 --> 00:51:52,100
+" Le grand architecte semble être un mathématicien. "
+
+1177
+00:51:53,570 --> 00:51:56,560
+Et pour ceux qui ne connaissent pas les mathématiques
+
+1178
+00:51:57,410 --> 00:51:59,110
+il est plutôt difficile
+
+1179
+00:51:59,290 --> 00:52:04,360
+de transmettre ce sentiment de la beauté profonde de la Nature.
+
+1180
+00:52:05,410 --> 00:52:08,640
+C.P Snow parlait de deux cultures
+
+1181
+00:52:08,810 --> 00:52:11,350
+l'une est ceux qui feront
+
+1182
+00:52:11,440 --> 00:52:12,680
+et ceux qui ne feront pas
+
+1183
+00:52:12,700 --> 00:52:18,170
+l'expérience de comprendre suffisamment les mathématiques
+
+1184
+00:52:18,170 --> 00:52:20,640
+pour apprécier la Nature
+une fois dans leur vie.
+
+1185
+00:52:21,840 --> 00:52:23,740
+C'est dommage qu'il faille des mathématiques
+
+1186
+00:52:23,780 --> 00:52:25,860
+car les mathématiques
+sont difficiles pour certains.
+
+1187
+00:52:25,970 --> 00:52:30,720
+Je ne sais pas si c'est vrai mais quand le roi essaya d'apprendre la géométrie
+
+1188
+00:52:30,850 --> 00:52:33,170
+avec Euclide il se plaigna que c'était difficile
+
+1189
+00:52:33,460 --> 00:52:34,550
+et Euclide lui répondit
+
+1190
+00:52:34,610 --> 00:52:36,850
+qu'il n'y a pas de voie royale vers la géométrie.
+
+1191
+00:52:37,320 --> 00:52:39,280
+Et il n'y a pas de voie royale.
+
+1192
+00:52:39,410 --> 00:52:41,860
+Ce n'est pas que nous ne voulons pas,
+
+1193
+00:52:42,000 --> 00:52:47,140
+les physiciens ne peuvent pas écrire tout ça dans un autre langage.
+
+1194
+00:52:47,400 --> 00:52:49,740
+Si vous voulez étudier la Nature
+
+1195
+00:52:49,820 --> 00:52:52,290
+si vous voulez l'apprécier,
+
+1196
+00:52:52,700 --> 00:52:56,360
+vous devez utiliser le langage qui est le sien.
+
+1197
+00:52:56,730 --> 00:52:59,150
+Elle ne se révèle que sous cette forme,
+
+1198
+00:52:59,200 --> 00:53:00,780
+nous ne sommes pas prétentieux au point
+
+1199
+00:53:00,820 --> 00:53:05,370
+de lui demander de changer sans quoi nous ne lui prêterons pas attention.
+
+1200
+00:53:06,230 --> 00:53:07,840
+Il me semble
+
+1201
+00:53:12,730 --> 00:53:14,660
+que tous les raisonnements intellectuels
+
+1202
+00:53:14,810 --> 00:53:16,160
+que vous pouvez inventer
+
+1203
+00:53:16,400 --> 00:53:18,080
+ne pourront jamais
+
+1204
+00:53:18,130 --> 00:53:20,890
+ou alors très peu, communiquer aux sourds
+
+1205
+00:53:20,990 --> 00:53:24,240
+ce que vous ressentez
+en écoutant de la musique.
+
+1206
+00:53:24,570 --> 00:53:27,650
+Et tous les arguments intellectuels dans le monde ne pourront convaincre
+
+1207
+00:53:27,860 --> 00:53:29,770
+ceux de l'autre culture.
+
+1208
+00:53:30,100 --> 00:53:34,370
+Les philosophes qui essayent de vous expliquer qualitativement la Nature.
+
+1209
+00:53:34,450 --> 00:53:37,300
+Je vous l'ai décrite, je ne
+vous l'ai pas fait comprendre
+
+1210
+00:53:37,320 --> 00:53:38,650
+car c'est impossible.
+
+1211
+00:53:39,130 --> 00:53:41,620
+Nous parlons avec des sourds,
+
+1212
+00:53:44,850 --> 00:53:46,340
+peut-être
+
+1213
+00:53:46,340 --> 00:53:48,130
+que leur horizon est limité
+
+1214
+00:53:48,170 --> 00:53:50,080
+ce qui leur permet d'imaginer
+
+1215
+00:53:50,210 --> 00:53:54,240
+que le centre d'intérêt du monde est l'Homme.
+
+1216
+00:53:54,960 --> 00:53:56,080
+Merci.

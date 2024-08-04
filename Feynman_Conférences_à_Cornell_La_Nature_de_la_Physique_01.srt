@@ -1,0 +1,4489 @@
+1
+00:01:25,240 --> 00:01:27,220
+Mesdames et messieurs,
+
+2
+00:01:27,600 --> 00:01:29,220
+c'est un grand honneur de vous présenter
+
+3
+00:01:29,220 --> 00:01:30,910
+notre conférencier,
+
+4
+00:01:30,950 --> 00:01:34,750
+Mr Richard P. Feynman,
+du California Institute of Technology.
+
+5
+00:01:36,850 --> 00:01:40,190
+Le professeur Feynman est un physicien théoricien brillant,
+
+6
+00:01:40,300 --> 00:01:43,440
+qui a fait beaucoup pour apporter de la clareté là où régnait la confusion
+
+7
+00:01:43,700 --> 00:01:48,810
+due au développement spectaculaire de la physique au cours de cette période d'après-guerre.
+
+8
+00:01:49,450 --> 00:01:51,750
+De toutes ses récompenseset distinctions,
+
+9
+00:01:52,050 --> 00:01:56,190
+je ne citerai que l' Albert Einstein Reward  qu'il reçut en 1954.
+
+10
+00:01:56,570 --> 00:01:59,120
+C'est un prix décerné  tous les trois ans
+
+11
+00:01:59,160 --> 00:02:03,150
+et qui comprend une médaille d'or ainsi qu'une importante somme d'argent.
+
+12
+00:02:05,070 --> 00:02:08,240
+Le professeur Feynman a passé sa licence au MIT
+
+13
+00:02:08,240 --> 00:02:10,460
+puis il est entré à l'université de Princeton une fois son diplôme obtenu.
+
+14
+00:02:10,820 --> 00:02:14,990
+Il a travaillé sur le projet Manhattan à Princeton puis à Los Alamos.
+
+15
+00:02:15,550 --> 00:02:20,400
+Il a été engagé ici, à Cornell, comme professeur-assistant  en 1944,
+
+16
+00:02:20,630 --> 00:02:24,360
+bien qu'il ne s'y soit pas installé
+avant la fin de la guerre.
+
+17
+00:02:25,280 --> 00:02:30,400
+Je me disais que cela pourrait être intéressant de voir ce qu'on a dit de lui quand il fût engagé à Cornell.
+
+18
+00:02:30,490 --> 00:02:33,640
+alors j'ai épluché les compte-rendus de notre conseil d'administration,
+
+19
+00:02:34,350 --> 00:02:38,970
+et il n'y a absolument aucune trace écrite de sa nomination.
+
+20
+00:02:42,530 --> 00:02:45,570
+Il y a cependant près d'une
+vingtaine de références,
+
+21
+00:02:45,810 --> 00:02:50,620
+des fiches d'absence, de salaire et de promotions.
+
+22
+00:02:51,130 --> 00:02:54,350
+Un document m'a intéressé
+tout particulièrement
+
+23
+00:02:54,560 --> 00:02:57,440
+datant du 31 Juillet 1945.
+
+24
+00:02:57,460 --> 00:03:02,180
+Le responsable du département de physique écrivit au doyen de la faculté
+
+25
+00:03:02,510 --> 00:03:06,310
+que le Dr Feynman est un enseignant et un chercheur hors du commun
+
+26
+00:03:06,580 --> 00:03:09,800
+d'un niveau rarement égalé,
+
+27
+00:03:19,440 --> 00:03:24,480
+Le responsable estima qu'un salaire annuel de 3 000 dollars
+
+28
+00:03:24,480 --> 00:03:29,170
+était tout de même trop peu pour une tel membre de l'université
+
+29
+00:03:29,540 --> 00:03:36,570
+et demanda qu'on augmente le salaire du professeur Feynman de 900 dollars.
+
+30
+00:03:36,840 --> 00:03:44,770
+Le doyen, dans un élan
+de générosité inhabituel,
+
+31
+00:03:44,770 --> 00:03:48,550
+et sans tenir compte
+de la solvabilité de l'université,
+
+32
+00:03:48,550 --> 00:03:53,770
+barra la somme de 900 dollars
+et la remplaça par 1 000 dollars.
+
+33
+00:03:53,770 --> 00:04:00,510
+Vous pouvez remarquer que nous tenions déjà en haute estime Mr Feynman à cette époque.
+
+34
+00:04:02,150 --> 00:04:05,820
+Feynman s'installa définitivement ici à la fin de l'année 1945
+
+35
+00:04:05,820 --> 00:04:09,130
+et passa cinq années très productives dans notre faculté.
+
+36
+00:04:09,280 --> 00:04:14,270
+Il quitta Cornell en 1950 pour s'installer au CalTech, où il se trouve encore aujourd'hui.
+
+37
+00:04:14,950 --> 00:04:19,110
+Avant de lui laisser la parole, je voudrai vous en dire un plus à son sujet.
+
+38
+00:04:19,370 --> 00:04:24,440
+Il y a trois ou quatre ans, il a commencé à enseigner la physique au CalTech
+
+39
+00:04:24,440 --> 00:04:28,150
+et le résultat fût d'ajouter une nouvelle dimension à sa renommée.
+
+40
+00:04:28,150 --> 00:04:31,930
+Ses cours sont à présent
+publiés en deux volumes
+
+41
+00:04:32,160 --> 00:04:35,770
+et forment une approche
+rafraîchissante du sujet.
+
+42
+00:04:36,380 --> 00:04:41,530
+Dans la préface de ces cours, il y a une photographie de Feynman
+
+43
+00:04:41,680 --> 00:04:45,720
+en train de jouer joyeusement du bongo.
+
+44
+00:04:46,430 --> 00:04:51,440
+Mes amis au Caltech m'ont dit qu'il se rendait parfois dans les boites de nuit de Los Angeles
+
+45
+00:04:51,440 --> 00:04:53,800
+pour y endosser le rôle
+de percussionniste.
+
+46
+00:04:54,010 --> 00:04:58,370
+Mais le professeur Feynman m'a dit que ce n'était pas vrai.
+
+47
+00:04:58,720 --> 00:05:03,210
+Une autre de ses spécialités
+est le forçage de coffre-fort.
+
+48
+00:05:05,240 --> 00:05:10,680
+Une légende dit qu'une fois il a ouvert le coffre-fort d'un bâtiment des services secrets,
+
+49
+00:05:10,780 --> 00:05:12,680
+en a retiré les documents secrets,
+
+50
+00:05:12,680 --> 00:05:14,530
+et y laissa un message qui disait:
+
+51
+00:05:14,640 --> 00:05:17,840
+" Devine qui c'est ? "
+
+52
+00:05:18,880 --> 00:05:21,750
+Je pourrai vous parler de la
+fois où il apprit l'espagnol
+
+53
+00:05:21,750 --> 00:05:25,290
+avant d'aller donner
+une série de cours au Brésil
+
+54
+00:05:25,290 --> 00:05:27,520
+mais je ne le ferai pas.
+
+55
+00:05:35,520 --> 00:05:38,740
+Tout ceci vous donne
+assez de contexte je pense.
+
+56
+00:05:38,780 --> 00:05:44,580
+Je suis heureux d'accueillir à nouveau Pr Feynman  à Cornell.
+
+57
+00:05:45,000 --> 00:05:48,680
+Son sujet est
+la nature des lois physiques,
+
+58
+00:05:48,810 --> 00:05:52,250
+et son sujet de ce soir est
+la loi de la gravitation,
+
+59
+00:05:52,330 --> 00:05:54,260
+un exemple de loi physique.
+
+60
+00:05:54,260 --> 00:05:56,540
+Professeur Feynman.
+
+61
+00:05:56,540 --> 00:06:06,060
+1- La loi de la gravitation,
+un exemple de loi physique
+
+62
+00:06:14,320 --> 00:06:17,340
+C'est étrange mais lors des rares occasions
+
+63
+00:06:17,550 --> 00:06:20,960
+où je suis convié quelque-part pour jouer du bongo,
+
+64
+00:06:21,180 --> 00:06:24,100
+le présentateur ne trouve jamais nécessaire de mentionner
+
+65
+00:06:24,120 --> 00:06:27,310
+que je fais aussi de
+la physique théorique.
+
+66
+00:06:32,160 --> 00:06:34,300
+Je crois que c'est probablement dû au fait
+
+67
+00:06:34,330 --> 00:06:36,840
+qu'on respecte davantage les arts que les sciences.
+
+68
+00:06:38,590 --> 00:06:41,640
+Les artistes de la Renaissance ont dit
+
+69
+00:06:41,690 --> 00:06:45,420
+que l'Homme doit être
+le principal intérêt de l'Homme.
+
+70
+00:06:46,300 --> 00:06:46,930
+Et pourtant,
+
+71
+00:06:47,040 --> 00:06:50,350
+il y a d'autres choses
+intéressantes dans le monde.
+
+72
+00:06:50,480 --> 00:06:54,750
+Mêmes les artistes apprécient les couchers de soleil, et les vagues sur l'océan
+
+73
+00:06:55,210 --> 00:06:58,120
+et la course des étoiles à travers les cieux.
+
+74
+00:06:58,780 --> 00:07:03,680
+Il y a donc quelques raisons de parler d'autres choses de temps en temps.
+
+75
+00:07:05,290 --> 00:07:07,550
+Dès qu'on s'intéresse à ces choses,
+
+76
+00:07:07,660 --> 00:07:11,320
+nous éprouvons un plaisir esthétique immédiat à partir de notre observation
+
+77
+00:07:11,500 --> 00:07:13,630
+mais il y a aussi
+
+78
+00:07:14,190 --> 00:07:17,310
+un rythme et une structure dans les phénomènes naturels
+
+79
+00:07:17,520 --> 00:07:22,090
+qui n'est pas visible à l’œil nu,  seulement à " l’œil analytique ".
+
+80
+00:07:22,530 --> 00:07:26,640
+Et ce sont ces rythmes et ces structures que nous appelons les lois physiques.
+
+81
+00:07:27,360 --> 00:07:30,300
+Ce dont j'ai envie de parler
+dans ce cycle de conférence,
+
+82
+00:07:30,810 --> 00:07:33,640
+ce sont des caractéristiques générales de ces lois physiques.
+
+83
+00:07:33,640 --> 00:07:38,490
+De me placer à un niveau encore plus général que les lois elles mêmes.
+
+84
+00:07:40,910 --> 00:07:43,560
+Ce dont je veux vous parler c'est de la Nature,
+
+85
+00:07:43,720 --> 00:07:46,570
+vue comme le résultat d'une analyse minutieuse.
+
+86
+00:07:46,700 --> 00:07:53,370
+Mais seulement des aspects les plus généraux que l'on trouve dans la Nature.
+
+87
+00:07:53,550 --> 00:07:56,440
+Un tel sujet à tendance
+à devenir trop philosophique,
+
+88
+00:07:56,480 --> 00:07:58,030
+parce qu'il est devient si général,
+
+89
+00:07:58,140 --> 00:08:02,430
+que l'orateur parle avec tellement de généralités, que tout le monde le comprend
+
+90
+00:08:02,460 --> 00:08:06,170
+et on prétend que c'est une profonde réflexion...
+
+91
+00:08:06,170 --> 00:08:10,450
+Cependant, je voudrai plutôt
+être spécifique
+
+92
+00:08:10,750 --> 00:08:15,120
+et je voudrai être compris de manière honnête plutôt que de manière vague
+
+93
+00:08:15,370 --> 00:08:18,740
+et donc si vous me le
+permettez, je vais essayer
+
+94
+00:08:20,970 --> 00:08:26,300
+de donner, au lieu de généralités, un exemple de loi physique dans cette conférence
+
+95
+00:08:26,590 --> 00:08:31,550
+pour que vous ayez au moins un exemple des choses que j'aborde de manière générale.
+
+96
+00:08:31,760 --> 00:08:32,810
+De cette manière,
+
+97
+00:08:32,910 --> 00:08:35,880
+je peux utiliser cet exemple
+encore et encore
+
+98
+00:08:36,000 --> 00:08:40,060
+pour donner une réalité à ce qui serait sinon trop abstrait.
+
+99
+00:08:40,520 --> 00:08:43,760
+J'ai choisi comme exemple pour illustrer les lois physiques
+
+100
+00:08:43,900 --> 00:08:46,410
+de vous parler de la théorie de la gravitation
+
+101
+00:08:46,620 --> 00:08:48,490
+ou phénomène de gravité.
+
+102
+00:08:49,160 --> 00:08:51,700
+Pourquoi j'ai choisi la gravité ?
+Je ne sais pas,
+
+103
+00:08:51,800 --> 00:08:55,470
+mais peu importe ce que je choisis, vous vous seriez posés la même question.
+
+104
+00:08:56,680 --> 00:09:01,850
+En fait c'est une des premières grandes lois qui fût découverte,
+
+105
+00:09:02,290 --> 00:09:04,620
+Et elle a une histoire intéressante.
+
+106
+00:09:05,160 --> 00:09:10,300
+Vous pourriez vous dire " oui mais c'est ancien, je voudrai entendre parler de science plus moderne "
+
+107
+00:09:10,490 --> 00:09:12,970
+Plus récente peut-être
+mais pas plus moderne.
+
+108
+00:09:13,070 --> 00:09:15,630
+La science moderne est exactement dans le prolongement
+
+109
+00:09:15,650 --> 00:09:18,180
+de la découverte de la loi de gravitation.
+
+110
+00:09:18,270 --> 00:09:21,390
+Nous ne parlerions seulement que de découvertes plus récentes.
+
+111
+00:09:23,770 --> 00:09:26,800
+Je ne me sens pas gêné de vous parler de la loi de la gravitation
+
+112
+00:09:26,880 --> 00:09:29,260
+car je vous parlerai de son histoire,
+
+113
+00:09:29,520 --> 00:09:32,130
+de la nature de sa découverte et de sa teneur,
+
+114
+00:09:32,280 --> 00:09:35,440
+et donc de science moderne,
+tout à fait moderne.
+
+115
+00:09:37,800 --> 00:09:39,330
+Cette loi a été considérée comme
+
+116
+00:09:39,340 --> 00:09:43,100
+"la plus grande généralisation
+réalisée par l'esprit humain"
+
+117
+00:09:43,480 --> 00:09:47,380
+Et vous comprenez bien
+que ce qui m'intéresse
+
+118
+00:09:47,840 --> 00:09:49,930
+n'est pas tant l'esprit humain,
+
+119
+00:09:50,110 --> 00:09:52,040
+mais plutôt la beauté de la nature,
+
+120
+00:09:52,190 --> 00:09:55,010
+qui obéit à des lois si simples et si élégantes
+
+121
+00:09:55,150 --> 00:09:57,090
+comme cette loi de la gravitation.
+
+122
+00:09:57,090 --> 00:10:00,240
+Je ne vais pas m'appliquer à vous raconter à quel point nous sommes intelligents
+
+123
+00:10:00,240 --> 00:10:02,240
+de l'avoir trouvée,
+
+124
+00:10:03,090 --> 00:10:07,620
+mais à quel point elle est
+assez astucieuse pour y prêter attention.
+
+125
+00:10:09,840 --> 00:10:14,420
+Qu'est ce que cette loi de la gravitation dont nous allons parler ?
+
+126
+00:10:14,420 --> 00:10:16,420
+La loi dit
+
+127
+00:10:16,540 --> 00:10:21,320
+que deux corps exercent
+chacun une force sur l'autre
+
+128
+00:10:21,320 --> 00:10:24,920
+inversement proportionnelle au carré de la distance qui les sépare,
+
+129
+00:10:24,920 --> 00:10:27,700
+et varie directement comme
+le produit de leurs masses.
+
+130
+00:10:27,970 --> 00:10:32,290
+Mathématiquement, vous
+pouvez écrire cette grande loi
+
+131
+00:10:32,520 --> 00:10:36,170
+par une sorte de constante multipliée par le produit des deux masses
+
+132
+00:10:36,330 --> 00:10:38,400
+divisée par le carré de la
+distance.
+
+133
+00:10:38,830 --> 00:10:41,760
+A présent si j'ajoute le fait
+
+134
+00:10:42,690 --> 00:10:44,890
+qu'un corps réagit à une force
+
+135
+00:10:45,000 --> 00:10:48,670
+en accélérant, en changeant sa vitesse chaque seconde,
+
+136
+00:10:48,960 --> 00:10:52,810
+de manière inversement
+proportionnelle à sa masse,
+
+137
+00:10:53,050 --> 00:10:57,050
+il change davantage sa vitesse si sa masse est faible et ainsi de suite,
+
+138
+00:10:57,280 --> 00:11:01,560
+alors j'ai dit sur la loi de gravitation tout ce qui devait être dit.
+
+139
+00:11:01,790 --> 00:11:04,010
+Tout le reste n'est
+qu'une conséquence,
+
+140
+00:11:04,280 --> 00:11:07,720
+une conséquence mathématique des deux choses que j'ai énoncées.
+
+141
+00:11:07,950 --> 00:11:10,250
+C'est un phénomène si
+remarquable en soi
+
+142
+00:11:10,250 --> 00:11:14,280
+que la prochaine conférence abordera cet aspect de manière plus détaillée.
+
+143
+00:11:14,760 --> 00:11:18,970
+Je sais que vous n'êtes pas
+tous ici des mathématiciens,
+
+144
+00:11:19,070 --> 00:11:20,820
+donc vous ne voyez pas
+tous immédiatement
+
+145
+00:11:20,850 --> 00:11:23,720
+les conséquences de
+ces deux remarques.
+
+146
+00:11:24,620 --> 00:11:26,890
+Et donc ce que je veux essayer de faire dans cette conférence,
+
+147
+00:11:26,890 --> 00:11:29,060
+c'est de vous raconter rapidement l'histoire de cette découverte
+
+148
+00:11:29,060 --> 00:11:31,420
+vous parler de quelques-unes
+de ses conséquences,
+
+149
+00:11:31,840 --> 00:11:35,130
+de l'effet de cette découverte dans l'histoire des sciences,
+
+150
+00:11:35,130 --> 00:11:38,080
+du mystère qu'une telle loi renferme,
+
+151
+00:11:38,080 --> 00:11:40,920
+un peu des corrections
+apportées par Einstein,
+
+152
+00:11:42,530 --> 00:11:44,770
+et sûrement de sa relation avec les autres lois physiques.
+
+153
+00:11:44,770 --> 00:11:47,140
+L'histoire de cette chose
+est à peu près ceci,
+
+154
+00:11:47,210 --> 00:11:51,440
+les anciens ont d'abord observé comment les planètes se déplaçaient dans le ciel
+
+155
+00:11:51,440 --> 00:11:56,160
+et ont conclu qu'elles se déplaçaient toutes autour du soleil, y compris la Terre.
+
+156
+00:11:56,160 --> 00:11:59,760
+Cette découverte fût refaite plus tard de manière indépendante
+
+157
+00:11:59,760 --> 00:12:00,690
+par Copernic,
+
+158
+00:12:00,840 --> 00:12:05,420
+même si les gens avaient oublié qu'elle avait déjà été faite.
+
+159
+00:12:07,710 --> 00:12:10,460
+La question qui vient à présent
+
+160
+00:12:10,600 --> 00:12:12,310
+est de savoir exactement
+
+161
+00:12:12,340 --> 00:12:14,080
+comment tournent-elles autour du soleil ?
+
+162
+00:12:15,520 --> 00:12:17,230
+Quel genre de mouvement
+ont-elles exactement ?
+
+163
+00:12:17,250 --> 00:12:19,860
+Tournent elles en cercle
+avec le soleil au centre ?
+
+164
+00:12:19,860 --> 00:12:21,420
+Ou suivent-elles une
+autre sorte de courbe ?
+
+165
+00:12:21,740 --> 00:12:23,440
+A quelle vitesse se
+déplacent-elles ?  etc...
+
+166
+00:12:23,610 --> 00:12:27,630
+Il a fallu beaucoup de temps
+pour faire ces découvertes.
+
+167
+00:12:30,220 --> 00:12:32,240
+Après Corpernic,
+
+168
+00:12:32,600 --> 00:12:35,410
+il y eût une période de grands débats
+
+169
+00:12:35,690 --> 00:12:38,250
+sur le fait que les planètes
+tournent autour du soleil,
+
+170
+00:12:38,500 --> 00:12:42,010
+alors que la Terre est considérée
+comme le centre de l'univers etc...
+
+171
+00:12:42,170 --> 00:12:44,660
+et il y eut de grands arguments
+avancés sur ces points.
+
+172
+00:12:44,840 --> 00:12:48,600
+Quand un homme, Tycho Brahé, a eu une idée.
+
+173
+00:12:49,180 --> 00:12:51,170
+une façon de répondre à ces questions.
+
+174
+00:12:51,280 --> 00:12:53,820
+Il pensait que ce serait une bonne idée
+
+175
+00:12:54,090 --> 00:12:55,890
+de regarder de manière
+très minutieuse
+
+176
+00:12:55,920 --> 00:12:59,660
+et de noter les positions
+des planètes dans le ciel.
+
+177
+00:13:00,040 --> 00:13:04,330
+Et alors les théories se distingueront les unes des autres face aux faits.
+
+178
+00:13:04,580 --> 00:13:06,670
+Ceci est la clef de la science moderne,
+
+179
+00:13:06,760 --> 00:13:10,090
+et le commencement de la véritable compréhension de la Nature.
+
+180
+00:13:10,180 --> 00:13:12,700
+Cette idée de regarder,
+
+181
+00:13:12,760 --> 00:13:14,670
+d'enregistrer les détails,
+
+182
+00:13:14,700 --> 00:13:17,310
+et d'espérer trouver
+dans ces informations
+
+183
+00:13:17,420 --> 00:13:18,640
+un indice
+
+184
+00:13:18,800 --> 00:13:22,160
+conduisant à l'une ou l'autre des interprétations théoriques possibles.
+
+185
+00:13:22,340 --> 00:13:24,320
+Tycho, qui était un homme riche,
+
+186
+00:13:24,410 --> 00:13:27,300
+et qui, je crois, possédait une île
+
+187
+00:13:27,580 --> 00:13:29,070
+près de Copenhague,
+
+188
+00:13:29,300 --> 00:13:32,170
+équipa son île de grands quadrants
+
+189
+00:13:32,330 --> 00:13:35,120
+et de plusieurs points d'observation,
+
+190
+00:13:35,310 --> 00:13:38,570
+où assis sur une chaise vous pouvez regarder à travers un petit trou,
+
+191
+00:13:38,730 --> 00:13:40,540
+et enregistra nuit après nuit
+
+192
+00:13:40,700 --> 00:13:42,650
+les positions des planètes.
+
+193
+00:13:43,260 --> 00:13:45,040
+C'est seulement grâce à
+un travail si difficile
+
+194
+00:13:45,280 --> 00:13:47,800
+que nous pouvons découvrir quelque-chose.
+
+195
+00:13:51,100 --> 00:13:54,280
+Quant toutes ces données
+furent collectées,
+
+196
+00:13:54,640 --> 00:13:57,600
+elles arrivèrent entre
+les mains de Kepler,
+
+197
+00:13:57,960 --> 00:13:59,920
+qui essaya alors d'analyser
+
+198
+00:14:00,170 --> 00:14:04,280
+quelle sorte de mouvement les planètes suivent autour du soleil.
+
+199
+00:14:05,020 --> 00:14:07,850
+Et par une méthode
+d'essais et d'erreurs,
+
+200
+00:14:08,010 --> 00:14:12,580
+il crût découvrir qu'elles se déplaçaient autour du Soleil en suivant un cercle,
+
+201
+00:14:12,650 --> 00:14:14,300
+avec le soleil décentré,
+
+202
+00:14:14,580 --> 00:14:18,570
+mais remarqua qu'une planète, je crois que c'était Mars mais je ne sais plus,
+
+203
+00:14:18,620 --> 00:14:20,210
+était écartée de 18 minutes d'arc
+
+204
+00:14:20,220 --> 00:14:23,980
+et pensa que c'était une erreur trop grossière pour que Tycho se soit trompé,
+
+205
+00:14:24,090 --> 00:14:26,200
+et donc, que ce n'était pas la bonne réponse.
+
+206
+00:14:26,330 --> 00:14:28,200
+Grâce à la précision
+des expériences
+
+207
+00:14:28,200 --> 00:14:30,840
+il continua à chercher et finalement
+
+208
+00:14:31,000 --> 00:14:32,520
+en essayant autre chose,
+
+209
+00:14:32,620 --> 00:14:34,750
+il trouva ceci.
+
+210
+00:14:35,000 --> 00:14:36,350
+Trois choses. D'abord,
+
+211
+00:14:36,560 --> 00:14:39,450
+que les planètes suivaient
+une ellipse autour du Soleil
+
+212
+00:14:39,530 --> 00:14:40,940
+avec le centre au foyer.
+
+213
+00:14:41,200 --> 00:14:44,570
+Une ellipse est une courbe que vous connaissez tous car
+
+214
+00:14:44,570 --> 00:14:46,010
+c'est un cercle raccourci,
+
+215
+00:14:46,080 --> 00:14:48,400
+et les enfants la connaissent car quelqu'un leur a montré
+
+216
+00:14:48,510 --> 00:14:51,050
+que s'ils prennent une ficelle et l'accrochent à deux piquets
+
+217
+00:14:51,240 --> 00:14:54,440
+et y mettent un crayon,
+cela fera une ellipse.
+
+218
+00:14:54,780 --> 00:14:57,020
+Ces deux piquets
+sont les foyers,
+
+219
+00:14:57,160 --> 00:15:00,110
+le Soleil est ici, la forme d'une orbite d'une planète autour du Soleil
+
+220
+00:15:00,180 --> 00:15:02,180
+est une courbe comme celle-ci.
+
+221
+00:15:03,290 --> 00:15:05,020
+La question suivante est,
+
+222
+00:15:05,300 --> 00:15:06,660
+elles tournent en suivant une ellipse,
+
+223
+00:15:06,660 --> 00:15:07,410
+Mais comment ?
+
+224
+00:15:07,420 --> 00:15:08,770
+Vont-elles plus vite
+près du Soleil ?
+
+225
+00:15:08,780 --> 00:15:10,410
+Plus lentement loin du Soleil ?
+
+226
+00:15:11,500 --> 00:15:15,720
+Nous enlevons l'autre foyer, nous avons le Soleil ici et la planète tournant autour
+
+227
+00:15:16,970 --> 00:15:19,580
+et Kepler trouva aussi la
+réponse à cette question.
+
+228
+00:15:20,270 --> 00:15:21,340
+Il trouva ceci.
+
+229
+00:15:21,450 --> 00:15:23,680
+Si vous notez la position de la planète
+
+230
+00:15:23,900 --> 00:15:28,120
+à deux instants séparés
+par une certaine durée,
+
+231
+00:15:28,150 --> 00:15:29,830
+disons trois semaines,
+
+232
+00:15:30,650 --> 00:15:32,490
+et puis à un autre
+endroit sur l'orbite
+
+233
+00:15:32,560 --> 00:15:36,300
+notez la position de la planète
+encore trois semaines plus tard
+
+234
+00:15:36,590 --> 00:15:38,780
+et tracez une ligne partant
+du Soleil vers la planète,
+
+235
+00:15:38,880 --> 00:15:40,460
+techniquement le rayon,
+
+236
+00:15:40,680 --> 00:15:42,120
+le vecteur rayon,
+
+237
+00:15:42,240 --> 00:15:45,600
+peu importe, les lignes partant du soleil vers les planètes.
+
+238
+00:15:45,720 --> 00:15:47,850
+Alors, l'aire
+
+239
+00:15:48,220 --> 00:15:50,930
+comprise entre l'orbite de la planète
+
+240
+00:15:50,950 --> 00:15:53,260
+et les deux lignes repérant
+les positions de la planète,
+
+241
+00:15:53,280 --> 00:15:54,640
+à trois semaines d'intervalle,
+
+242
+00:15:54,780 --> 00:15:57,610
+est toujours la même peu importe où ça se passe sur l'orbite.
+
+243
+00:15:57,740 --> 00:15:59,760
+Donc elles doivent aller plus vite quand elles sont proches,
+
+244
+00:15:59,800 --> 00:16:01,380
+pour avoir la même aire,
+
+245
+00:16:01,980 --> 00:16:03,590
+et moins vite quand
+elles sont plus loin
+
+246
+00:16:03,600 --> 00:16:05,610
+d'une manière très précise.
+
+247
+00:16:07,130 --> 00:16:08,850
+Quelques années plus tard,
+
+248
+00:16:09,230 --> 00:16:12,010
+il découvrit une troisième loi.
+
+249
+00:16:12,970 --> 00:16:17,400
+Cela n'a rien à voir avec le mouvement exact d'une planète autour du Soleil
+
+250
+00:16:17,480 --> 00:16:19,920
+mais relie les planètes
+les unes aux autres.
+
+251
+00:16:20,170 --> 00:16:22,490
+Et elle dit que
+
+252
+00:16:23,260 --> 00:16:26,360
+le temps nécessaire à une
+planète pour faire un tour
+
+253
+00:16:26,510 --> 00:16:29,600
+est lié à la taille de son orbite.
+
+254
+00:16:29,720 --> 00:16:34,110
+et ce temps varie comme la racine carrée du cube de la taille de l'orbite,
+
+255
+00:16:34,220 --> 00:16:39,640
+et la taille de l'orbite est le plus grand diamètre qui existe dans l'ellipse.
+
+256
+00:16:42,080 --> 00:16:44,440
+Ces trois lois sont
+résumées en disant
+
+257
+00:16:44,450 --> 00:16:45,820
+que c'est une ellipse,
+
+258
+00:16:46,240 --> 00:16:49,790
+des aires égales sont
+parcourues en des durées égales,
+
+259
+00:16:50,920 --> 00:16:58,270
+et que le temps pour faire un tour varie comme la puissance 3/2 de la taille de l'orbite.
+
+260
+00:16:58,740 --> 00:17:01,090
+Ce sont les trois lois de Kepler.
+
+261
+00:17:01,630 --> 00:17:03,900
+Elles forment une description très complète
+
+262
+00:17:04,080 --> 00:17:06,280
+du mouvement des planètes
+
+263
+00:17:06,670 --> 00:17:08,540
+autour du soleil.
+
+264
+00:17:10,050 --> 00:17:11,560
+La question suivante était
+
+265
+00:17:11,720 --> 00:17:13,530
+qu'est ce qui les fait tourner ?
+
+266
+00:17:13,680 --> 00:17:17,920
+Peut-on comprendre cela plus en détail, y'a t il autre chose à ajouter ?
+
+267
+00:17:18,350 --> 00:17:19,340
+Pendant ce temps,
+
+268
+00:17:19,500 --> 00:17:22,920
+Galilée étudiait les lois du mouvement.
+
+269
+00:17:23,600 --> 00:17:26,730
+Soit disant passant,
+à l'époque de Kepler
+
+270
+00:17:26,800 --> 00:17:29,410
+le problème de savoir ce qui faisait tourner les planètes autour du Soleil
+
+271
+00:17:29,630 --> 00:17:32,240
+était résolu pour
+certaines personnes
+
+272
+00:17:32,480 --> 00:17:35,100
+en disant qu'il y avait
+des anges derrière ici
+
+273
+00:17:35,290 --> 00:17:36,460
+battant des ailes
+
+274
+00:17:36,490 --> 00:17:39,680
+et poussant les planètes
+le long de leur orbite.
+
+275
+00:17:40,030 --> 00:17:42,840
+Vous verrez que cette réponse n'est pas très loin de la vérité
+
+276
+00:17:42,840 --> 00:17:44,160
+la seule différence étant
+
+277
+00:17:44,210 --> 00:17:46,840
+que les anges poussent
+dans une autre direction,
+
+278
+00:17:46,880 --> 00:17:49,130
+et qu'ils n'ont pas d'ailes.
+
+279
+00:17:55,130 --> 00:17:57,790
+Le fait que les anges poussent dans une direction différente
+
+280
+00:17:57,820 --> 00:17:59,970
+est le point que je
+voudrai discuter.
+
+281
+00:17:59,970 --> 00:18:03,010
+Galilée, en étudiant
+les lois du mouvement
+
+282
+00:18:03,030 --> 00:18:04,560
+et en faisant de
+nombreuses expériences
+
+283
+00:18:04,560 --> 00:18:06,530
+pour voir comment des billes roulent le long de plans inclinés,
+
+284
+00:18:06,530 --> 00:18:08,730
+l'oscillation de pendules etc...
+
+285
+00:18:08,920 --> 00:18:11,670
+a découvert une
+idéalisation, un grand principe,
+
+286
+00:18:11,690 --> 00:18:13,040
+le principe d'inertie
+
+287
+00:18:13,200 --> 00:18:14,220
+qui dit ceci :
+
+288
+00:18:14,680 --> 00:18:18,370
+si une chose n'a rien
+qui agit sur elle,
+
+289
+00:18:18,400 --> 00:18:20,850
+et s'il se déplace en ligne droite
+à une certaine vitesse
+
+290
+00:18:20,870 --> 00:18:24,930
+il avancera avec la même vitesse sur la même ligne droite pour toujours.
+
+291
+00:18:25,050 --> 00:18:28,480
+C'est impossible à croire pour quelqu'un qui a déjà essayé
+
+292
+00:18:28,650 --> 00:18:31,080
+de faire rouler une balle pour toujours
+
+293
+00:18:31,700 --> 00:18:34,270
+et pourtant ce principe est correct,
+
+294
+00:18:34,350 --> 00:18:36,480
+et c'est ce qu'il se passe quand
+il n'y a aucune influence,
+
+295
+00:18:36,500 --> 00:18:38,280
+comme le frottement
+sur le sol etc...
+
+296
+00:18:38,280 --> 00:18:39,820
+les choses iraient avec
+une vitesse uniforme
+
+297
+00:18:39,830 --> 00:18:41,420
+pour toujours.
+
+298
+00:18:42,380 --> 00:18:45,550
+L'avancée suivante
+fût faite par Newton,
+
+299
+00:18:45,930 --> 00:18:48,070
+qui aborda la question :
+
+300
+00:18:48,080 --> 00:18:51,520
+quand ça ne va pas en ligne
+droite, que se passe-t-il ?
+
+301
+00:18:52,240 --> 00:18:53,560
+Et il y répondit de cette façon,
+
+302
+00:18:53,600 --> 00:18:58,440
+il faut une force pour changer la vitesse d'une manière ou d'une autre.
+
+303
+00:18:58,440 --> 00:19:01,390
+Si vous poussez dans la
+direction où l'objet bouge
+
+304
+00:19:01,400 --> 00:19:03,050
+il accélérera.
+
+305
+00:19:04,150 --> 00:19:06,180
+Si vous trouvez qu'il a
+changé de direction,
+
+306
+00:19:06,210 --> 00:19:08,930
+alors une force a du
+s'appliquer de côté.
+
+307
+00:19:09,260 --> 00:19:13,640
+et une force peut être mesurée comme le produit de deux effets.
+
+308
+00:19:13,980 --> 00:19:16,940
+D'abord, de combien
+la vitesse a-t-elle changé
+
+309
+00:19:17,130 --> 00:19:19,400
+sur un certain intervalle de temps ?
+
+310
+00:19:19,530 --> 00:19:23,380
+De combien l'objet a-t-il
+accéléré dans cette direction?
+
+311
+00:19:23,390 --> 00:19:26,200
+De combien la vitesse a changé
+dans cette direction?
+
+312
+00:19:26,200 --> 00:19:27,810
+C'est ce qu'on appelle
+l'accélération,
+
+313
+00:19:27,810 --> 00:19:29,840
+et quand on la multiplie
+par un coefficient
+
+314
+00:19:29,860 --> 00:19:31,260
+appelé la masse de l'objet,
+
+315
+00:19:31,260 --> 00:19:32,860
+ou son coefficient d'inertie,
+
+316
+00:19:33,000 --> 00:19:35,560
+alors nous obtenons une force.
+
+317
+00:19:35,920 --> 00:19:40,180
+Par exemple, si quelqu'un accroche une pierre au bout d'une corde
+
+318
+00:19:40,200 --> 00:19:42,420
+et la fait tourner en cercle
+autour de sa tête
+
+319
+00:19:42,570 --> 00:19:45,420
+alors il s'apercevra qu'il faut
+tirer sur la corde,
+
+320
+00:19:47,560 --> 00:19:49,910
+car la vitesse de la pierre
+ne change pas,
+
+321
+00:19:49,920 --> 00:19:51,450
+comme elle tourne en rond,
+
+322
+00:19:51,450 --> 00:19:53,040
+mais elle change de direction
+
+323
+00:19:53,150 --> 00:19:55,910
+donc il doit y avoir une force
+qui agit en permanence,
+
+324
+00:19:57,930 --> 00:19:59,230
+proportionnelle à la masse,
+
+325
+00:19:59,310 --> 00:20:00,930
+donc si nous prenons
+deux objets différents,
+
+326
+00:20:00,930 --> 00:20:01,950
+et faisons tourner le premier,
+
+327
+00:20:02,030 --> 00:20:04,610
+puis nous faisons tourner
+l'autre à la même vitesse
+
+328
+00:20:04,610 --> 00:20:08,130
+et mesurons la force sur
+ce deuxième objet.
+
+329
+00:20:08,130 --> 00:20:10,500
+La deuxième force est
+différente de la première
+
+330
+00:20:10,520 --> 00:20:12,130
+dans la même proportion que
+leur différence de masse.
+
+331
+00:20:12,130 --> 00:20:14,290
+C'est une façon de peser des objets,
+
+332
+00:20:14,410 --> 00:20:19,000
+en se demandant à quel point est-ce difficile de changer leur vitesse.
+
+333
+00:20:20,650 --> 00:20:22,040
+A présent,
+
+334
+00:20:22,500 --> 00:20:25,100
+Newton déduit de tout ça
+
+335
+00:20:26,080 --> 00:20:27,100
+que par exemple,
+
+336
+00:20:27,100 --> 00:20:30,930
+si une planète se déplace sur
+un cercle autour du Soleil
+
+337
+00:20:31,530 --> 00:20:34,910
+aucune force n'est nécessaire
+pour la faire aller de côté,
+
+338
+00:20:34,970 --> 00:20:36,060
+suivant la tangente,
+
+339
+00:20:36,170 --> 00:20:40,310
+S'il n'y avait aucune force appliquée dessus elle continuerait tout droit.
+
+340
+00:20:40,490 --> 00:20:43,310
+Mais en fait les planètes
+ne continuent pas tout droit,
+
+341
+00:20:43,330 --> 00:20:46,600
+mais se retrouvent plus tard non pas ici,
+
+342
+00:20:46,610 --> 00:20:49,890
+où elles iraient s'il n'y
+avait pas de force du tout,
+
+343
+00:20:50,220 --> 00:20:54,350
+mais un peu plus bas,
+vers le Soleil.
+
+344
+00:20:54,860 --> 00:20:59,620
+Sa vitesse, son mouvement
+a été dévié vers le Soleil
+
+345
+00:20:59,820 --> 00:21:01,660
+Donc ce que les anges doivent faire,
+
+346
+00:21:01,820 --> 00:21:04,970
+c'est de battre des ailes à chaque instant dans la direction du soleil,
+
+347
+00:21:05,120 --> 00:21:08,180
+car le mouvement consistant
+à continuer en ligne droite
+
+348
+00:21:08,260 --> 00:21:10,480
+n'a aucune raison connue.
+
+349
+00:21:10,560 --> 00:21:13,260
+La raison pour laquelle les choses avancent en roue libre pour toujours
+
+350
+00:21:13,320 --> 00:21:15,380
+n'a jamais été découverte.
+
+351
+00:21:15,610 --> 00:21:18,760
+Le principe d'inertie n'a
+pas d'origine connue.
+
+352
+00:21:18,970 --> 00:21:23,600
+Donc les anges n'existent pas, contrairement à la continuité du mouvement.
+
+353
+00:21:23,680 --> 00:21:26,780
+Afin d'obtenir ce résultat "de chute"
+
+354
+00:21:26,830 --> 00:21:29,090
+il nous faut une force.
+
+355
+00:21:29,760 --> 00:21:32,800
+C'est devenu assez clair que la force
+
+356
+00:21:32,830 --> 00:21:34,610
+doit être dirigée vers le Soleil.
+
+357
+00:21:34,960 --> 00:21:39,170
+Newton a pu démontré
+que la proposition
+
+358
+00:21:39,190 --> 00:21:41,500
+" des aires égales sont balayées
+en des durées égales "
+
+359
+00:21:41,500 --> 00:21:44,440
+était une conséquence
+directe de la simple idée
+
+360
+00:21:44,540 --> 00:21:47,920
+que tous les changements de vitesse étaient dirigés exactement vers le Soleil,
+
+361
+00:21:47,920 --> 00:21:49,240
+même dans le cas d'une ellipse.
+
+362
+00:21:49,240 --> 00:21:54,280
+et peut être que la prochaine fois j'aurai le temps de vous montrer comment tout ça marche précisément.
+
+363
+00:21:57,220 --> 00:21:58,550
+A partir de cette loi,
+
+364
+00:21:58,580 --> 00:22:01,480
+il confirma l'idée que la force doit être dirigée vers le soleil.
+
+365
+00:22:01,640 --> 00:22:04,360
+Et en sachant comment le temps de révolution des différentes planètes varie
+
+366
+00:22:04,360 --> 00:22:06,180
+en fonction de leur
+distance au soleil
+
+367
+00:22:06,180 --> 00:22:08,920
+il est possible de déterminer de combien il faut diminuer la force
+
+368
+00:22:09,010 --> 00:22:11,720
+à différentes distances,
+et il fût en mesure de déterminer
+
+369
+00:22:11,820 --> 00:22:16,560
+que la force doit varier proportionnellement à l'inverse du carré de la distance.
+
+370
+00:22:17,720 --> 00:22:20,320
+Jusqu'à présent
+il n'a rien dit de nouveau.
+
+371
+00:22:20,590 --> 00:22:21,420
+Oui,
+
+372
+00:22:21,550 --> 00:22:25,260
+parce qu'il a seulement dit deux choses que Kepler avait déjà dites
+
+373
+00:22:25,330 --> 00:22:26,940
+dans un autre langage.
+
+374
+00:22:27,360 --> 00:22:30,330
+L'une est exactement équivalente à la proposition que la force est dirigée vers le soleil,
+
+375
+00:22:30,330 --> 00:22:32,530
+et l'autre est exactement
+équivalente à la proposition
+
+376
+00:22:32,530 --> 00:22:34,690
+que la force dépend de l'inverse
+du carré de la distance.
+
+377
+00:22:34,810 --> 00:22:36,010
+Mais,
+
+378
+00:22:36,400 --> 00:22:40,170
+des gens ont vu au télescope que les satellites de Jupiter tournaient autour de Jupiter
+
+379
+00:22:40,220 --> 00:22:41,730
+et cela ressemblait à
+un petit système solaire,
+
+380
+00:22:41,750 --> 00:22:43,460
+où les satellites étaient
+attirées par Jupiter,
+
+381
+00:22:43,550 --> 00:22:47,420
+et la Lune est attirée par la Terre et tourne autour de la même manière,
+
+382
+00:22:47,610 --> 00:22:49,940
+donc on dirait que tout est attiré
+par tout le reste,
+
+383
+00:22:50,080 --> 00:22:52,100
+et donc la prochaine étape
+fût de généraliser
+
+384
+00:22:52,110 --> 00:22:55,530
+et de dire que tout objet
+attire tous les autres objets.
+
+385
+00:22:56,120 --> 00:22:58,180
+Si c'est le cas, la Terre doit
+attirer la Lune
+
+386
+00:22:58,180 --> 00:23:00,800
+comme le Soleil attire les planètes.
+
+387
+00:23:01,500 --> 00:23:04,090
+Mais c'est connu que la Terre
+attire les choses,
+
+388
+00:23:04,140 --> 00:23:06,100
+car vous êtes tous assis
+fermement dans vos sièges
+
+389
+00:23:06,130 --> 00:23:10,350
+quand bien même votre désir
+de flotter dans la salle.
+
+390
+00:23:11,530 --> 00:23:15,260
+L'attraction des objets
+par la Terre était bien connue
+
+391
+00:23:15,320 --> 00:23:16,880
+sous le nom de gravitation,
+
+392
+00:23:16,960 --> 00:23:20,300
+et l'idée de Newton fût que, peut être,
+
+393
+00:23:20,410 --> 00:23:23,440
+la gravitation qui retient
+la Lune sur son orbite
+
+394
+00:23:23,550 --> 00:23:28,800
+est la même que celle qui attire
+les objets vers la Terre.
+
+395
+00:23:29,260 --> 00:23:31,710
+A présent il est facile de mesurer
+
+396
+00:23:31,800 --> 00:23:35,070
+de quelle distance la
+Lune tombe en une seconde.
+
+397
+00:23:35,680 --> 00:23:37,300
+Parce que si elle allait
+en ligne droite...
+
+398
+00:23:37,300 --> 00:23:38,680
+-vous connaissez la
+taille de l'orbite,
+
+399
+00:23:38,680 --> 00:23:40,650
+vous savez qu'il faut un mois
+pour en faire le tour-
+
+400
+00:23:40,800 --> 00:23:43,320
+et si vous savez de combien elle avance en une seconde
+
+401
+00:23:43,530 --> 00:23:46,200
+vous pouvez trouver de combien l'orbite circulaire de la Lune
+
+402
+00:23:46,280 --> 00:23:47,920
+est tombée en dessous
+de cette ligne droite,
+
+403
+00:23:47,970 --> 00:23:48,940
+là où elle serait allée
+
+404
+00:23:49,110 --> 00:23:52,190
+si elle n'allait pas là
+où elle devrait être.
+
+405
+00:23:52,330 --> 00:23:53,960
+Et cette distance,
+
+406
+00:23:54,160 --> 00:23:57,760
+est de 1.27mm .
+
+407
+00:23:59,290 --> 00:24:03,610
+La Lune est 60 fois plus loin
+du centre de la Terre
+
+408
+00:24:03,690 --> 00:24:04,770
+que nous.
+
+409
+00:24:04,770 --> 00:24:06,490
+Nous sommes à 6300 km du centre
+
+410
+00:24:06,490 --> 00:24:09,160
+et la Lune est à
+386 000 km du centre,
+
+411
+00:24:09,470 --> 00:24:12,140
+donc si la loi en inverse
+du carré est vraie,
+
+412
+00:24:12,320 --> 00:24:14,330
+un objet à la surface de la Terre
+
+413
+00:24:14,410 --> 00:24:19,990
+devrait tomber en une seconde
+de 1.27mm fois 3600,
+
+414
+00:24:20,010 --> 00:24:21,770
+le carré de 60,
+
+415
+00:24:21,770 --> 00:24:25,420
+car la force doit être diminuée
+par 60*60 selon notre loi
+
+416
+00:24:25,420 --> 00:24:27,540
+si l'on se place à la hauteur de la Lune.
+
+417
+00:24:27,540 --> 00:24:30,400
+Et si vous multipliez
+3600 par 1.27mm
+
+418
+00:24:30,440 --> 00:24:31,980
+vous trouvez 4.8m
+
+419
+00:24:32,120 --> 00:24:34,460
+et une loi est déjà connue,
+
+420
+00:24:34,650 --> 00:24:36,120
+grâce aux expériences de Galilée,
+
+421
+00:24:36,190 --> 00:24:40,330
+que les choses tombent de  4.8m en 1 seconde à la surface de la Terre.
+
+422
+00:24:40,750 --> 00:24:43,600
+Cela veut dire qu'il était
+sur la bonne piste,
+
+423
+00:24:43,660 --> 00:24:45,560
+qu'il n'y avait pas de retour
+en arrière à présent
+
+424
+00:24:46,430 --> 00:24:47,720
+parce que ces nouveaux faits,
+
+425
+00:24:47,750 --> 00:24:49,800
+qui étaient indépendants auparavant
+
+426
+00:24:49,850 --> 00:24:51,350
+le temps de révolution de la Lune
+
+427
+00:24:51,350 --> 00:24:52,710
+et sa distance à la Terre
+
+428
+00:24:52,710 --> 00:24:54,220
+a été relié à un autre fait
+
+429
+00:24:54,240 --> 00:24:57,580
+qui est de quelle distance tombe quelque-chose en une seconde.
+
+430
+00:24:57,860 --> 00:25:01,240
+Ce fût un test dramatique pour vérifier que tout fonctionnait.
+
+431
+00:25:01,420 --> 00:25:03,090
+De plus, cela permit
+beaucoup de prédictions.
+
+432
+00:25:03,340 --> 00:25:06,080
+Il a été capable de calculer quelle forme les orbites devraient avoir
+
+433
+00:25:06,110 --> 00:25:07,840
+si la loi était en l'inverse du carré,
+
+434
+00:25:07,840 --> 00:25:11,410
+et trouva en effet
+que c'était une ellipse.
+
+435
+00:25:12,540 --> 00:25:14,880
+D'autre part, de nombreux et
+nouveaux phénomènes
+
+436
+00:25:15,180 --> 00:25:17,790
+ont trouvé une explication évidente.
+
+437
+00:25:18,100 --> 00:25:19,890
+Un de ces phénomènes
+était les marées.
+
+438
+00:25:20,100 --> 00:25:22,520
+Les marées étaient dues
+à l'attraction de la Lune
+
+439
+00:25:22,840 --> 00:25:24,170
+agissant sur la Terre.
+
+440
+00:25:24,250 --> 00:25:26,860
+Ce phénomène avait déjà été étudié,
+
+441
+00:25:27,040 --> 00:25:30,860
+avec la difficultée qu'avec l'attraction de la Lune sur la Terre...
+
+442
+00:25:31,070 --> 00:25:35,200
+-la Terre étant ici, l'eau étant
+attirée vers la Lune-
+
+443
+00:25:35,610 --> 00:25:37,710
+... il n'y aurait qu'une marée
+par jour,
+
+444
+00:25:37,710 --> 00:25:39,880
+quand cette "bosse" d'eau
+est sous la Lune.
+
+445
+00:25:39,880 --> 00:25:42,740
+mais il y a une marée
+toutes les 12h environ,
+
+446
+00:25:43,210 --> 00:25:44,900
+et ça fait deux marrées par jour.
+
+447
+00:25:44,900 --> 00:25:48,700
+Mais il y avait aussi une autre école de pensée qui avait une autre conclusion
+
+448
+00:25:48,700 --> 00:25:50,850
+Leur idée était que c'était la Terre
+
+449
+00:25:50,960 --> 00:25:54,030
+qui était attirée par la Lune et
+s'écartait de l'eau.
+
+450
+00:26:01,170 --> 00:26:03,650
+Newton fût le premier à réaliser
+
+451
+00:26:03,650 --> 00:26:05,770
+ce qui se passait vraiment.
+
+452
+00:26:05,940 --> 00:26:08,910
+La force que la Lune exerce
+sur l'eau et sur la Terre
+
+453
+00:26:09,040 --> 00:26:11,740
+est la même à la
+même distance,
+
+454
+00:26:12,310 --> 00:26:14,750
+et l'eau ici est plus
+proche de la Lune,
+
+455
+00:26:14,750 --> 00:26:17,510
+et l'eau ici est plus loin
+de la Lune que ne l'est la Terre,
+
+456
+00:26:17,680 --> 00:26:22,550
+donc l'eau est plus attirée
+par la Lune ici que là
+
+457
+00:26:22,680 --> 00:26:24,280
+où elle est moins attirée
+par la Lune que la Terre
+
+458
+00:26:24,280 --> 00:26:25,940
+donc c'est une combinaison
+de deux images
+
+459
+00:26:25,950 --> 00:26:27,530
+qui produit une double marrée.
+
+460
+00:26:28,010 --> 00:26:31,980
+En fait la Terre joue le
+même jeu que la Lune,
+
+461
+00:26:32,240 --> 00:26:33,930
+Elle tourne autour d'un cercle,
+
+462
+00:26:33,950 --> 00:26:37,050
+les forces entre la Lune
+et la Terre se compensent.
+
+463
+00:26:37,050 --> 00:26:38,020
+Comment ?
+
+464
+00:26:38,040 --> 00:26:40,400
+Tout comme la Lune qui se
+déplace sur un cercle,
+
+465
+00:26:40,400 --> 00:26:41,850
+pour équilibrer la
+force de la Terre,
+
+466
+00:26:41,880 --> 00:26:43,540
+la Terre aussi tourne
+sur un cercle,
+
+467
+00:26:43,540 --> 00:26:46,160
+-le centre du cercle est quelquepart à l'intérieur de la Terre-
+
+468
+00:26:46,360 --> 00:26:48,160
+la Terre tourne aussi sur un cercle
+
+469
+00:26:48,160 --> 00:26:49,430
+pour équilibrer la Lune,
+
+470
+00:26:49,430 --> 00:26:51,890
+donc les deux tournent autour
+de ce centre commun
+
+471
+00:26:51,890 --> 00:26:55,410
+et si vous voulez cette eau est rejetée par la force centrifuge,
+
+472
+00:26:55,410 --> 00:26:57,020
+plus que la Terre l'est elle-même
+
+473
+00:26:57,020 --> 00:27:00,030
+et cette eau est attirée
+davantage que la Terre.
+
+474
+00:27:00,030 --> 00:27:02,480
+Mais peu importe, les marées...
+
+475
+00:27:02,600 --> 00:27:06,560
+le fait qu'il y ait deux
+marées par jour fût expliqué.
+
+476
+00:27:06,960 --> 00:27:10,750
+D'autres choses sont devenues claires,
+pourquoi la Terre est ronde ?
+
+477
+00:27:10,890 --> 00:27:12,720
+Car tout est attiré vers l'intérieur.
+
+478
+00:27:12,920 --> 00:27:14,530
+Et pourquoi elle n'est pas ronde ?
+
+479
+00:27:14,750 --> 00:27:19,050
+Car elle tourne donc les extrémités sont légèrement éjectées et s'équilibrent.
+
+480
+00:27:19,350 --> 00:27:20,800
+Et pourquoi le Soleil et
+la Lune sont ronds ?
+
+481
+00:27:20,800 --> 00:27:21,570
+Et ainsi de suite...
+
+482
+00:27:23,170 --> 00:27:26,060
+Au fur et à mesure du
+développement de la science,
+
+483
+00:27:26,340 --> 00:27:28,360
+les mesures sont devenues
+plus précises,
+
+484
+00:27:28,360 --> 00:27:31,290
+et le test des lois de Newton devint de plus en plus rigoureux.
+
+485
+00:27:31,470 --> 00:27:33,230
+Et le premier test capital
+
+486
+00:27:33,530 --> 00:27:35,260
+impliqua les lunes de Jupiter.
+
+487
+00:27:35,470 --> 00:27:38,100
+Grâce à des observations minutieuses de leur déplacement
+
+488
+00:27:38,100 --> 00:27:39,220
+sur de longues
+périodes de temps,
+
+489
+00:27:39,240 --> 00:27:42,630
+pour vérifier que tout se déroulait bien selon les lois de Newton
+
+490
+00:27:44,530 --> 00:27:45,840
+et ce n'était pas le cas,
+
+491
+00:27:45,950 --> 00:27:51,230
+Les lunes de Jupiter étaient parfois
+8 minutes en avance,
+
+492
+00:27:51,230 --> 00:27:53,450
+et parfois 8 minutes en retard
+sur l'horaire prévu,
+
+493
+00:27:53,450 --> 00:27:57,370
+où l'horaire prévu est une valeur calculée à partir des lois de Newton.
+
+494
+00:27:57,490 --> 00:27:59,270
+On remarqua qu'elles étaient en avance
+
+495
+00:27:59,270 --> 00:28:00,430
+quand elles étaient proches,
+
+496
+00:28:00,620 --> 00:28:02,420
+quand Jupiter était
+proche de la Terre,
+
+497
+00:28:02,420 --> 00:28:05,850
+et en retard quand Jupiter était éloigné, dans certaines circonstances.
+
+498
+00:28:06,090 --> 00:28:09,550
+et Mr Roemer, ayant confiance dans la loi de la gravitation,
+
+499
+00:28:09,570 --> 00:28:11,630
+est arrivé à une conclusion intéressante.
+
+500
+00:28:11,630 --> 00:28:14,810
+Qu'il faut à la lumière du temps pour voyager des lunes à la Terre,
+
+501
+00:28:15,040 --> 00:28:16,990
+et ce qu'on observe,
+lorsqu'on regarde les lunes,
+
+502
+00:28:17,000 --> 00:28:18,060
+ce n'est pas où elles sont
+sont en ce moment
+
+503
+00:28:18,070 --> 00:28:19,040
+mais où elles étaient
+
+504
+00:28:19,050 --> 00:28:21,540
+avant que la lumière n'ait le
+temps d'arriver à nous.
+
+505
+00:28:21,540 --> 00:28:23,540
+Donc quand Jupiter est
+proche de nous,
+
+506
+00:28:23,930 --> 00:28:25,680
+la lumière met moins de
+temps à nous atteindre,
+
+507
+00:28:25,680 --> 00:28:27,520
+et quand Jupiter est plus loin
+cela prend plus de temps
+
+508
+00:28:27,520 --> 00:28:29,180
+donc nous devons corriger
+les observations
+
+509
+00:28:29,180 --> 00:28:30,830
+pour tenir compte de ces
+différences de temps.
+
+510
+00:28:30,830 --> 00:28:35,280
+Et parce que les lunes étaient de tant en avance ou de tant en retard,
+
+511
+00:28:35,360 --> 00:28:37,150
+Roemer fût capable de déterminer la vitesse de la lumière.
+
+512
+00:28:37,160 --> 00:28:38,880
+Ce fût la première preuve que la lumière
+
+513
+00:28:38,890 --> 00:28:42,310
+n'était pas une matière qui se
+propageait de manière instantanée.
+
+514
+00:28:42,310 --> 00:28:44,770
+J'attire votre attention sur ce fait car
+
+515
+00:28:44,940 --> 00:28:46,770
+cela illustre quelquechose.
+
+516
+00:28:46,850 --> 00:28:48,890
+Quand une loi est bonne,
+
+517
+00:28:49,360 --> 00:28:51,900
+elle peut être utilisée pour
+en trouver une nouvelle.
+
+518
+00:28:52,850 --> 00:28:54,640
+Si nous avons
+confiance dans cette loi,
+
+519
+00:28:54,640 --> 00:28:55,870
+et que quelque-chose
+ne va pas
+
+520
+00:28:55,990 --> 00:28:58,300
+cela suggère peut être
+d'autres phénomènes.
+
+521
+00:28:58,510 --> 00:29:00,760
+Et si nous n'avions pas connu
+la loi de la gravitation
+
+522
+00:29:00,760 --> 00:29:03,680
+il nous aurait fallu beaucoup plus de temps pour trouver la vitesse de la lumière.
+
+523
+00:29:04,010 --> 00:29:07,470
+Car nous n'aurions pas su quoi attendre de la part des satellites de Jupiter.
+
+524
+00:29:08,960 --> 00:29:12,040
+Ce processus s'est développé en une avalanche de découvertes.
+
+525
+00:29:12,040 --> 00:29:15,520
+Chaque nouvelle découverte devenant l'outil pour faire bien d'autres découvertes
+
+526
+00:29:15,780 --> 00:29:19,700
+et ce fût le début de cette avalanche qui se poursuit aujourd'hui,
+
+527
+00:29:19,700 --> 00:29:22,790
+depuis 400 ans et de manière continue.
+
+528
+00:29:23,100 --> 00:29:27,160
+Et elle continue à nous emporter à grande vitesse aujourd'hui.
+
+529
+00:29:45,360 --> 00:29:47,020
+Un nouveau problème est apparu.
+
+530
+00:29:47,870 --> 00:29:50,010
+Les planètes ne devraient pas se déplacer le long d'ellipses
+
+531
+00:29:50,010 --> 00:29:51,540
+car, selon les lois de Newton,
+
+532
+00:29:51,540 --> 00:29:53,540
+elles ne sont pas seulement
+attirées par le Soleil,
+
+533
+00:29:53,680 --> 00:29:55,200
+mais elle s'attirent aussi
+mutuellement,
+
+534
+00:29:55,200 --> 00:29:56,540
+un tout petit peu,
+seulement un tout petit peu,
+
+535
+00:29:56,540 --> 00:29:58,060
+mais un petit peu
+c'est quelque-chose
+
+536
+00:29:58,090 --> 00:30:00,670
+et cela contribuera un petit peu
+à leurs mouvements.
+
+537
+00:30:01,830 --> 00:30:05,500
+Jupiter, Saturne et Uranus étaient les plus grosses planètes connues
+
+538
+00:30:05,500 --> 00:30:07,100
+et des calculs ont
+été menés pour savoir
+
+539
+00:30:07,110 --> 00:30:09,500
+à quoi ressemblait cette petite différence par rapport à l'ellipse parfaite
+
+540
+00:30:09,500 --> 00:30:11,500
+que Kepler avait
+prédite pour elles,
+
+541
+00:30:11,500 --> 00:30:12,810
+Jupiter, Saturne
+et Uranus,
+
+542
+00:30:12,810 --> 00:30:15,260
+par leur attraction mutuelle,
+
+543
+00:30:15,690 --> 00:30:19,260
+Et quand ils terminèrent leurs calculs et leurs observations ils remarquèrent
+
+544
+00:30:19,520 --> 00:30:22,410
+que Jupiter et Saturne se déplaçaient bien selon les calculs
+
+545
+00:30:22,560 --> 00:30:24,620
+mais que Uranus faisait
+quelque chose d'amusant.
+
+546
+00:30:24,790 --> 00:30:27,450
+Une nouvelle occasion pour les lois de Newton d'être fructueuses.
+
+547
+00:30:27,450 --> 00:30:29,450
+Mais courage...
+
+548
+00:30:31,450 --> 00:30:34,480
+Ces deux hommes qui
+ont mené les calculs,
+
+549
+00:30:34,500 --> 00:30:36,530
+Adams et Le Verrier,
+
+550
+00:30:36,530 --> 00:30:37,370
+de manière indépendante
+
+551
+00:30:37,370 --> 00:30:39,070
+et quasiment au même moment,
+
+552
+00:30:39,570 --> 00:30:41,600
+ont proposé que le mouvement
+d'Uranus était perturbé
+
+553
+00:30:41,610 --> 00:30:44,720
+par la présence d'une nouvelle planète encore jamais observée.
+
+554
+00:30:45,230 --> 00:30:49,100
+Ils ont écrit une lettre à leurs observatoires respectifs, leur disant où regarder.
+
+555
+00:30:49,230 --> 00:30:52,030
+" Tourne ton télescope et regarde ici,
+tu verras une planète. "
+
+556
+00:30:52,150 --> 00:30:55,200
+" Quelle absurdité ! " pensa
+un des observatoires,
+
+557
+00:30:55,200 --> 00:30:57,900
+qu'un type assis avec des bouts
+de papier et des crayons
+
+558
+00:30:57,960 --> 00:31:00,650
+puisse nous dire où regarder pour trouver une nouvelle planète.
+
+559
+00:31:00,890 --> 00:31:03,510
+Et l'autre observatoire était plus...
+
+560
+00:31:04,180 --> 00:31:06,250
+moins... Enfin,
+
+561
+00:31:06,610 --> 00:31:09,320
+l'administration était différente.
+
+562
+00:31:14,820 --> 00:31:16,970
+Et ils ont trouvé Neptune.
+
+563
+00:31:20,480 --> 00:31:22,810
+Plus récemment,
+au début du 20e siècle,
+
+564
+00:31:22,810 --> 00:31:25,220
+il est devenu clair que le mouvement de la planète Mercure
+
+565
+00:31:25,220 --> 00:31:27,450
+n'était pas exactement correct.
+
+566
+00:31:27,840 --> 00:31:31,000
+Et cela causa de nombreux problèmes et n'eut pas d'explications
+
+567
+00:31:31,020 --> 00:31:33,020
+jusqu'à une modification
+des lois de Newton,
+
+568
+00:31:33,230 --> 00:31:36,200
+les lois de Newton
+étaient légèrement incorrectes,
+
+569
+00:31:36,440 --> 00:31:37,720
+et elles ont du être modifiées.
+
+570
+00:31:37,760 --> 00:31:40,780
+Je ne vais pas parler des
+modifications apportées
+
+571
+00:31:41,000 --> 00:31:42,530
+par Einstein.
+
+572
+00:31:43,430 --> 00:31:44,590
+A présent la question est la suivante :
+
+573
+00:31:45,020 --> 00:31:48,290
+jusqu'où cette loi s'étend ?
+
+574
+00:31:48,520 --> 00:31:50,420
+S'étend elle au delà
+du système solaire?
+
+575
+00:31:50,980 --> 00:31:54,520
+J'ai mis des preuves sur la première diapo que la loi de la gravitation
+
+576
+00:31:54,590 --> 00:31:58,680
+s'étend sur une échelle plus vaste que celle du système solaire.
+
+577
+00:31:59,100 --> 00:32:01,600
+Est présentée ici une série
+de trois photographies
+
+578
+00:32:01,920 --> 00:32:04,470
+de ce qu'on appelle une "double étoile".
+
+579
+00:32:04,710 --> 00:32:07,260
+Il y en a heureusement
+une troisième ici
+
+580
+00:32:07,260 --> 00:32:09,680
+pour que vous puissiez vous rendre compte qu'elles tournent bien
+
+581
+00:32:09,680 --> 00:32:11,890
+et que personne ne s'est juste contenté tourner le cadre
+
+582
+00:32:11,900 --> 00:32:14,380
+ce qui est facile à faire
+sur des photos d'astronomie.
+
+583
+00:32:14,520 --> 00:32:16,560
+Mais les étoiles se tournent bien autour.
+
+584
+00:32:16,700 --> 00:32:19,100
+Et en regardant ceci et en
+cherchant les orbites
+
+585
+00:32:19,100 --> 00:32:22,030
+vous pouvez voir les orbites qu'elles suivent sur la diapo suivante.
+
+586
+00:32:23,080 --> 00:32:25,060
+Il est certain qu'elle
+s'attirent mutuellement
+
+587
+00:32:25,060 --> 00:32:26,820
+et se tournent autour
+suivant une ellipse
+
+588
+00:32:26,930 --> 00:32:29,810
+comme on pouvait l'attendre. Ceci est une succession d'images
+
+589
+00:32:30,130 --> 00:32:33,920
+prises lors de sa révolution pour différents intervalles de temps.
+
+590
+00:32:33,920 --> 00:32:35,440
+je crois... oui elle tourne
+dans ce sens.
+
+591
+00:32:35,440 --> 00:32:37,270
+ils l'ont pas très bien vu
+quand elle était trop proche,
+
+592
+00:32:37,280 --> 00:32:39,050
+et ici on voit où
+elle était en 1905,
+
+593
+00:32:39,050 --> 00:32:40,340
+ma diapo est très ancienne,
+
+594
+00:32:40,340 --> 00:32:42,820
+Ca a encore fait un tour depuis.
+
+595
+00:32:43,680 --> 00:32:45,650
+Et vous serez satisfaits jusqu'à
+ce que vous remarquiez,
+
+596
+00:32:45,680 --> 00:32:47,560
+si ce n'est pas déjà le cas,
+
+597
+00:32:47,560 --> 00:32:50,260
+que le centre n'est pas
+au foyer de l'ellipse,
+
+598
+00:32:50,260 --> 00:32:52,260
+il est un peu décalé.
+
+599
+00:32:52,260 --> 00:32:55,680
+Ce n'est pas un problème
+avec notre loi, c'est juste
+
+600
+00:32:55,680 --> 00:32:58,370
+que Dieu ne nous l'a pas présentée
+avec l'orbite de face,
+
+601
+00:32:58,370 --> 00:33:00,000
+elle est tournée d'un petit angle,
+
+602
+00:33:00,000 --> 00:33:02,000
+si vous prenez une ellipse
+et repérez son foyer
+
+603
+00:33:02,000 --> 00:33:05,140
+et tenez le bout de papier sous un angle étrange et regardez la projection,
+
+604
+00:33:05,140 --> 00:33:08,850
+le foyer n'a pas à se trouver au foyer de... l'image projetée.
+
+605
+00:33:08,850 --> 00:33:11,600
+C'est parce que l'orbite est
+inclinée dans l'espace
+
+606
+00:33:11,600 --> 00:33:14,530
+que ça ressemble à ça, qu'on dirait que ce n'est pas la bonne structure.
+
+607
+00:33:14,590 --> 00:33:15,740
+Mais tout va bien,
+
+608
+00:33:15,740 --> 00:33:18,500
+vous pouvez tout remettre en place et ça correspond parfaitement aux prédictions.
+
+609
+00:33:18,770 --> 00:33:20,500
+Et pour une distance
+encore plus grande ?
+
+610
+00:33:20,800 --> 00:33:22,610
+Cette force entre les étoiles
+
+611
+00:33:22,610 --> 00:33:24,970
+se retrouve-t-elle au delà
+de ces distances ?
+
+612
+00:33:24,990 --> 00:33:28,640
+-qui n'excèdent pas deux ou trois fois le diamètre du système solaire.
+
+613
+00:33:28,760 --> 00:33:30,750
+Sur la diapo suivante,
+
+614
+00:33:30,980 --> 00:33:34,940
+ce que vous voyez est 100 000 fois plus grand que le diamètre du système solaire,
+
+615
+00:33:36,910 --> 00:33:39,200
+C'est un grand nombre d'étoiles,
+
+616
+00:33:39,580 --> 00:33:41,000
+un nombre formidable d'étoiles,
+
+617
+00:33:41,080 --> 00:33:43,280
+et cette tâche blanche n'est pas
+un corps solide,
+
+618
+00:33:43,300 --> 00:33:45,020
+c'est seulement à cause de
+l'incapacité de nos instruments
+
+619
+00:33:45,040 --> 00:33:46,360
+à séparer ce qu'ils mesurent,
+
+620
+00:33:46,360 --> 00:33:48,880
+mais les minuscules points blancs, comme les autres étoiles,
+
+621
+00:33:48,880 --> 00:33:50,640
+sont bien séparés les
+uns des autres,
+
+622
+00:33:50,660 --> 00:33:51,730
+ne se rentrent pas dedans,
+
+623
+00:33:51,730 --> 00:33:53,980
+chacun tombant à travers,
+allant et venant,
+
+624
+00:33:54,000 --> 00:33:56,090
+au sein de ce grand
+amas stellaire.
+
+625
+00:33:56,520 --> 00:33:58,380
+C'est l'une des plus
+belles choses dans le ciel,
+
+626
+00:33:58,520 --> 00:34:00,860
+aussi belle que des vagues sur l'océan au coucher du soleil,
+
+627
+00:34:02,120 --> 00:34:04,440
+D'après la répartition
+de la matière,
+
+628
+00:34:04,520 --> 00:34:07,060
+il est très clair que ce qui
+les retient toutes ensemble,
+
+629
+00:34:07,150 --> 00:34:10,700
+c'est la gravitation,
+l'attraction mutuelle des étoiles.
+
+630
+00:34:10,890 --> 00:34:12,520
+et la répartition de la matière,
+
+631
+00:34:12,540 --> 00:34:16,200
+sa façon de s'évanouir lorsqu'on
+s'éloigne du centre,
+
+632
+00:34:16,360 --> 00:34:18,600
+nous permet de trouver à peu près
+
+633
+00:34:18,780 --> 00:34:22,530
+la force qui s'exerce entre les étoiles, et bien sûr, il en ressort que
+
+634
+00:34:22,530 --> 00:34:25,100
+cette force est à peu près celle
+en inverse du carré,
+
+635
+00:34:25,100 --> 00:34:28,320
+la précision de ces calculs et
+de ces mesures
+
+636
+00:34:28,640 --> 00:34:31,720
+n'atteindra jamais celle
+possible dans le système solaire,
+
+637
+00:34:32,280 --> 00:34:35,100
+Mais la gravité s'étend
+encore plus loin...
+
+638
+00:34:35,450 --> 00:34:37,930
+Ce n'était qu'un petit point
+au sein d'une galaxie,
+
+639
+00:34:38,040 --> 00:34:41,200
+et la diapo suivante montre une
+galaxie caractéristique.
+
+640
+00:34:41,770 --> 00:34:43,740
+Et il parait évident
+qu'une fois encore,
+
+641
+00:34:43,770 --> 00:34:45,680
+cette chose est  maintenue comme un tout d'une certaine manière
+
+642
+00:34:45,680 --> 00:34:48,570
+et que le seul candidat acceptable
+est la gravitation.
+
+643
+00:34:48,570 --> 00:34:50,790
+Quand nous arrivons à cette taille,
+
+644
+00:34:50,790 --> 00:34:54,630
+nous n'avons plus aucun moyen de vérifier la loi en inverse du carré.
+
+645
+00:34:54,740 --> 00:35:00,560
+Mais on dirait qu'il n'y aucune raison de douter que cette grande agglomération d'étoiles, ces galaxies,
+
+646
+00:35:00,730 --> 00:35:03,840
+qui ont un diamètre compris entre 50 000 et 100 000 années-lumières,
+
+647
+00:35:04,050 --> 00:35:05,040
+le système solaire est...
+
+648
+00:35:05,240 --> 00:35:09,850
+la distance de la Terre au Soleil est seulement de 8 minutes-lumières,
+
+649
+00:35:10,030 --> 00:35:12,080
+ceci a une taille de
+150 années-lumières
+
+650
+00:35:12,240 --> 00:35:15,380
+et la gravité s'exerce même
+sur ces distances.
+
+651
+00:35:15,380 --> 00:35:18,640
+Sur la prochaine diapo cette preuve se retrouve encore au delà.
+
+652
+00:35:19,040 --> 00:35:21,720
+Ici on peut voir ce qu'on appelle
+un amas de galaxie,
+
+653
+00:35:21,930 --> 00:35:24,480
+Il y a une galaxie ici,
+et ici et ici,
+
+654
+00:35:24,670 --> 00:35:28,200
+une galaxie ici, elles sont toutes dans un ensemble de galaxies.
+
+655
+00:35:28,210 --> 00:35:30,520
+de manière analogue à
+l'amas d'étoiles
+
+656
+00:35:30,570 --> 00:35:32,590
+mais cette fois,
+ce qui est en amas,
+
+657
+00:35:32,810 --> 00:35:36,590
+ce sont ces gros bébés que je vous ai montré sur la diapo précédente.
+
+658
+00:35:41,380 --> 00:35:45,400
+C'est aussi grand que... c'est environ un 1/10e, peut être un 1/100e,
+
+659
+00:35:45,400 --> 00:35:51,790
+de la taille de l'Univers et cela nous donne une idée jusqu'où s'étend l'influence de la gravitation.
+
+660
+00:35:52,550 --> 00:35:56,180
+Le champ gravitationnel de la Terre
+
+661
+00:35:57,600 --> 00:35:59,040
+n'a pas de bords,
+
+662
+00:35:59,160 --> 00:36:01,040
+contrairement à ce que vous pouvez lire dans les journaux,
+
+663
+00:36:01,040 --> 00:36:03,450
+où les planètes "sortent"
+du champ de gravitation,
+
+664
+00:36:03,610 --> 00:36:06,770
+il s'étend partout,
+de plus en plus faible,
+
+665
+00:36:06,770 --> 00:36:08,360
+inversement proportionnel
+au carré de la distance,
+
+666
+00:36:08,360 --> 00:36:11,410
+son intensité est divisée par 4 à chaque fois que vous doublez la distance,
+
+667
+00:36:11,560 --> 00:36:13,840
+jusqu'à ce qu'il se mêle à
+d'autres champs plus intenses,
+
+668
+00:36:13,890 --> 00:36:16,780
+et se perde dans la confusion, dans le champ intense d'une autre étoile,
+
+669
+00:36:16,990 --> 00:36:20,080
+et toutes ensemble,
+les étoiles et leur voisinage,
+
+670
+00:36:20,080 --> 00:36:21,200
+attirent les autres étoiles
+
+671
+00:36:21,200 --> 00:36:23,260
+pour former une galaxie,
+et toutes ensemble
+
+672
+00:36:23,270 --> 00:36:25,710
+elles attirent une autre galaxie
+pour faire une structure,
+
+673
+00:36:25,820 --> 00:36:27,530
+un amas de galaxies.
+
+674
+00:36:27,710 --> 00:36:31,050
+Donc le champ gravitationnel de la Terre ne prend jamais fin,
+
+675
+00:36:31,130 --> 00:36:32,700
+mais s'essouffle tout doucement
+
+676
+00:36:32,730 --> 00:36:34,830
+selon une loi très précise,
+
+677
+00:36:34,850 --> 00:36:37,880
+probablement jusqu'aux
+bords de l'univers.
+
+678
+00:36:41,600 --> 00:36:43,670
+La loi de la gravitation
+
+679
+00:36:43,800 --> 00:36:47,690
+est différente des nombreuses autres lois et elle est très importante
+
+680
+00:36:50,730 --> 00:36:53,130
+dans l'économie,
+la machinerie de l'univers
+
+681
+00:36:53,130 --> 00:36:57,410
+Il y a beaucoup de situations où la gravité a des applications pratiques
+
+682
+00:36:57,410 --> 00:36:59,590
+dans la mesure où
+il est question de l'univers.
+
+683
+00:36:59,690 --> 00:37:02,980
+Une caractéristique propre à
+la loi de la gravitation,
+
+684
+00:37:02,980 --> 00:37:06,080
+est qu'elle a peu d'applications pratiques,
+
+685
+00:37:06,080 --> 00:37:08,480
+je n'entends pas les nouvelles connaissances qu'on peut en tirer,
+
+686
+00:37:08,480 --> 00:37:10,670
+il y a encore des gens
+assis en train d'y penser.
+
+687
+00:37:10,800 --> 00:37:15,490
+La connaissance de cette loi a relativement peu d'applications pratiques,
+
+688
+00:37:15,490 --> 00:37:16,230
+comparée aux autres lois.
+
+689
+00:37:16,250 --> 00:37:18,960
+C'est un cas où je voudrai bien prendre un exemple typique.
+
+690
+00:37:19,210 --> 00:37:20,520
+C'est impossible d'ailleurs
+
+691
+00:37:20,520 --> 00:37:25,100
+en prenant un exemple de quoi que ce soit d'en prendre un qui soit vraiment typique.
+
+692
+00:37:25,180 --> 00:37:27,460
+C'est une des merveilles du monde...
+
+693
+00:37:27,600 --> 00:37:29,340
+Les seules applications qui
+me viennent à l'esprit
+
+694
+00:37:29,340 --> 00:37:34,000
+concernent des mesures géophysiques, la prédiction des marées.
+
+695
+00:37:34,300 --> 00:37:36,160
+Plus récemment,
+
+696
+00:37:36,380 --> 00:37:40,600
+on l'utilise pour contrôler
+le mouvement des satellites,
+
+697
+00:37:40,910 --> 00:37:43,710
+et des sondes spatiales etc...
+
+698
+00:37:43,710 --> 00:37:48,000
+et aussi plus récemment pour prédire les positions des planètes
+
+699
+00:37:48,160 --> 00:37:53,450
+qui sont très utiles aux astrologues pour publier leurs horoscopes
+
+700
+00:37:53,580 --> 00:37:55,700
+dans des magazines.
+
+701
+00:37:56,880 --> 00:37:59,010
+C'est dans ce monde étrange
+que nous vivons,
+
+702
+00:37:59,180 --> 00:38:01,630
+où tous les progrès dans notre compréhension des choses
+
+703
+00:38:01,780 --> 00:38:03,470
+sont seulement mis à profit
+
+704
+00:38:03,490 --> 00:38:08,200
+pour alimenter ces absurdités qui existent depuis 2000 ans.
+
+705
+00:38:12,570 --> 00:38:16,380
+Nous avons vu que la gravitation agit sur de grandes distances,
+
+706
+00:38:16,380 --> 00:38:18,480
+Newton a dit que tout
+attirait tout le reste,
+
+707
+00:38:18,490 --> 00:38:19,640
+est ce que je vous attire ?
+
+708
+00:38:19,640 --> 00:38:22,930
+Excusez moi, j'entends,
+est ce que je vous attire...
+
+709
+00:38:22,930 --> 00:38:25,230
+J'allais dire, " excusez moi,
+est ce que je vous attire physiquement? "
+
+710
+00:38:25,310 --> 00:38:27,220
+Je ne voulais pas dire ça...
+
+711
+00:38:29,820 --> 00:38:31,440
+Ce que je veux dire c'est
+
+712
+00:38:31,440 --> 00:38:34,840
+est ce que c'est vraiment le cas que deux choses s'attirent mutuellement,
+
+713
+00:38:35,000 --> 00:38:37,780
+Peut on en faire une expérience
+directe sans attendre
+
+714
+00:38:37,780 --> 00:38:39,480
+de voir ce qui se passe
+pour les planètes,
+
+715
+00:38:39,740 --> 00:38:41,100
+de savoir si elles
+s'attirent les unes les autres.
+
+716
+00:38:41,100 --> 00:38:43,980
+Et cette expérience,
+ce test direct,
+
+717
+00:38:44,180 --> 00:38:45,810
+a été réalisée par Cavendish,
+
+718
+00:38:45,950 --> 00:38:49,200
+avec le matériel que vous voyez
+
+719
+00:38:49,200 --> 00:38:51,200
+retranscris sur la diapo suivante.
+
+720
+00:38:53,090 --> 00:38:55,090
+J'ai bien mis ma diapo hein ?
+
+721
+00:38:57,360 --> 00:38:58,960
+Bon, je me suis trompé...
+
+722
+00:38:59,710 --> 00:39:02,650
+J'étais en train de parler
+
+723
+00:39:02,650 --> 00:39:04,720
+de l'importance de la gravitation,
+
+724
+00:39:04,720 --> 00:39:07,160
+et je me suis senti accablé par la remarque que j'ai faite sur les astrologues
+
+725
+00:39:07,190 --> 00:39:11,620
+et j'ai oublié... de mentionner les cas où la gravité a des effets très importants
+
+726
+00:39:11,660 --> 00:39:13,280
+sur le comportement de l'univers
+
+727
+00:39:13,560 --> 00:39:17,250
+et un cas intéressant est la formation de nouvelles étoiles.
+
+728
+00:39:18,450 --> 00:39:20,720
+Sur cette image, on voit
+une nébuleuse gazeuse
+
+729
+00:39:20,720 --> 00:39:22,230
+appartenant à notre galaxie
+
+730
+00:39:22,400 --> 00:39:24,490
+et ce ne sont pas des étoiles
+mais un gaz
+
+731
+00:39:24,640 --> 00:39:28,970
+il y'a des endroits où le gaz a été comprimé ou attiré par lui même, ici
+
+732
+00:39:29,280 --> 00:39:33,120
+Ca a peut être commencé à s'agglomérer sous l'effet d'une onde de choc
+
+733
+00:39:33,120 --> 00:39:36,180
+mais le résultat de ce phénomène
+est que la gravitation
+
+734
+00:39:36,180 --> 00:39:38,880
+fait s'effondrer de plus en plus le nuage de gaz sur lui même.
+
+735
+00:39:38,880 --> 00:39:41,520
+Une grande foule de poussière et
+de gaz est rassemblée
+
+736
+00:39:41,800 --> 00:39:43,640
+et forme des boules,
+
+737
+00:39:43,900 --> 00:39:45,440
+qui continuent de s'effondrer
+
+738
+00:39:45,440 --> 00:39:48,140
+et la chaleur générée par l'attraction
+
+739
+00:39:48,140 --> 00:39:50,790
+les allume, et elles
+deviennent des étoiles.
+
+740
+00:39:50,850 --> 00:39:52,230
+et nous avons sur
+la diapo suivante
+
+741
+00:39:52,250 --> 00:39:56,100
+quelques preuves concernant la création de nouvelles étoiles.
+
+742
+00:39:56,100 --> 00:40:02,220
+Malheureusement, c'est moins lisible que ce que
+j'imaginais lorsque je l'ai choisie.
+
+743
+00:40:02,220 --> 00:40:04,670
+Mais ça ce n'est pas exactement la même chose que ceci
+
+744
+00:40:04,670 --> 00:40:08,370
+Cette bosse est plus
+décentrée qu'ici
+
+745
+00:40:08,750 --> 00:40:12,190
+et celle là a un nouveau point... ici.
+
+746
+00:40:12,990 --> 00:40:15,570
+J'avais trouvé de
+meilleurs exemples
+
+747
+00:40:15,570 --> 00:40:17,280
+mais je n'ai pas été capable
+d'en faire une diapo.
+
+748
+00:40:17,310 --> 00:40:19,750
+Il y a un exemple d'un
+amas d'étoiles
+
+749
+00:40:19,880 --> 00:40:23,510
+où une lumière se développe,
+
+750
+00:40:25,280 --> 00:40:28,180
+dans les mêmes conditions,
+dans un nuage de gaz.
+
+751
+00:40:28,180 --> 00:40:30,710
+Quand le gaz est trop concentré sous l'action de la gravité
+
+752
+00:40:30,710 --> 00:40:32,940
+les étoiles naissent,
+et c'est le commencement
+
+753
+00:40:32,940 --> 00:40:35,560
+de nouvelles étoiles.
+
+754
+00:40:35,680 --> 00:40:39,120
+Les étoiles crachent de la poussière et du gaz quand elles explosent
+
+755
+00:40:39,120 --> 00:40:41,940
+et la poussière et le gaz se rassemblent à nouveau et font de nouvelles étoiles.
+
+756
+00:40:42,540 --> 00:40:44,560
+Cela ressemble à un
+mouvement perpétuel.
+
+757
+00:40:45,940 --> 00:40:48,790
+Je vais maintenant aborder le sujet que je voulais aborder
+
+758
+00:40:48,790 --> 00:40:50,810
+qui était l'expérience
+à petite échelle,
+
+759
+00:40:50,810 --> 00:40:52,940
+pour voir si les choses s'attirent vraiment les unes les autres
+
+760
+00:40:52,940 --> 00:40:55,650
+et j'espère à présent que la prochaine diapo est bien celle qui présente ...
+
+761
+00:40:55,840 --> 00:40:57,310
+c'est le deuxième essai... Oui!
+
+762
+00:40:57,330 --> 00:40:59,210
+L'expérience de Cavendish.
+
+763
+00:40:59,370 --> 00:41:03,780
+L'idée était d'accrocher, par une fibre de quartz très très fine,
+
+764
+00:41:04,140 --> 00:41:06,280
+une tige avec deux boules.
+
+765
+00:41:07,180 --> 00:41:10,720
+et ensuite de placer deux grosses boules comme l'indique le schéma,
+
+766
+00:41:10,720 --> 00:41:12,210
+à coté des deux autres,
+sur le côté.
+
+767
+00:41:12,580 --> 00:41:15,570
+Du coup, à cause de l'attraction
+exercée par les boules,
+
+768
+00:41:15,790 --> 00:41:18,120
+il y a une légère torsion
+de la fibre.
+
+769
+00:41:18,280 --> 00:41:19,680
+Cette expérience doit être
+faite très délicatement
+
+770
+00:41:19,700 --> 00:41:23,050
+car la force de gravité entre
+des choses ordinaires
+
+771
+00:41:23,090 --> 00:41:24,890
+est vraiment très très faible.
+
+772
+00:41:24,940 --> 00:41:26,390
+Et l'expérience réussit.
+
+773
+00:41:26,640 --> 00:41:28,560
+Il était alors possible de mesurer
+
+774
+00:41:28,560 --> 00:41:30,560
+la force entre ces deux boules.
+
+775
+00:41:30,760 --> 00:41:34,830
+Cavendish a nommé cette expérience
+"Peser la Terre".
+
+776
+00:41:36,030 --> 00:41:38,840
+Aujourd'hui, pour être juste,
+
+777
+00:41:38,840 --> 00:41:40,520
+nous n'autoriserions pas
+nos étudiants à dire ça,
+
+778
+00:41:40,520 --> 00:41:43,340
+Nous dirions "nous mesurons la masse" de la Terre.
+
+779
+00:41:43,990 --> 00:41:46,810
+Mais la raison pour laquelle
+il a dit ça est la suivante,
+
+780
+00:41:46,970 --> 00:41:50,030
+Par une expérience directe, il était capable de mesurer la force,
+
+781
+00:41:50,030 --> 00:41:52,010
+et les deux masses,
+et les distances
+
+782
+00:41:52,010 --> 00:41:54,380
+ce qui permet de déterminer la constante gravitationnelle (G)
+
+783
+00:41:54,610 --> 00:41:57,600
+Vous pourrez dire "d'accord, mais on a la même situation sur la Terre",
+
+784
+00:41:57,600 --> 00:41:58,620
+" on connait l'attraction, "
+
+785
+00:41:58,890 --> 00:42:00,980
+" et nous connaissons les masses
+des objets qui s'attirent, "
+
+786
+00:42:00,980 --> 00:42:02,480
+" et nous savons à quelle distance ils sont, "
+
+787
+00:42:02,570 --> 00:42:05,210
+mais nous ne connaissons ni la masse de la Terre ni la constante
+
+788
+00:42:05,230 --> 00:42:07,120
+mais seulement la combinaison.
+
+789
+00:42:07,310 --> 00:42:08,960
+Donc en mesurant la constante,
+
+790
+00:42:09,120 --> 00:42:11,180
+et connaissant la force
+d'attraction de la Terre
+
+791
+00:42:11,180 --> 00:42:13,100
+la masse de la Terre peut être mesurée.
+
+792
+00:42:13,210 --> 00:42:15,180
+Indirectement, cette expérience
+
+793
+00:42:15,180 --> 00:42:21,520
+fût la première mesure du poids, de la masse de la boule sur laquelle nous nous tenons.
+
+794
+00:42:22,220 --> 00:42:25,760
+D'avoir fait cette découverte
+est une grande réussite,
+
+795
+00:42:25,760 --> 00:42:28,330
+et c'est pourquoi Cavendish à interprété son expérience de cette façon,
+
+796
+00:42:28,330 --> 00:42:31,530
+au lieu de
+"déterminer la constante dans l'équation de la gravitation".
+
+797
+00:42:31,530 --> 00:42:34,000
+" Peser la Terre! "
+
+798
+00:42:36,570 --> 00:42:41,020
+Mais il était en train de peser le Soleil et tout le reste en même temps,
+
+799
+00:42:41,260 --> 00:42:44,800
+car l'attraction du Soleil est connue de la même façon.
+
+800
+00:42:47,010 --> 00:42:50,810
+Un autre test de la loi de
+la gravitation est intéressant,
+
+801
+00:42:51,120 --> 00:42:54,240
+et c'est de se demander
+
+802
+00:42:57,710 --> 00:43:00,400
+l'attraction est exactement
+proportionnelle à la masse,
+
+803
+00:43:00,800 --> 00:43:03,080
+si l'attraction est exactement
+proportionnelle à la masse
+
+804
+00:43:03,180 --> 00:43:04,610
+et la réaction aux forces,
+
+805
+00:43:04,640 --> 00:43:06,370
+le mouvement provoqué par les forces,
+
+806
+00:43:06,370 --> 00:43:07,790
+les variations de la vitesse,
+
+807
+00:43:07,830 --> 00:43:09,650
+sont inversement
+proportionnelles à la masse
+
+808
+00:43:09,650 --> 00:43:12,590
+cela signifie que deux objets
+de masses différentes
+
+809
+00:43:12,590 --> 00:43:14,770
+vont changer leur vitesse
+de la même façon
+
+810
+00:43:14,920 --> 00:43:16,210
+dans le champ gravitationnel,
+
+811
+00:43:16,210 --> 00:43:18,400
+Ou bien, deux choses différentes
+
+812
+00:43:18,420 --> 00:43:22,510
+peu importe leur masses, tomberont de la même façon sur Terre.
+
+813
+00:43:23,060 --> 00:43:26,540
+Et c'est ce que disent les expériences de Galilée menées sur la tour de Pise.
+
+814
+00:43:27,020 --> 00:43:30,370
+J'ai emmené mon fils de deux ans et demi voir la tour de Pise
+
+815
+00:43:30,520 --> 00:43:34,810
+et à chaque fois qu'on reçoit un invité il dit " Tour de Pise ".
+
+816
+00:43:36,480 --> 00:43:37,780
+Bref,
+
+817
+00:43:38,000 --> 00:43:40,670
+cela signifie par exemple
+que dans un satellite
+
+818
+00:43:41,680 --> 00:43:44,400
+j'entends par là un
+satellite artificiel,
+
+819
+00:43:44,490 --> 00:43:47,420
+un objet placé à l'intérieur
+fera la tour de la Terre
+
+820
+00:43:47,420 --> 00:43:49,840
+suivant le même genre d'orbite que le satellite dans lequel il se trouve
+
+821
+00:43:49,840 --> 00:43:52,300
+et il semble y flotter au milieu.
+
+822
+00:43:52,420 --> 00:43:56,550
+Le fait que les forces sont exactement proportionnelles à la masse,
+
+823
+00:43:56,550 --> 00:43:59,020
+et que la réaction aux forces est inversement proportionnelle à la masse
+
+824
+00:43:59,020 --> 00:44:01,150
+a cette conséquence
+très intéressante.
+
+825
+00:44:01,290 --> 00:44:03,550
+Avec quelle précision
+est-ce correcte ?
+
+826
+00:44:04,080 --> 00:44:06,960
+Cela a été mesuré lors
+d'une expérience
+
+827
+00:44:06,960 --> 00:44:08,960
+réalisée par un homme
+nommé Eötvös
+
+828
+00:44:09,380 --> 00:44:14,780
+en 1909 et aussi plus récemment et plus précisément par Dickey,
+
+829
+00:44:14,920 --> 00:44:19,500
+et c'est connu avec une précision de un sur dix mille millions
+
+830
+00:44:22,380 --> 00:44:25,980
+que les forces sont exactement proportionnelles à la masse.
+
+831
+00:44:27,190 --> 00:44:30,630
+Comment est ce possible de faire des mesures avec une telle précision ?
+
+832
+00:44:30,630 --> 00:44:35,000
+J'aimerai avoir le temps de vous expliquer... mais je ne l'ai pas.
+
+833
+00:44:35,080 --> 00:44:38,420
+C'est vraiment très malin,
+je vous donne un indice.
+
+834
+00:44:38,420 --> 00:44:42,390
+Supposez que vous vouliez vous assurer que c'est vrai pour l'attraction du Soleil?
+
+835
+00:44:42,390 --> 00:44:45,660
+Vous savez le Soleil nous attire et
+attire la Terre
+
+836
+00:44:46,290 --> 00:44:47,780
+supposez que vous cherchiez à savoir...
+
+837
+00:44:47,820 --> 00:44:52,120
+vous avez un morceau de plomb ici et un morceau de cuivre là
+
+838
+00:44:55,500 --> 00:44:59,390
+Ce fût d'abord réalisé avec du bois de santal, à présent on utilise du polyéthylène.
+
+839
+00:45:00,140 --> 00:45:04,540
+Si l'attraction est exactement
+proportionnelle à l'inertie
+
+840
+00:45:04,620 --> 00:45:09,170
+la Terre fait le tour du Soleil donc ces morceaux sont rejetés par inertie
+
+841
+00:45:09,170 --> 00:45:12,590
+et ils sont rejetés à condition que ces deux morceaux aient une inertie,
+
+842
+00:45:12,590 --> 00:45:14,590
+Mais ils sont attirés
+par le Soleil
+
+843
+00:45:14,590 --> 00:45:17,860
+car ils ont une masse qui s'exprime dans la loi de l'attraction
+
+844
+00:45:18,010 --> 00:45:22,010
+donc s'ils sont attirés par le Soleil dans des proportions différentes que leur rejet par inertie
+
+845
+00:45:22,140 --> 00:45:24,330
+l'un est attiré vers le Soleil
+et l'autre s'en écarte
+
+846
+00:45:24,330 --> 00:45:27,280
+en accrochant le tout à une fibre de quartz comme dans l'expérience de Cavendish
+
+847
+00:45:27,280 --> 00:45:29,160
+cela tournera vers le Soleil.
+
+848
+00:45:29,260 --> 00:45:31,660
+Mais ça ne tourne pas.
+
+849
+00:45:31,700 --> 00:45:34,460
+Nous savons que la force d'attraction du Soleil pour ces deux objets
+
+850
+00:45:34,470 --> 00:45:37,570
+est exactement proportionnelle à l'effet centrifuge, leur inertie,
+
+851
+00:45:37,570 --> 00:45:42,240
+Donc la force d'attraction d'un objet est exactement proportionnelle à son coefficient d'inertie
+
+852
+00:45:42,280 --> 00:45:44,160
+c'est à dire à sa masse.
+
+853
+00:45:46,320 --> 00:45:49,840
+Je devrai vous dire un mot sur la relation entre la force de gravitation
+
+854
+00:45:50,110 --> 00:45:52,490
+et les autres forces présentes
+dans la Nature
+
+855
+00:45:52,800 --> 00:45:53,680
+dans les phénomènes naturels,
+
+856
+00:45:53,680 --> 00:45:56,880
+et j'en dirai plus sur
+cette relation plus tard.
+
+857
+00:45:56,880 --> 00:46:00,130
+Mais il y a une chose particulièrement
+intéressante
+
+858
+00:46:00,130 --> 00:46:02,730
+où la loi en inverse du carré de la distance apparait de nouveau
+
+859
+00:46:02,730 --> 00:46:05,040
+elle apparait dans les lois de
+l'électricité par exemple.
+
+860
+00:46:05,180 --> 00:46:07,040
+Dans l'électricité apparaît également
+
+861
+00:46:07,100 --> 00:46:09,030
+une force inversement
+proportionnelle à la distance,
+
+862
+00:46:09,030 --> 00:46:11,030
+mais à présent entre les charges.
+
+863
+00:46:12,750 --> 00:46:16,960
+Peut être que quelque-chose en inverse du carré de la distance à un sens profond.
+
+864
+00:46:17,230 --> 00:46:20,660
+Peut être que la gravité et l'électricité sont des aspects différents d'une même chose.
+
+865
+00:46:20,750 --> 00:46:23,610
+Personne n'a jamais réussi à faire de l'électricité et de la gravitation
+
+866
+00:46:23,630 --> 00:46:24,880
+les deux aspects
+d'une même chose.
+
+867
+00:46:24,880 --> 00:46:28,210
+A l'heure actuelle, les théories,
+les lois de la physique
+
+868
+00:46:28,210 --> 00:46:30,930
+forment un ensemble de parties, de pièces
+
+869
+00:46:30,930 --> 00:46:32,580
+qui ne s’emboîtent pas
+très bien ensemble.
+
+870
+00:46:32,580 --> 00:46:35,480
+Nous ne comprenons pas
+l'une en terme de l'autre.
+
+871
+00:46:35,480 --> 00:46:38,220
+Nous n'avons pas une structure commune à partir de laquelle tout est déduit.
+
+872
+00:46:38,220 --> 00:46:41,810
+Nous avons plusieurs parties qui s'assemblent mal pour l'instant.
+
+873
+00:46:41,930 --> 00:46:43,740
+Et c'est la raison pour laquelle
+dans cette conférence,
+
+874
+00:46:43,740 --> 00:46:47,460
+n'ayant pas la capacité de vous raconter qu'est ce que LA loi de la physique
+
+875
+00:46:47,980 --> 00:46:50,890
+je vous ai parlé de choses qui proviennent de lois différentes
+
+876
+00:46:50,890 --> 00:46:53,570
+parce que nous ne savons pas, nous ne comprenons pas
+
+877
+00:46:53,790 --> 00:46:55,150
+les connections entre elles.
+
+878
+00:46:55,150 --> 00:46:58,060
+Mais ce qui est curieux c'est qu'il y a des choses identiques dans des lois différentes.
+
+879
+00:46:58,190 --> 00:47:01,400
+Mais maintenant revenons à
+loi de l'électricité.
+
+880
+00:47:01,950 --> 00:47:04,180
+La loi s'exprime en inverse
+du carré de la distance
+
+881
+00:47:04,600 --> 00:47:06,370
+mais ce qui est remarquable
+
+882
+00:47:06,370 --> 00:47:08,150
+c'est la différence
+formidable qui existe
+
+883
+00:47:08,200 --> 00:47:11,140
+entre l'intensité de la loi électrique
+et gravitationnelle.
+
+884
+00:47:11,280 --> 00:47:14,940
+Des gens ont voulu faire le lien entre l'électricité et la gravitation
+
+885
+00:47:15,050 --> 00:47:18,280
+mais se sont rendus compte que l'électricité est tellement plus puissante que la gravité
+
+886
+00:47:18,330 --> 00:47:20,810
+que c'est difficile de penser qu'elles puissent avoir la même origine.
+
+887
+00:47:20,810 --> 00:47:23,300
+Mais comment je peux dire qu'une chose est plus forte que l'autre ?
+
+888
+00:47:23,300 --> 00:47:24,940
+Cela dépend de quelle quantité de charges vous disposez,
+
+889
+00:47:25,020 --> 00:47:26,860
+et de quelle quantité
+de masse vous disposez.
+
+890
+00:47:30,450 --> 00:47:33,120
+Vous ne pouvez pas dire qu'elle est la "force" de la gravité
+
+891
+00:47:33,140 --> 00:47:35,010
+en prenant une bouchée
+de telle ou telle taille
+
+892
+00:47:35,010 --> 00:47:37,540
+car vous choisissez la taille !
+
+893
+00:47:37,690 --> 00:47:39,610
+Si nous voulons une réponse à cela,
+
+894
+00:47:39,610 --> 00:47:42,150
+il nous faut des nombres complètement déterminés par la Nature,
+
+895
+00:47:42,150 --> 00:47:44,680
+qui n'ont rien à voir avec
+des pouces, des années
+
+896
+00:47:44,690 --> 00:47:46,500
+ou n'importe quoi d'autre
+propre à notre dimension.
+
+897
+00:47:46,500 --> 00:47:47,790
+Nous pouvons procéder ainsi,
+
+898
+00:47:47,790 --> 00:47:51,200
+Si nous prenons des particules fondamentales, comme les électrons,
+
+899
+00:47:51,200 --> 00:47:53,280
+d'autres particules donneraient
+des nombres différents
+
+900
+00:47:53,310 --> 00:47:55,280
+mais pour se faire une idée,
+prenons des électrons.
+
+901
+00:47:55,730 --> 00:47:58,200
+Deux électrons sont des particules fondamentales, ce sont des objets,
+
+902
+00:47:58,200 --> 00:48:00,200
+ce n'est pas quelque chose que je...
+
+903
+00:48:00,200 --> 00:48:02,550
+Je n'ai pas à vous dire avec
+quelle unité je mesure,
+
+904
+00:48:02,550 --> 00:48:04,550
+ce sont deux particules
+élémentaires
+
+905
+00:48:04,550 --> 00:48:05,500
+et elles se repoussent
+
+906
+00:48:05,500 --> 00:48:06,880
+inversement proportionnelle
+au carré de la distance,
+
+907
+00:48:06,890 --> 00:48:07,800
+selon la loi électrique
+
+908
+00:48:07,960 --> 00:48:10,360
+et elles s'attirent de manière inversement proportionnelle au carré de la distance
+
+909
+00:48:10,360 --> 00:48:11,220
+sous l'effet de la gravitation.
+
+910
+00:48:11,220 --> 00:48:15,720
+Question: quel est le ratio de la force gravitationnelle à la force électrique ?
+
+911
+00:48:15,930 --> 00:48:18,600
+et c'est ce qui est montré
+sur la diapo suivante.
+
+912
+00:48:19,900 --> 00:48:24,110
+Le ratio de l'attraction gravitationnelle à la répulsion électrique
+
+913
+00:48:24,270 --> 00:48:27,090
+est donné par un nombre
+avec 42 chiffres,
+
+914
+00:48:27,770 --> 00:48:32,220
+et se déroule ici, avec
+exactement 42 chiffres.
+
+915
+00:48:32,660 --> 00:48:35,540
+Ici réside un mystère très profond.
+
+916
+00:48:35,740 --> 00:48:39,140
+D'où peut bien venir un
+nombre si gigantesque ?
+
+917
+00:48:39,220 --> 00:48:40,980
+Cela signifie que si un
+jour vous avez une théorie
+
+918
+00:48:41,000 --> 00:48:42,690
+laissant la place à ceux
+deux choses,
+
+919
+00:48:42,690 --> 00:48:45,500
+comment peuvent ils être réunis dans une si grande disproportion ?
+
+920
+00:48:45,600 --> 00:48:51,200
+Quelle équation peut avoir pour pour solution une force d'attraction et de répulsion
+
+921
+00:48:51,200 --> 00:48:53,200
+dans un rapport si fantastique ?
+
+922
+00:48:54,690 --> 00:48:56,690
+Des gens ont cherché,
+
+923
+00:48:56,960 --> 00:48:59,620
+d'autres ratios de cette envergure
+dans d'autres endroits.
+
+924
+00:48:59,620 --> 00:49:01,250
+Ils cherchaient un grand nombre,
+
+925
+00:49:01,250 --> 00:49:03,840
+ils espéraient qu'il y ait
+un autre grand nombre.
+
+926
+00:49:03,840 --> 00:49:06,490
+Et si vous voulez un grand nombre pourquoi ne pas pas prendre
+
+927
+00:49:06,490 --> 00:49:09,920
+le diamètre de l'Univers ramené
+au diamètre d'un proton.
+
+928
+00:49:09,920 --> 00:49:13,630
+Un nombre tout aussi gigantesque, également à 42 chiffres.
+
+929
+00:49:14,500 --> 00:49:16,900
+Une proposition intéressante a
+donc été faite,
+
+930
+00:49:16,900 --> 00:49:23,180
+que ce ratio est le même que le rapport entre la taille de l'univers et le diamètre d'un proton.
+
+931
+00:49:23,380 --> 00:49:25,410
+Mais l'univers est en expansion,
+
+932
+00:49:25,410 --> 00:49:26,340
+avec le temps,
+
+933
+00:49:26,470 --> 00:49:29,530
+et cela veut dire que la constante de gravitation varie avec le temps
+
+934
+00:49:29,530 --> 00:49:31,530
+et toutes ces possibilités...
+
+935
+00:49:32,370 --> 00:49:34,800
+Il n'y a aucune preuve
+que ce soit vrai
+
+936
+00:49:34,800 --> 00:49:38,040
+et il y a des preuves partielles
+qui semblent indiquer
+
+937
+00:49:38,060 --> 00:49:40,590
+que la constante gravitationnelle
+n'a pas changé
+
+938
+00:49:40,590 --> 00:49:44,280
+donc ce gigantesque nombre
+demeure un mystère.
+
+939
+00:49:46,060 --> 00:49:49,280
+Je dois vous dire pour en finir avec la théorie de la gravitation,
+
+940
+00:49:49,280 --> 00:49:50,000
+deux choses de plus.
+
+941
+00:49:50,020 --> 00:49:53,850
+L'une est qu' Einstein a du
+modifier la loi de la gravitation
+
+942
+00:49:53,850 --> 00:49:56,960
+pour qu'elle s'accorde avec
+ses principes de relativité.
+
+943
+00:49:56,960 --> 00:50:01,600
+Un de ces principes est que les choses ne peuvent se produire de manière instantanée,
+
+944
+00:50:01,600 --> 00:50:04,930
+alors que la théorie de Newton dit que les forces sont instantanées.
+
+945
+00:50:05,220 --> 00:50:08,250
+Il a du modifier les lois de Newton pour voir des tout petits effets
+
+946
+00:50:10,500 --> 00:50:14,800
+que toutes les masses tombent, la lumière ayant une énergie, et l'énergie étant équivalente à la masse,
+
+947
+00:50:14,840 --> 00:50:16,530
+donc la lumière doit tomber.
+
+948
+00:50:16,530 --> 00:50:20,720
+Cela signifie que la lumière qui passe près du Soleil est détournée, ce qui est le cas.
+
+949
+00:50:20,930 --> 00:50:24,800
+La force de gravitation est légèrement modifiée dans ses théories
+
+950
+00:50:24,800 --> 00:50:27,860
+donc les lois sont légèrement
+modifiées, très légèrement
+
+951
+00:50:27,860 --> 00:50:31,830
+et de juste la bonne dose pour rendre compte du petit écart
+
+952
+00:50:31,830 --> 00:50:33,830
+observé dans le mouvement
+de Mercure.
+
+953
+00:50:35,860 --> 00:50:39,600
+Enfin, concernant la connexion avec les lois physiques à petite échelle,
+
+954
+00:50:39,710 --> 00:50:42,340
+nous avons découvert que le comportement de la matière à ces échelles
+
+955
+00:50:42,340 --> 00:50:43,880
+obéit à des lois complètement
+différentes
+
+956
+00:50:43,880 --> 00:50:46,130
+très différentes que les choses
+à plus grande échelle.
+
+957
+00:50:46,440 --> 00:50:50,550
+et donc la question est de savoir à quoi ressemble la gravité aux petites échelles?
+
+958
+00:50:51,550 --> 00:50:54,040
+C'est ce qu'on appelle la
+théorie quantique de la gravité.
+
+959
+00:50:54,330 --> 00:50:58,680
+Il n'y a pas de théorique quantique de la gravitation aujourd'hui, personne n'a réussi
+
+960
+00:50:58,680 --> 00:51:03,570
+à en faire une théorie qui est compatible avec le principe d'incertitude
+
+961
+00:51:03,570 --> 00:51:05,570
+et les principes de la
+mécanique quantique,
+
+962
+00:51:05,570 --> 00:51:07,570
+Je parlerai de ces principes
+
+963
+00:51:07,980 --> 00:51:09,950
+dans une autre conférence.
+
+964
+00:51:13,690 --> 00:51:15,970
+Finalement, vous me direz
+
+965
+00:51:15,970 --> 00:51:19,450
+" Très bien, tu nous a dit ce qu'il se passait mais qu'est ce c'est cette gravité ? "
+
+966
+00:51:19,600 --> 00:51:21,540
+" D'où est ce que ça vient ?
+Qu'est ce que c'est ? "
+
+967
+00:51:21,540 --> 00:51:24,740
+" Vous venez de me dire que les planètes regardent le Soleil, "
+
+968
+00:51:24,740 --> 00:51:26,430
+" regardent à quelle distance il est,  "
+
+969
+00:51:26,430 --> 00:51:28,430
+" prennent l'inverse du
+carré de la distance,"
+
+970
+00:51:28,430 --> 00:51:32,800
+" et décident enfin de se déplacer en accord avec cette loi ... "
+
+971
+00:51:33,890 --> 00:51:36,750
+En d'autres termes, la loi est établie comme une loi mathématique,
+
+972
+00:51:36,760 --> 00:51:39,660
+et je ne vous ai donné aucun indice sur ses mécanismes.
+
+973
+00:51:40,090 --> 00:51:43,700
+Je parlerai des possibilités de le faire dans une autre conférence
+
+974
+00:51:44,270 --> 00:51:46,990
+qui traite de la relation entre les mathématiques et la physique.
+
+975
+00:51:48,270 --> 00:51:52,090
+Pour finir cette conférence, je voudrai
+
+976
+00:51:52,900 --> 00:51:55,180
+insister
+
+977
+00:51:55,180 --> 00:51:57,700
+sur quelques caractéristiques
+que la gravité
+
+978
+00:51:57,700 --> 00:51:59,220
+partage avec les autres lois
+
+979
+00:51:59,420 --> 00:52:02,110
+que nous avons mentionnées au fur et à mesure de la discussion.
+
+980
+00:52:03,380 --> 00:52:06,490
+La première est qu'elle s'exprime sous la forme d'une expression mathématique,
+
+981
+00:52:06,680 --> 00:52:08,680
+les autres forces le sont aussi,
+
+982
+00:52:08,680 --> 00:52:10,680
+j'en parlerai la prochaine fois.
+
+983
+00:52:11,360 --> 00:52:13,310
+Deuxièmement,
+elle n'est pas exacte,
+
+984
+00:52:13,390 --> 00:52:14,900
+Einstein a du la modifier,
+
+985
+00:52:14,970 --> 00:52:18,730
+mais nous savons qu'elle n'est pas encore correcte car nous devons y mettre la théorie des quanta.
+
+986
+00:52:19,580 --> 00:52:21,070
+C'est pareil pour
+toutes les lois,
+
+987
+00:52:21,080 --> 00:52:22,510
+elles ne sont pas exactes.
+
+988
+00:52:22,840 --> 00:52:24,740
+Il y a toujours une part de mystère,
+
+989
+00:52:24,740 --> 00:52:27,980
+il y a toujours un endroit où creuser,
+
+990
+00:52:27,980 --> 00:52:30,610
+et ça bien sûr ce n'est
+probablement pas
+
+991
+00:52:30,610 --> 00:52:32,610
+ça pourrait l'être ou ne pas l'être, une propriété de la Nature,
+
+992
+00:52:32,610 --> 00:52:35,730
+mais c'est commun à toutes les lois que nous connaissons aujourd'hui
+
+993
+00:52:35,730 --> 00:52:38,370
+et que c'est sûrement dû à
+un manque de connaissance.
+
+994
+00:52:40,280 --> 00:52:42,110
+Mais le plus impressionnant,
+
+995
+00:52:42,250 --> 00:52:44,110
+c'est que la gravité est simple.
+
+996
+00:52:44,320 --> 00:52:47,120
+Il est simple d'en poser les principes de manière complète
+
+997
+00:52:47,120 --> 00:52:52,410
+et il n'y a aucun flou qui permettrait à quelqu'un d'en modifier les fondements.
+
+998
+00:52:52,570 --> 00:52:54,960
+Elle est simple et donc
+elle est belle.
+
+999
+00:52:55,620 --> 00:52:57,050
+Elle est simple dans
+sa structure,
+
+1000
+00:52:57,060 --> 00:52:59,030
+je ne dis pas qu'elle est
+simple dans ses actions,
+
+1001
+00:52:59,030 --> 00:53:00,760
+le mouvement des planètes,
+
+1002
+00:53:00,760 --> 00:53:02,700
+le fait qu'elles se perturbent
+toutes les unes les autres
+
+1003
+00:53:02,700 --> 00:53:04,340
+peut devenir très
+compliqué à analyser.
+
+1004
+00:53:04,340 --> 00:53:07,860
+De suivre et comprendre comment se déplacent les étoiles dans un amas stellaire
+
+1005
+00:53:07,860 --> 00:53:09,860
+est bien au delà de nos capacités.
+
+1006
+00:53:09,860 --> 00:53:11,860
+Elle est compliquée dans son action,
+
+1007
+00:53:11,860 --> 00:53:13,860
+mais pas dans ses motifs élémentaires,
+
+1008
+00:53:14,080 --> 00:53:16,700
+dans son fonctionnement sous-jacent.
+
+1009
+00:53:16,700 --> 00:53:18,700
+C'est cette dimension qui est simple.
+
+1010
+00:53:20,000 --> 00:53:23,520
+C'est propre à toutes nos lois, il s'avère qu'elles sont toutes simples
+
+1011
+00:53:23,520 --> 00:53:26,250
+et plus complexes dans leurs actions.
+
+1012
+00:53:27,070 --> 00:53:29,070
+Enfin il y
+à l'universalité
+
+1013
+00:53:29,240 --> 00:53:30,870
+de la loi de la gravitation,
+
+1014
+00:53:30,870 --> 00:53:33,270
+le fait qu'elle s'étende sur
+de telles distances.
+
+1015
+00:53:34,000 --> 00:53:37,330
+Newton qui était préoccupé
+par le système solaire
+
+1016
+00:53:37,770 --> 00:53:41,300
+était capable de prédire ce qu'il se passerait dans l'expérience de Cavendish
+
+1017
+00:53:41,410 --> 00:53:45,310
+qui se trouve être un modèle du système solaire avec ces deux boules s'attirant
+
+1018
+00:53:45,450 --> 00:53:48,850
+et qui doit être étendue
+dix millions millions de fois
+
+1019
+00:53:48,850 --> 00:53:51,080
+pour devenir le système solaire,
+et alors
+
+1020
+00:53:51,240 --> 00:53:54,700
+d'être étendue
+dix millions millions de fois encore
+
+1021
+00:53:54,880 --> 00:53:59,650
+et nous trouvons que les galaxies sont exactement attirées par les mêmes lois.
+
+1022
+00:54:00,870 --> 00:54:04,120
+La Nature ne se sert que des plus longs fils pour tisser sa structure.
+
+1023
+00:54:04,490 --> 00:54:07,560
+Chaque petite pièce de son tissu
+
+1024
+00:54:07,740 --> 00:54:10,880
+révèle l'organisation de
+la tapisserie tout entière.
+
+1025
+00:54:10,960 --> 00:54:12,380
+Merci.
+

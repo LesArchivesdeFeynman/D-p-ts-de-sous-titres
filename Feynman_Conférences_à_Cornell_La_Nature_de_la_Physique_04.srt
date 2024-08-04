@@ -1,0 +1,2695 @@
+1
+00:01:39,500 --> 00:01:43,760
+La symétrie a cette qualité fascinante pour l'esprit humain.
+
+2
+00:01:43,820 --> 00:01:46,520
+Nous aimons regarder ce qui est symétrique dans la nature,
+
+3
+00:01:46,520 --> 00:01:52,080
+comme des sphères, parfaitement symétriques, comme les planètes, le Soleil etc...
+
+4
+00:01:52,080 --> 00:01:59,320
+ou encore des cristaux symétriques, des flocons de neige, les fleurs ...
+
+5
+00:01:59,340 --> 00:02:05,040
+Mais ce n'est pas de le symétrie des objets dans la nature dont je veux parler ce soir
+
+6
+00:02:05,080 --> 00:02:09,180
+mais plutôt de la symétrie des lois physiques elles-mêmes.
+
+7
+00:02:09,200 --> 00:02:11,880
+Comment une loi peut avoir une symétrie ?
+
+8
+00:02:11,880 --> 00:02:15,960
+Il est facile de comprendre
+qu'un objet ait une symétrie, pas une loi.
+
+9
+00:02:15,960 --> 00:02:21,140
+Les physiciens se plaisent à utiliser des mots ordinaires pour désigner autre chose.
+
+10
+00:02:21,140 --> 00:02:27,980
+Ici, il y a quelque-chose dans les lois physiques qui se rapproche de la symétrie des objets.
+
+11
+00:02:27,980 --> 00:02:30,520
+Ils appellent ça la symétrie des lois.
+
+12
+00:02:30,520 --> 00:02:32,400
+C'est ce dont je vais parler.
+
+13
+00:02:32,520 --> 00:02:40,820
+Pour illustrer la ressemblance, il faut définir ce qui est symétrique. Qu'est ce qu'une symétrie?
+
+14
+00:02:40,900 --> 00:02:45,580
+Si vous me regardez je suis symétrique droite/gauche, en apparence du moins.
+
+15
+00:02:45,600 --> 00:02:49,620
+Un vase peut être symétrique de la même façon ou d'autres manières.
+
+16
+00:02:49,620 --> 00:02:51,660
+Comment définir cette notion ?
+
+17
+00:02:52,100 --> 00:02:57,500
+Le mathématicien Weyl, a donné une excellente définition de la symétrie :
+
+18
+00:02:58,000 --> 00:03:03,060
+Être symétrique dit que si vous déplacez tout ce qui est à droite et le mettez à gauche, et vice versa,
+
+19
+00:03:03,070 --> 00:03:07,210
+si vous échangez les deux côtés mon apparence reste la même.
+
+20
+00:03:07,210 --> 00:03:15,060
+Par exemple, un carré a une symétrie particulière, car si je le fais tourner de 90° il garde la même apparence.
+
+21
+00:03:15,280 --> 00:03:21,020
+Weyl dit qu'une chose est symétrique si vous pouvez lui faire quelque-chose
+
+22
+00:03:21,020 --> 00:03:26,600
+et qu'une fois que vous avez terminé, cette chose ressemble à ce qu'elle était au départ.
+
+23
+00:03:27,420 --> 00:03:32,240
+Et c'est en ce sens que nous disons que les lois de la physique sont symétriques.
+
+24
+00:03:32,240 --> 00:03:38,560
+Il y a des choses que l'on peut faire aux lois physiques, ou à notre façon de les représenter,
+
+25
+00:03:38,580 --> 00:03:41,100
+qui laissera tout inchangé.
+
+26
+00:03:42,500 --> 00:03:48,760
+Cet aspect des lois physiques sera ce que nous aborderons ce soir,
+
+27
+00:03:49,440 --> 00:03:51,900
+et nous en verrons plusieurs exemples.
+
+28
+00:03:52,360 --> 00:03:56,280
+L'exemple le plus simple de symétrie
+
+29
+00:03:56,280 --> 00:04:01,640
+vous verrez que ce n'est pas ce à quoi vous auriez pensé,
+
+30
+00:04:01,680 --> 00:04:05,280
+est une symétrie appelée translation dans l'espace.
+
+31
+00:04:05,900 --> 00:04:08,160
+Voici ce que ça veut dire.
+
+32
+00:04:08,220 --> 00:04:13,340
+Si vous construisez un appareil ou menez une expérience avec des choses,
+
+33
+00:04:13,660 --> 00:04:18,440
+et que vous faites le même appareil ou les mêmes expériences avec des choses similaires
+
+34
+00:04:18,440 --> 00:04:24,020
+mais ici au lieu de là, translatez les d'un endroit à l'autre dans l'espace,
+
+35
+00:04:24,850 --> 00:04:30,320
+alors les mêmes choses arriveront dans le cas translaté que dans le cas initial.
+
+36
+00:04:30,580 --> 00:04:33,900
+Ce n'est pas exactement vrai en fait,
+
+37
+00:04:34,390 --> 00:04:38,200
+Si je construis un tel appareil et que je le déplace
+
+38
+00:04:38,200 --> 00:04:42,830
+de quelques mètres dans cette direction il se trouvera dans le mur, et ça posera problème.
+
+39
+00:04:43,130 --> 00:04:47,540
+Il est nécessaire, en définissant cette idée,
+
+40
+00:04:47,540 --> 00:04:52,540
+de prendre en compte tout ce qui pourrait affecter la situation.
+
+41
+00:04:53,220 --> 00:04:55,340
+Vous devez tout bouger.
+
+42
+00:04:55,370 --> 00:05:00,880
+Par exemple, si le système comprend un pendule,
+
+43
+00:05:00,880 --> 00:05:05,030
+et je le bouge de 20 000 miles vers la droite ça ne marchera pas
+
+44
+00:05:05,030 --> 00:05:09,770
+car le pendule implique l'attraction terrestre. Mais si je déplace la Terre et le système
+
+45
+00:05:09,770 --> 00:05:12,490
+alors il se comportera de la même manière.
+
+46
+00:05:12,490 --> 00:05:20,010
+Il faut donc translater tout ce qui peut avoir une influence sur la situation.
+
+47
+00:05:20,010 --> 00:05:23,680
+Ça semble un peu stupide, on croit entendre
+
+48
+00:05:23,720 --> 00:05:29,760
+"Translate et si ça marche pas, c'est que tu n'as pas translaté assez de trucs."
+
+49
+00:05:29,770 --> 00:05:31,580
+"Tu y es presque."
+
+50
+00:05:32,250 --> 00:05:35,990
+En fait non, il n'est pas évident que vous y arriveriez.
+
+51
+00:05:36,030 --> 00:05:38,720
+Ce qui est remarquable avec la nature
+
+52
+00:05:38,720 --> 00:05:43,480
+c'est qu'il est possible de translater assez de trucs pour que ça fonctionne de la même manière.
+
+53
+00:05:43,500 --> 00:05:45,480
+C'est une affirmation.
+
+54
+00:05:46,230 --> 00:05:50,400
+Je voudrais vous montrer que c'est vrai
+
+55
+00:05:50,400 --> 00:05:53,040
+pour la loi de la gravitation par exemple.
+
+56
+00:05:53,040 --> 00:05:56,780
+Elle dit que la force entre les objets
+
+57
+00:05:56,780 --> 00:05:59,640
+varie comme l'inverse du carré de la distance qui les sépare,
+
+58
+00:05:59,640 --> 00:06:04,420
+et je vous rappelle qu'un objet réagit à une force en changeant sa vitesse au cours du temps
+
+59
+00:06:04,430 --> 00:06:06,480
+dans la direction de la force.
+
+60
+00:06:06,480 --> 00:06:10,470
+A présent, si je déplace quelque-chose d'ici à ici,
+
+61
+00:06:10,470 --> 00:06:16,320
+une paire d'objets comme une planète tournant autour du Soleil, je déplace le tout,
+
+62
+00:06:16,320 --> 00:06:20,220
+alors la distance entre les objets ne change pas, et donc la force non plus.
+
+63
+00:06:20,220 --> 00:06:24,180
+Les objets translatés ont la même vitesse,
+
+64
+00:06:24,190 --> 00:06:29,200
+et toutes les variations resteront dans les mêmes proportions, tout tournera de la même manière.
+
+65
+00:06:29,200 --> 00:06:32,610
+Comme la loi implique la distance entre les objets,
+
+66
+00:06:32,610 --> 00:06:37,620
+plutôt qu'une sorte de distance absolue au centre de l'univers,
+
+67
+00:06:37,620 --> 00:06:44,010
+alors la loi de la gravitation peut se translater dans l'espace.
+
+68
+00:06:44,720 --> 00:06:47,250
+Un autre exemple de symétrie.
+
+69
+00:06:47,250 --> 00:06:49,680
+La première est la translation dans l'espace.
+
+70
+00:06:49,680 --> 00:06:53,060
+La suivante pourrait s'appeler
+translation dans le temps,
+
+71
+00:06:53,060 --> 00:06:57,150
+mais il vaut mieux dire qu'un décalage dans le temps ne change rien.
+
+72
+00:06:57,150 --> 00:07:03,700
+Si nous lançons une planète autour du Soleil dans une certaine direction
+
+73
+00:07:03,700 --> 00:07:08,080
+et qu'on la relance à nouveau 2 heures ou 2 années plus tard,
+
+74
+00:07:08,080 --> 00:07:11,880
+avec les mêmes conditions initiales,
+
+75
+00:07:11,880 --> 00:07:13,880
+il se passera la même chose.
+
+76
+00:07:13,880 --> 00:07:19,370
+Car la loi de gravitation parle de la vitesse
+
+77
+00:07:19,370 --> 00:07:21,340
+et n'implique pas de temps absolu
+
+78
+00:07:21,340 --> 00:07:24,410
+à partir duquel vous êtes
+sensé mesurer des choses.
+
+79
+00:07:28,600 --> 00:07:33,250
+Pour la gravité,
+nous n'en sommes pas sûrs
+
+80
+00:07:33,250 --> 00:07:37,820
+car il est possible que la force de gravitation change au cours du temps.
+
+81
+00:07:38,010 --> 00:07:42,380
+Cela signifierait que la translation dans le temps n'est pas valide,
+
+82
+00:07:42,380 --> 00:07:47,090
+car si la constante gravitation est plus faible qu'il y a plusieurs milliards d'années
+
+83
+00:07:47,090 --> 00:07:50,450
+alors les mouvements
+ne seront plus les mêmes
+
+84
+00:07:50,450 --> 00:07:55,530
+pour notre système
+expérimental soleil/planète.
+
+85
+00:07:55,530 --> 00:07:58,080
+Mais pour autant que nous
+le sachions aujourd'hui,
+
+86
+00:07:58,090 --> 00:08:00,830
+je ne parle que des lois telles que nous les connaissons aujourd'hui,
+
+87
+00:08:00,830 --> 00:08:05,440
+j'aurais aimé vous parler des lois telles nous les connaîtrons demain, mais je ne peux pas.
+
+88
+00:08:05,440 --> 00:08:10,560
+De ce que l'on en sait, un décalage dans le temps ne fait aucune différence.
+
+89
+00:08:11,500 --> 00:08:15,020
+En fait on sait que ce n'est pas tout à fait vrai,
+
+90
+00:08:15,020 --> 00:08:18,560
+c'est vrai pour ce que nous
+appelons les lois physiques.
+
+91
+00:08:18,560 --> 00:08:26,450
+Ce qui distingue le monde des lois physiques, ou peut-être pas,
+
+92
+00:08:26,450 --> 00:08:33,300
+est le fait que l'univers semble avoir un point de départ à partir duquel tout a volé en éclats.
+
+93
+00:08:33,300 --> 00:08:35,640
+Vous pouvez appeler ça
+une condition géographique,
+
+94
+00:08:35,640 --> 00:08:41,680
+analogue au cas où je translate mon expérience sans avoir tout translaté avec,
+
+95
+00:08:41,680 --> 00:08:44,840
+il faudrait translater ce mur pour que ça ne fasse aucune différence.
+
+96
+00:08:44,840 --> 00:08:46,200
+De la même manière, vous direz :
+
+97
+00:08:46,200 --> 00:08:50,080
+"Oh je vois, vous voulez dire que les lois restent les mêmes, l'univers est en expansion etc...
+
+98
+00:08:50,080 --> 00:08:54,820
+donc nous aurions pu faire une autre analyse et démarrer l'univers plus tard."
+
+99
+00:08:54,820 --> 00:08:59,100
+Mais nous ne démarrons pas l'univers, nous n'avons aucun contrôle
+
+100
+00:08:59,100 --> 00:09:02,740
+et n'avons aucune façon de tester cette idée expérimentalement.
+
+101
+00:09:02,740 --> 00:09:06,920
+Du point de vue de la science, nous ne pouvons rien dire.
+
+102
+00:09:06,920 --> 00:09:11,920
+Ce qui compte c'est que les conditions de l'univers changent avec le temps
+
+103
+00:09:11,980 --> 00:09:14,720
+les galaxies s'éloignent les unes des autres,
+
+104
+00:09:14,800 --> 00:09:19,560
+donc si vous vous réveillez dans une histoire de science-fiction à une époque inconnue
+
+105
+00:09:19,580 --> 00:09:24,060
+en mesurant la distance moyenne entre galaxies vous pouvez savoir l'époque.
+
+106
+00:09:24,060 --> 00:09:29,320
+L'univers n'aura pas la même apparence s'il est décalé dans le temps.
+
+107
+00:09:29,320 --> 00:09:32,580
+Aujourd'hui nous distinguons les lois physiques,
+
+108
+00:09:32,590 --> 00:09:36,120
+qui vous disent comment les choses se déplacent sachant leurs conditions initiales,
+
+109
+00:09:36,120 --> 00:09:40,290
+de la manière dont le monde a commencé, car nous en savons si peu à ce propos.
+
+110
+00:09:40,290 --> 00:09:43,080
+On considère souvent que l'histoire astronomique,
+
+111
+00:09:43,080 --> 00:09:45,870
+ou l'histoire cosmologique, appelez ça comme vous voulez,
+
+112
+00:09:45,880 --> 00:09:47,760
+est un peu différente des lois physiques.
+
+113
+00:09:47,760 --> 00:09:52,720
+Si vous me demandiez de définir la différence, je serais embêté.
+
+114
+00:09:52,720 --> 00:09:56,320
+La meilleur caractéristique des lois physiques est l'universalité,
+
+115
+00:09:56,320 --> 00:09:58,540
+et s'il y a quelque-chose d'universel
+
+116
+00:09:58,540 --> 00:10:00,690
+c'est bien l'expansion
+universelle des nébuleuses,
+
+117
+00:10:00,690 --> 00:10:03,200
+Donc je ne saurais expliquer cette différence.
+
+118
+00:10:03,200 --> 00:10:07,440
+Mais si j'ignore cet aspect de l'origine,
+
+119
+00:10:07,440 --> 00:10:10,600
+alors, concernant les lois physiques connues,
+
+120
+00:10:10,600 --> 00:10:15,720
+- la loi qui détermine l'expansion, la cause n'étant pas connue -
+
+121
+00:10:16,000 --> 00:10:21,150
+si je prends les autres lois connues, un décalage dans le temps ne cause aucune différence.
+
+122
+00:10:21,650 --> 00:10:27,590
+A présent, prenons un autre exemple, comme la rotation dans l'espace.
+
+123
+00:10:28,590 --> 00:10:34,900
+Si je construis une machine et que je l'utilise pour faire des expériences ici,
+
+124
+00:10:34,900 --> 00:10:38,810
+et si j'en mets une autre ici,
+
+125
+00:10:38,810 --> 00:10:43,050
+mais je le tourne, afin que tous les axes aient une direction différente,
+
+126
+00:10:43,050 --> 00:10:44,700
+elle marchera de la même manière.
+
+127
+00:10:44,700 --> 00:10:46,930
+À nouveau, il tourner tout ce qui compte.
+
+128
+00:10:46,930 --> 00:10:50,080
+Si c'est une vieille horloge et que vous la tournez comme ça
+
+129
+00:10:50,080 --> 00:10:55,130
+le pendule restera collé à la paroi, ça ne marchera pas, mais si vous tournez aussi la Terre
+
+130
+00:10:55,130 --> 00:11:00,360
+ce qu'elle fait en permanence,
+alors tout marche bien.
+
+131
+00:11:00,800 --> 00:11:05,630
+La description mathématique d'une rotation est plutôt intéressante
+
+132
+00:11:05,630 --> 00:11:12,480
+car pour décrire ce qu'il se passe nous aimons utiliser des nombres pour définir des positions.
+
+133
+00:11:12,480 --> 00:11:17,790
+On appelle ça les coordonnées d'un point, et on utilise parfois 3 nombres pour y arriver.
+
+134
+00:11:17,790 --> 00:11:23,890
+À quelle hauteur par rapport à un plan, à quelle distance devant moi (derrière on compte en négatif),
+
+135
+00:11:23,890 --> 00:11:26,350
+et à quelle distance sur ma gauche.
+
+136
+00:11:27,400 --> 00:11:32,260
+Je ne vais pas me soucier du haut et du bas, car pour la rotation je ne vais en utiliser que 2 sur les 3.
+
+137
+00:11:32,260 --> 00:11:37,210
+Appelons la distance x en face de moi, et la distance y sur la gauche.
+
+138
+00:11:37,220 --> 00:11:41,780
+Je peux ainsi localiser n'importe qui, en utilisant la distance devant moi et celle sur ma gauche.
+
+139
+00:11:41,790 --> 00:11:47,850
+Ceux qui viennent de New-York savent que les numéros de rue fonctionnent ainsi, et que c'est pratique.
+
+140
+00:11:47,850 --> 00:11:52,320
+Avant qu'ils ne changent
+le nom de la 6ème Avenue.
+
+141
+00:11:56,720 --> 00:12:00,380
+Voici les mathématiques d'une rotation :
+
+142
+00:12:00,380 --> 00:12:06,210
+Si je me place avec un angle différent, et que je fais mes calculs,
+
+143
+00:12:06,220 --> 00:12:10,030
+alors ce qui est directement en face de moi, à la distance x,
+
+144
+00:12:10,030 --> 00:12:18,240
+est un mélange... Disons que vous vous teniez ainsi et faites vos calculs, et moi je les fais de cette façon
+
+145
+00:12:18,240 --> 00:12:23,080
+Quand je mesure x, si je ne change pas de direction,
+
+146
+00:12:23,080 --> 00:12:28,640
+vous voyez bien que cette ligne est un mélange de vos x et de vos y.
+
+147
+00:12:28,640 --> 00:12:35,010
+On obtient une transformation où les x sont mélangés avec des x et des y, et vice versa,
+
+148
+00:12:35,010 --> 00:12:39,200
+Et si vous faites un tel mélange, les lois de la nature sont écrites de telle manière
+
+149
+00:12:39,230 --> 00:12:43,700
+que substituer ce mélange dans les équations ne change par leur forme.
+
+150
+00:12:43,700 --> 00:12:47,160
+Mathématiquement, c'est comme ça qu'une symétrie s'exprime.
+
+151
+00:12:47,160 --> 00:12:52,080
+En mathématiques, la symétrie apparaît ainsi: vous écrivez les équations avec des lettres,
+
+152
+00:12:52,080 --> 00:12:57,680
+et il y a des règles pour changer les lettres, de x et y à x' et y'
+
+153
+00:12:57,680 --> 00:13:03,610
+c'est juste une formule, l'équation est identique, il y'a juste des ' partout,
+
+154
+00:13:03,610 --> 00:13:07,900
+Ça signifie que la personne voit dans sa machine
+
+155
+00:13:07,900 --> 00:13:12,490
+la même chose que je vois dans la mienne, qui est tournée dans l'autre sens.
+
+156
+00:13:12,810 --> 00:13:14,510
+Je vous donne un autre exemple.
+
+157
+00:13:15,300 --> 00:13:21,410
+Cet exemple est intéressant, il concerne la vitesse constante en ligne droite.
+
+158
+00:13:21,410 --> 00:13:25,950
+Il est admis que les lois de la physique demeurent inchangées
+
+159
+00:13:25,950 --> 00:13:31,080
+au cours d'un déplacement à vitesse constante en ligne droite.
+
+160
+00:13:31,080 --> 00:13:33,570
+On appelle ça le principe de relativité.
+
+161
+00:13:33,570 --> 00:13:40,640
+Si on a un vaisseau spatial avec à son bord une machine qui fait des trucs, une autre au sol etc
+
+162
+00:13:40,660 --> 00:13:44,510
+et que le vaisseau avance à vitesse constante. Depuis l'intérieur du vaisseau,
+
+163
+00:13:44,520 --> 00:13:49,410
+un observateur ne verra rien de différent de ce qu'observe un autre au repos.
+
+164
+00:13:56,050 --> 00:14:01,160
+Tant qu'il avance à vitesse constante en ligne droite, les lois de la physique sont les mêmes pour lui
+
+165
+00:14:01,160 --> 00:14:04,050
+que pour moi, qui ne me déplace pas.
+
+166
+00:14:04,050 --> 00:14:08,920
+Et donc, je ne peux pas dire qui se déplace.
+
+167
+00:14:08,920 --> 00:14:13,010
+Je veux insister sur un point avant de continuer.
+
+168
+00:14:13,010 --> 00:14:16,430
+Dans toutes ces transformations, toutes ces symétries,
+
+169
+00:14:16,430 --> 00:14:20,250
+il n'est pas question de déplacer l'univers tout entier.
+
+170
+00:14:26,000 --> 00:14:32,530
+Ça n'aurait aucun sens si je me contentais de dire  "quand je déplace tout l'univers, tout se comporte pareil".
+
+171
+00:14:32,580 --> 00:14:36,720
+Ce qui est à noter, c'est que si je prend un bout de système et que le déplace,
+
+172
+00:14:36,720 --> 00:14:40,220
+alors si je respecte certaines conditions, et que je refabrique le même système,
+
+173
+00:14:40,240 --> 00:14:45,570
+je peux avoir un morceau de l'univers, le déplacer par rapport aux autres étoiles,
+
+174
+00:14:45,570 --> 00:14:47,000
+et rien ne change.
+
+175
+00:14:47,000 --> 00:14:51,820
+Et dans ce cas ça signifie que quelqu'un se déplaçant à vitesse constante en ligne droite
+
+176
+00:14:51,820 --> 00:14:57,500
+par rapport à la vitesse moyenne des nébuleuses, ne ressent rien de spécial.
+
+177
+00:14:57,520 --> 00:15:03,700
+Il est impossible de savoir, depuis l'intérieur d'une voiture, sans regarder dehors, d'aucune manière,
+
+178
+00:15:03,720 --> 00:15:07,740
+que vous vous déplacez,
+par rapport aux étoiles disons.
+
+179
+00:15:11,640 --> 00:15:15,220
+Cette proposition a été formulée pour la première fois par Newton.
+
+180
+00:15:15,220 --> 00:15:21,790
+Prenons sa loi de la gravitation, elle dit que la force varie comme l'inverse de la distance au carrée,
+
+181
+00:15:21,790 --> 00:15:28,450
+et qu'une force produit
+un changement de vitesse.
+
+182
+00:15:28,450 --> 00:15:31,080
+Imaginez que je regarde
+un objet en mouvement.
+
+183
+00:15:31,130 --> 00:15:35,780
+J'ai compris comment tournait une planète autour d'une étoile fixe,
+
+184
+00:15:35,780 --> 00:15:39,780
+et maintenant je veux savoir ce qu'il se passe autour d'une étoile en mouvement,
+
+185
+00:15:39,780 --> 00:15:43,080
+Toutes les vitesses que j'ai calculées dans le premier cas,
+
+186
+00:15:43,080 --> 00:15:46,900
+sont différentes dans le second, j'ai du y ajouter une vitesse constante.
+
+187
+00:15:46,900 --> 00:15:51,120
+Mais la loi est définie en termes de changement de vitesse,
+
+188
+00:15:51,120 --> 00:15:55,490
+Donc, dans un cas l'attraction fait que la planète change sa vitesse,
+
+189
+00:15:55,490 --> 00:15:58,910
+et dans l'autre, la planète change sa vitesse de la même manière.
+
+190
+00:15:58,910 --> 00:16:01,840
+Donc peu importe la vitesse
+initiale que je lui ai donnée,
+
+191
+00:16:01,870 --> 00:16:06,500
+elle va évoluer, et toutes les variations vont s'ajouter sur cette vitesse initiale.
+
+192
+00:16:06,500 --> 00:16:12,780
+Je décris un peu mal, mais les mathématiques disent que si on ajoute une vitesse constante
+
+193
+00:16:12,780 --> 00:16:14,660
+les lois resteront inchangées.
+
+194
+00:16:14,660 --> 00:16:19,710
+Donc quand on étudie le système solaire, la manière dont les planètes tournent autour du soleil,
+
+195
+00:16:19,710 --> 00:16:22,650
+on ne peut pas savoir si le soleil lui même vogue dans l'espace.
+
+196
+00:16:22,650 --> 00:16:27,890
+Cette dérive ne produit aucun effet sur le mouvement des planètes autour du soleil, selon les lois de Newton.
+
+197
+00:16:27,930 --> 00:16:32,960
+Newton dit : "Le mouvement relatif des corps dans un espace donné reste le même "
+
+198
+00:16:32,990 --> 00:16:40,590
+"peu importe qu'il soit au repos par rapport à des étoiles fixes, ou en mouvement rectiligne uniforme."
+
+199
+00:16:40,590 --> 00:16:48,700
+D'autres lois ont été découvertes après Newton, comme les lois de l'électricité de Maxwell,
+
+200
+00:16:48,700 --> 00:16:53,360
+et une des conséquences des lois de l'électricité est qu'il doit exister des ondes électromagnétiques,
+
+201
+00:16:53,360 --> 00:17:01,260
+comme la lumière par exemple, qui se déplacent à 300 000 km/s, sur du plat.
+
+202
+00:17:01,820 --> 00:17:06,770
+J'entends par là toujours à 300 000km/s.
+
+203
+00:17:06,770 --> 00:17:08,910
+Il devint facile alors de savoir qui était au repos,
+
+204
+00:17:08,910 --> 00:17:21,690
+car la loi qui dit que la lumière se déplace à 300 000km/s n'est certainement pas la seule à se vérifier,
+
+205
+00:17:21,690 --> 00:17:25,130
+qui permettrait à quelqu'un de se déplacer et observer la même loi,
+
+206
+00:17:26,540 --> 00:17:30,370
+Si vous êtes dans un vaisseau et que vous avancez dans une direction à 200 000km/s
+
+207
+00:17:30,400 --> 00:17:34,250
+et que moi, au repos, je vous envoie un rayon lumineux à 300 000km/s
+
+208
+00:17:34,250 --> 00:17:37,930
+si vous regardez pas la fenêtre, ou si le rayon passe par un petit trou dans votre vaisseau,
+
+209
+00:17:37,930 --> 00:17:42,680
+comme vous allez à 200 000km/s et que la lumière ne se déplace qu'à 300 000km/s
+
+210
+00:17:42,680 --> 00:17:47,140
+la lumière semblera vous
+dépasser qu'à 100 000km/s.
+
+211
+00:17:47,140 --> 00:17:54,430
+Mais si vos faites l'expérience vous verrez que la lumière vous dépasse aussi à 300 000km/s.
+
+212
+00:17:56,350 --> 00:18:00,500
+Les faits produits par la nature ne sont pas si simples à comprendre.
+
+213
+00:18:00,500 --> 00:18:04,540
+Et le résultat de cette expérience va tellement à l'encontre du sens commun,
+
+214
+00:18:04,540 --> 00:18:09,630
+qu'il y a toujours des gens qui n'y croient pas.
+
+215
+00:18:09,630 --> 00:18:13,330
+Mais le temps a passé, et toutes les expériences ont montré
+
+216
+00:18:13,330 --> 00:18:19,740
+que la vitesse de la lumière est de 300 000km/s peu importe à quelle vitesse vous vous déplacez.
+
+217
+00:18:19,740 --> 00:18:23,050
+Comment est-ce possible ?
+
+218
+00:18:24,520 --> 00:18:31,780
+Poincaré a proposé d'en faire un des principes de la nature.
+
+219
+00:18:31,780 --> 00:18:36,050
+Que les équations de Maxwell sont correctes,
+
+220
+00:18:36,050 --> 00:18:43,800
+et que les mathématiques nécessaires pour comparer un système en mouvement et un système au repos...
+
+221
+00:18:43,800 --> 00:18:49,210
+Attendez, je rends ça trop compliqué, je vais reformuler ce que je viens de dire.
+
+222
+00:18:49,210 --> 00:18:55,650
+Einstein et Poincaré ont remarqué, il est difficile de faire la chronologie exacte de cette idée,
+
+223
+00:18:55,650 --> 00:19:04,840
+que la seule façon pour qu'une personne en mouvement et une autre au repos puissent mesurer la même vitesse,
+
+224
+00:19:04,840 --> 00:19:08,620
+est que leurs notions du temps et de l'espace sont différentes.
+
+225
+00:19:08,620 --> 00:19:13,300
+Les tic-tac de l'horloge à bord du vaisseau battent un rythme différent de celle restée au sol.
+
+226
+00:19:14,430 --> 00:19:19,450
+Vous vous dîtes "Ok, donc si je regarde l'horloge dans le vaisseau alors je vois son rythme ralentir", non non !
+
+227
+00:19:19,450 --> 00:19:22,840
+Votre cerveau ralentit aussi.
+
+228
+00:19:22,840 --> 00:19:26,820
+Donc pour s'assurer que tout cela se passait bien ainsi dans le vaisseau
+
+229
+00:19:26,820 --> 00:19:34,960
+il fût possible d'inventer un système qui indique une vitesse de 300 000" km-vaisseau" / "s-vaisseau"
+
+230
+00:19:34,960 --> 00:19:41,920
+et pour moi 300 000 "mes-km"/"mes-s", c'est la même unité. C'est très ingénieux d'avoir fait ça,
+
+231
+00:19:41,920 --> 00:19:44,920
+et il est remarquable que
+cela soit possible à faire.
+
+232
+00:19:44,920 --> 00:19:49,180
+J'ai déja évoqué l'une des conséquences du principe de relativité,
+
+233
+00:19:49,180 --> 00:19:54,130
+que vous ne pouvez pas dire à quelle vitesse vous allez en ligne droite dans le cas où
+
+234
+00:19:54,160 --> 00:20:01,260
+vous avez deux voitures et un évènement se produit.
+
+235
+00:20:01,260 --> 00:20:06,440
+Imaginez qu'un évènement se produise à chaque extrémité de la voiture, un homme se tient au milieu,
+
+236
+00:20:06,440 --> 00:20:10,660
+et il assure qu'ils se sont
+produits au même instant,
+
+237
+00:20:10,660 --> 00:20:16,640
+car du milieu de la voiture, il a vu la lumière simultanément produite par ces deux évènements.
+
+238
+00:20:16,640 --> 00:20:20,540
+Alors que l'homme qui se trouve dans l'autre voiture et se déplace par là,
+
+239
+00:20:20,540 --> 00:20:26,940
+a aussi vu ces évènements mais pas au même instant, il a vu celui-ci se produire en premier.
+
+240
+00:20:26,940 --> 00:20:31,640
+La lumière l'a atteinte en premier
+car il se dirige vers elle.
+
+241
+00:20:31,640 --> 00:20:36,820
+Vous voyez qu'une des conséquences du principe de symétrie du mouvement rectiligne uniforme
+
+242
+00:20:36,820 --> 00:20:39,640
+qui dit que vous ne pouvez
+pas dire qui a raison,
+
+243
+00:20:39,640 --> 00:20:46,020
+est que si vous entendez quelqu'un dire "tout ce qui arrive dans le monde en ce moment",
+
+244
+00:20:46,020 --> 00:20:48,480
+cela ne veut rien dire.
+
+245
+00:20:48,480 --> 00:20:52,220
+Si vous suivez un mouvement
+rectiligne uniforme,
+
+246
+00:20:52,220 --> 00:20:57,880
+le "même moment" pour vous n'est pas le "même moment" pour moi.
+
+247
+00:20:57,880 --> 00:21:00,780
+Quand nous nous croisons nous pouvons dire "maintenant",
+
+248
+00:21:00,800 --> 00:21:06,770
+mais à distance nous ne pouvons nous mettre d'accord sur le sens du mot "maintenant".
+
+249
+00:21:06,770 --> 00:21:10,420
+Nous devons transformer en profondeur nos idées sur le temps et l'espace,
+
+250
+00:21:10,420 --> 00:21:18,170
+pour respecter le principe de relativité, pour que le mouvement rectiligne uniforme reste indétectable.
+
+251
+00:21:18,170 --> 00:21:21,140
+En d'autres termes,
+
+252
+00:21:21,140 --> 00:21:26,320
+si deux choses semblent se produire de manière simultanée,
+
+253
+00:21:26,320 --> 00:21:33,500
+ce n'est pas nécessairement vrai d'un autre point de vue, à condition qu'ils ne soient pas au même endroit.
+
+254
+00:21:33,500 --> 00:21:37,130
+Ça ressemble de près à mes "x et y",
+
+255
+00:21:37,130 --> 00:21:45,790
+Deux choses me sembleront être à la même distance en face de moi,
+
+256
+00:21:45,790 --> 00:21:51,120
+Pour quelqu'un dans une autre position, il verra une chose devant et une autre derrière.
+
+257
+00:21:51,120 --> 00:21:55,950
+De mon point de vue, chacun des murs se trouve de chaque côté
+
+258
+00:21:55,950 --> 00:22:04,120
+mais si je me tourne ainsi, et que je regarde les mêmes murs, l'un est devant et l'autre est derrière.
+
+259
+00:22:04,120 --> 00:22:09,080
+Donc si deux évènements semblent se produire d'un point de vue de manière simultanée,
+
+260
+00:22:09,100 --> 00:22:11,720
+et d'un autre à deux instants différents,
+
+261
+00:22:11,720 --> 00:22:18,210
+on généralise le concept appliqué à la rotation en 2 dimensions à l'espace et au temps.
+
+262
+00:22:18,210 --> 00:22:22,330
+Le temps est ajouté à l'espace pour faire un monde à 4 dimensions.
+
+263
+00:22:22,330 --> 00:22:28,060
+Et ce n'est pas un ajout artificiel, du genre "Oui on a ajouté le temps à l'espace parce que "
+
+264
+00:22:28,060 --> 00:22:30,540
+- comme on peut le voir dans des ouvrages grand public -
+
+265
+00:22:30,540 --> 00:22:33,960
+"il ne suffit pas de dire où mais aussi quand".
+
+266
+00:22:33,960 --> 00:22:39,930
+Très bien, mais il ne suffit pas de les coller ensemble pour fabriquer un nouvel espace.
+
+267
+00:22:39,930 --> 00:22:51,580
+Le vrai espace a la propriété d'exister indépendamment du point de vue où l'on se place,
+
+268
+00:22:53,840 --> 00:22:57,720
+Du temps peut se retrouver
+mélangé avec de l'espace.
+
+269
+00:22:57,720 --> 00:23:02,580
+Le temps et l'espace sont entièrement couplés.
+
+270
+00:23:02,580 --> 00:23:09,420
+Après cette découverte, Minkowski déclara: "L'espace et le temps, pris séparément, partent en fumée,"
+
+271
+00:23:09,420 --> 00:23:12,970
+"seule l'union des deux survivra".
+
+272
+00:23:12,970 --> 00:23:16,810
+J'aborde cet exemple sans lésiner sur les détails
+
+273
+00:23:16,810 --> 00:23:20,940
+car il marque le début de l'étude des symétries des lois physiques.
+
+274
+00:23:20,940 --> 00:23:27,160
+Poincaré a eu l'idée de faire cette analyse: qu'est ce que je peux faire aux équations sans les modifier?
+
+275
+00:23:27,160 --> 00:23:32,170
+Il attira l'attention sur les symétries dans les lois physiques.
+
+276
+00:23:32,170 --> 00:23:37,930
+Les symétries de translation dans l'espace, délai dans le temps etc.. n'étaient pas très profondes.
+
+277
+00:23:37,940 --> 00:23:45,480
+Mais la symétrie dans le mouvement rectiligne uniforme est très intéressant et a de nombreuses conséquences.
+
+278
+00:23:45,480 --> 00:23:52,100
+Ces conséquences ont permis de découvrir des lois que l'on ignorait.
+
+279
+00:23:52,100 --> 00:23:55,860
+En devinant que ce principe est vrai, dans le cas de la désintégration d'un méson mu
+
+280
+00:23:55,860 --> 00:24:00,440
+nous ignorons pourquoi un méson mu se désintègre, mais on peut déjà dire
+
+281
+00:24:00,440 --> 00:24:05,800
+qu'un méson mu ne nous permettra pas non plus de savoir à quelle vitesse va notre vaisseau.
+
+282
+00:24:05,800 --> 00:24:09,880
+Et ça nous dit au moins quelque-chose à propos de la désintégration des méson mu.
+
+283
+00:24:09,880 --> 00:24:13,530
+Il y a d'autres symétries, certaines sont de nature différente,
+
+284
+00:24:13,530 --> 00:24:20,600
+pour en mentionner une autre : vous pouvez remplacer un atome par un autre atome de même nature,
+
+285
+00:24:20,600 --> 00:24:24,290
+et ça ne change rien, dans aucune situation.
+
+286
+00:24:24,300 --> 00:24:27,720
+Vous vous dites : "Qu'est ce que vous entendez par de même nature ?"
+
+287
+00:24:27,720 --> 00:24:32,760
+Je veux dire celle qui lorsqu'on remplace un atome par un autre ne change rien.
+
+288
+00:24:32,760 --> 00:24:36,580
+On dirait que les physiciens ne disent que des absurdités n'est-ce pas ?
+
+289
+00:24:36,580 --> 00:24:40,350
+Il y a des atomes de natures différentes, si vous en échanger deux ça fait une différence,
+
+290
+00:24:40,350 --> 00:24:43,170
+mais s'ils sont de même
+nature cela ne change rien.
+
+291
+00:24:43,180 --> 00:24:46,010
+Cela ressemble à une tautologie mais
+
+292
+00:24:46,010 --> 00:24:50,370
+ce que ça veut dire c'est qu'il y a des atomes de même nature.
+
+293
+00:24:50,370 --> 00:24:53,440
+Il est possible de trouver des classes d'atomes,
+
+294
+00:24:53,440 --> 00:24:58,490
+qui lorsque vous les échanger entre eux cela ne change rien, ça existe bel et bien.
+
+295
+00:24:58,490 --> 00:25:05,780
+Puisque le nombre d'atomes dans n’importe quel morceau de matière est 1 suivi de 23 zéros
+
+296
+00:25:05,780 --> 00:25:09,970
+c'est important qu'ils ne soient pas tous de natures différentes !
+
+297
+00:25:09,970 --> 00:25:15,310
+Et c'est intéressant qu'on puisse les classer dans seulement quelques centaines de catégories.
+
+298
+00:25:15,310 --> 00:25:21,920
+Donc dire qu'on peut remplacer un atome par un autre de même nature a du sens.
+
+299
+00:25:21,920 --> 00:25:24,730
+Elle est surtout très significative
+en mécanique quantique
+
+300
+00:25:24,730 --> 00:25:29,640
+mais c'est impossible de vous expliquer comment... En partie, mais seulement en partie,
+
+301
+00:25:29,640 --> 00:25:36,250
+car cette audience n'est pas
+prête mathématiquement.
+
+302
+00:25:36,250 --> 00:25:40,200
+En mécanique quantique, la proposition "vous pouvez remplacer un atome par un autre de même nature"
+
+303
+00:25:40,200 --> 00:25:42,200
+a de superbes conséquences.
+
+304
+00:25:42,200 --> 00:25:45,490
+Cela produit des phénomènes particuliers, comme l'hélium liquide,
+
+305
+00:25:45,490 --> 00:25:50,600
+où l'hélium s'écoule dans des tubes sans résistance, il s'écoule indéfiniment.
+
+306
+00:25:50,600 --> 00:25:58,270
+Elle est à l'origine du tableau
+périodique des éléments,
+
+307
+00:25:58,270 --> 00:26:02,320
+et des forces qui m'empêchent de passer à travers le sol.
+
+308
+00:26:02,320 --> 00:26:06,100
+Mais je ne peux pas rentrer dans ces détails.
+
+309
+00:26:06,100 --> 00:26:10,430
+Je veux juste insister sur l'importance à accorder à ces principes.
+
+310
+00:26:10,430 --> 00:26:15,950
+À présent vous devez vous dire que toutes les lois de la physique sont symétriques.
+
+311
+00:26:15,950 --> 00:26:20,040
+Donc je dois vous donner des exemples de lois qui ne le sont pas.
+
+312
+00:26:20,040 --> 00:26:23,010
+La première, le changement d'échelle.
+
+313
+00:26:23,010 --> 00:26:25,850
+Ce n'est pas vrai que lorsque vous fabriquez une machine,
+
+314
+00:26:25,850 --> 00:26:31,220
+et que vous la refaites ici mais deux fois plus grande, toutes proportions gardées,
+
+315
+00:26:31,230 --> 00:26:33,330
+que tout marchera de la même façon.
+
+316
+00:26:33,330 --> 00:26:36,020
+Ceux qui sont familiers
+avec les atomes savent ça,
+
+317
+00:26:36,020 --> 00:26:41,080
+car si je la faisais 10 milliards de fois plus petite, elle ne serait faite que de 5 atomes.
+
+318
+00:26:41,080 --> 00:26:47,620
+Et je ne peux pas faire
+des pas de vis avec ça.
+
+319
+00:26:47,680 --> 00:26:51,220
+Il est évident que lorsqu'on va assez loin on ne peut pas changer l'échelle.
+
+320
+00:26:51,220 --> 00:26:55,530
+Mais avant même qu'on
+ait une image claire de l'atome,
+
+321
+00:26:55,530 --> 00:26:57,870
+on savait que ce n'était pas possible.
+
+322
+00:26:57,870 --> 00:27:03,800
+Vous avez sûrement déjà vu dans le journal quelqu'un faire des cathédrales en allumettes.
+
+323
+00:27:03,800 --> 00:27:10,510
+Plusieurs étages, magnifique... plus gothique que toute cathédrale gohtique qui n'ait jamais existé.
+
+324
+00:27:10,510 --> 00:27:14,490
+Si délicat. Pourquoi on n'en construit pas des comme ça avec de grandes poutres ?
+
+325
+00:27:14,490 --> 00:27:19,440
+Avec le même degré de folie.
+Avec autant de détails.
+
+326
+00:27:19,440 --> 00:27:24,890
+La raison est que si on le faisait, ce serait tellement haut et lourd que ça s'effondrerait.
+
+327
+00:27:24,890 --> 00:27:30,620
+Quand vous comparez deux choses, vous devez changer tout ce qui agit dans le système.
+
+328
+00:27:30,620 --> 00:27:34,700
+La petite cathédrale en allumettes est attirée par la Terre,
+
+329
+00:27:34,700 --> 00:27:39,820
+donc pour faire la comparaison, je devrais faire une grande cathédrale attirée par une plus grande Terre.
+
+330
+00:27:39,820 --> 00:27:42,670
+Dommage, une plus grande Terre l'attirerait encore davantage
+
+331
+00:27:42,670 --> 00:27:46,940
+et les poutres se briseraient
+encore plus facilement.
+
+332
+00:27:48,200 --> 00:27:52,490
+Ce fait, que les lois de la physique changent quand on change d'échelle,
+
+333
+00:27:52,490 --> 00:27:54,990
+fut découvert en premier par Galilée.
+
+334
+00:27:54,990 --> 00:27:59,940
+Il le montra en discutant de la résistance des roues et des os.
+
+335
+00:27:59,940 --> 00:28:05,760
+Il soutint que si vous avez besoin d'un os pour un animal deux fois plus grand
+
+336
+00:28:05,760 --> 00:28:11,250
+vous avez 8 fois plus de poids, donc vous avez besoin d'un os qui supporte 8 fois la charge initiale.
+
+337
+00:28:11,250 --> 00:28:16,000
+Or la résistance d'un os dépend de sa coupe transversale, si l'os est deux fois plus large
+
+338
+00:28:16,000 --> 00:28:20,060
+sa section ne sera que 4 fois plus grande, et ne supportera que 4 fois le poids initial.
+
+339
+00:28:20,060 --> 00:28:24,210
+Dans l'ouvrage de Galilée intitulé Discours concernant deux sciences nouvelles,
+
+340
+00:28:24,210 --> 00:28:29,710
+vous verrez des images d'os imaginaires de chiens géants aux proportions démesurées.
+
+341
+00:28:30,040 --> 00:28:33,200
+Galilée sentit que cette découverte, enfin j'imagine je n'en sais rien,
+
+342
+00:28:33,200 --> 00:28:37,160
+que le fait que les lois de la nature changent en changeant d'échelle
+
+343
+00:28:37,160 --> 00:28:41,210
+était aussi important que sa loi du mouvement car elles furent réunies
+
+344
+00:28:41,230 --> 00:28:45,690
+dans le même ouvrage Discours concernant deux sciences nouvelles.
+
+345
+00:28:45,700 --> 00:28:51,530
+Je passe à présent à un autre exemple de loi qui n'a pas de symétrie.
+
+346
+00:28:51,530 --> 00:28:57,080
+Si vous tournez sur vous-même à une vitesse angulaire uniforme dans un vaisseau
+
+347
+00:28:57,080 --> 00:28:59,650
+vous pouvez dire que
+vous êtes en train de tourner.
+
+348
+00:28:59,650 --> 00:29:02,020
+Tout est projeté aux murs,
+
+349
+00:29:02,020 --> 00:29:05,550
+vous vous sentez mal...
+
+350
+00:29:07,060 --> 00:29:10,540
+Il y a d'autres effets mais tout se retrouve bien projeté contre les murs
+
+351
+00:29:10,540 --> 00:29:13,370
+par force centrifuge, dites
+le comme vous voulez,
+
+352
+00:29:13,370 --> 00:29:20,130
+et j'espère qu'il n'y a pas de professeurs ou de journalistes scientifiques présents pour me corriger...
+
+353
+00:29:20,130 --> 00:29:23,980
+Mais il est possible de savoir
+que la Terre tourne
+
+354
+00:29:23,980 --> 00:29:27,430
+grâce à un pendule ou un gyroscope,
+
+355
+00:29:27,430 --> 00:29:32,000
+et vous avez sûrement déjà vu dans des observatoires ou des musées
+
+356
+00:29:32,000 --> 00:29:35,690
+un pendule de Foucault qui prouve que la Terre tourne, sans avoir à regarder les étoiles.
+
+357
+00:29:35,690 --> 00:29:40,280
+Donc il est possible de dire que nous tournons à une vitesse angulaire constante,
+
+358
+00:29:40,280 --> 00:29:42,090
+depuis la Terre, sans regarder dehors,
+
+359
+00:29:42,090 --> 00:29:46,340
+car les lois de la physique ne restent pas inchangées dans ce phénomène.
+
+360
+00:29:46,830 --> 00:29:54,110
+Beaucoup de gens ont suggéré que puisque vous tournez par rapport aux galaxies,
+
+361
+00:29:54,110 --> 00:29:58,710
+alors si vous tournez les galaxies aussi, vous ne verriez aucune différence.
+
+362
+00:29:58,710 --> 00:30:01,260
+Mais j'ignore ce qu'il arriverait si nous faisions tourner tout l'univers,
+
+363
+00:30:01,260 --> 00:30:04,110
+et pour le moment, nous n'avons aucun moyen de le vérifier,
+
+364
+00:30:04,110 --> 00:30:12,570
+ni, pour le moment, de théorie qui décrit l'influence de galaxies sur ce qu'il se passe ici.
+
+365
+00:30:12,570 --> 00:30:18,960
+Il ressort de cette théorie,
+sans détours, explicitement,
+
+366
+00:30:18,960 --> 00:30:22,470
+que l'inertie de rotation, que l'effet de rotation
+
+367
+00:30:22,470 --> 00:30:27,250
+le fait que la surface d'un seau d'eau en rotation ait cette forme,
+
+368
+00:30:27,250 --> 00:30:30,650
+soit le résultat de forces exercées par des objets environnants.
+
+369
+00:30:30,650 --> 00:30:32,570
+Cela n'a jamais été confirmé,
+
+370
+00:30:32,570 --> 00:30:36,410
+cette hypothèse est c'est ce qu'on appelle le principe de Mach,
+
+371
+00:30:36,410 --> 00:30:40,570
+mais elle n'a jamais été prouvée à ce jour.
+
+372
+00:30:42,140 --> 00:30:48,160
+Mais la vraie question à se poser, je veux dire expérimentalement, est la suivante :
+
+373
+00:30:48,160 --> 00:30:53,440
+si on tourne à vitesse angulaire uniforme par rapport aux nébuleuses, voit on un effet ? Oui.
+
+374
+00:30:53,440 --> 00:30:57,930
+Si on se déplace en suivant un mouvement rectiligne uniforme par rapport aux nébuleuses
+
+375
+00:30:57,930 --> 00:31:00,880
+voit-on un effet ? Non, c'est deux choses différentes.
+
+376
+00:31:00,880 --> 00:31:05,610
+Donc ne dites pas que tous les mouvements sont relatifs, ce n'est pas ce que dit la relativité.
+
+377
+00:31:05,610 --> 00:31:12,520
+La relativité dit que le mouvement rectiligne uniforme par rapport aux nébuleuses est indétectable.
+
+378
+00:31:16,620 --> 00:31:19,920
+La loi symétrique dont j'aimerais parler à présent
+
+379
+00:31:19,920 --> 00:31:22,630
+est intéressante de par son histoire.
+
+380
+00:31:22,630 --> 00:31:26,170
+Elle aborde le problème
+de la réflexion dans l'espace.
+
+381
+00:31:27,010 --> 00:31:30,290
+Si je construis une machine, disons une montre,
+
+382
+00:31:30,290 --> 00:31:36,090
+et que je fabrique ici la même montre, sauf qu'elle ressemble à la première vue dans un miroir.
+
+383
+00:31:36,110 --> 00:31:40,270
+Je ne veux pas dire que je regarde la première dans un miroir, je fabrique bien une nouvelle montre
+
+384
+00:31:40,270 --> 00:31:46,870
+qui est une copie parfaite de la première vue dans un miroir.
+
+385
+00:31:46,870 --> 00:31:50,650
+Autrement dit, j'ai le chiffre 2 peint délicatement ici,
+
+386
+00:31:50,650 --> 00:31:54,410
+et je peins sur l'autre le chiffre 2 inversé.
+
+387
+00:31:55,080 --> 00:31:56,880
+C'est l'occasion de faire un dessein.
+
+388
+00:31:56,880 --> 00:32:00,130
+2 d'un côté, 2 inversé de l'autre.
+
+389
+00:32:17,190 --> 00:32:22,010
+La première montre est remontée dans un sens, la deuxième dans l'autre.
+
+390
+00:32:22,010 --> 00:32:26,410
+Elles vont de paire, comme
+deux gants, gauche et droite.
+
+391
+00:32:26,410 --> 00:32:30,670
+Remontons les deux montres
+aux mêmes positions.
+
+392
+00:32:30,670 --> 00:32:35,530
+Par les mêmes j'entends, en positions miroirs, et on les laisse tourner.
+
+393
+00:32:35,530 --> 00:32:39,170
+Question : vont-elles rester en correspondance ?
+
+394
+00:32:39,170 --> 00:32:46,040
+La machinerie de chacune des deux montres tourne en miroir l'une de l'autre.
+
+395
+00:32:46,040 --> 00:32:49,510
+Et j'ignore quel est votre pari sur le résultat.
+
+396
+00:32:49,510 --> 00:32:53,580
+Vous vous dites sûrement que oui, et la plupart des gens ont deviné que c'était vrai,
+
+397
+00:32:58,310 --> 00:33:01,420
+Nous ne parlons pas ici de géographie.
+
+398
+00:33:01,420 --> 00:33:04,860
+Nous ne pouvons pas distinguer la gauche de la droite. Géographiquement, on peut dire
+
+399
+00:33:04,860 --> 00:33:09,660
+que si on regarde New-York depuis la Floride alors l'océan est sur la droite.
+
+400
+00:33:09,660 --> 00:33:17,600
+On peut alors distinguer la gauche de la droite. Et si la montre implique l'océan, New-York etc
+
+401
+00:33:17,600 --> 00:33:22,240
+alors on ne pourrait pas construire la montre miroir, ses aiguilles seraient dans l'eau.
+
+402
+00:33:22,240 --> 00:33:26,860
+Il faut imaginer que la géographie de la Terre est aussi inversée.
+
+403
+00:33:26,860 --> 00:33:29,280
+Tout ce qui est concerné doit être inversé.
+
+404
+00:33:29,280 --> 00:33:34,060
+L'histoire aussi doit changer. Par exemple si vous achetez une vis dans un atelier,
+
+405
+00:33:34,060 --> 00:33:36,220
+elle sera sûrement filetée à droite.
+
+406
+00:33:36,220 --> 00:33:40,740
+Vous allez dire que la 2ème montre n'est pas identique à la 1ère, car il est plus difficile de lui trouver des vis.
+
+407
+00:33:40,740 --> 00:33:43,770
+Mais là ça dépend juste de ce qu'on produit.
+
+408
+00:33:43,780 --> 00:33:48,250
+Pour résumer, le premier pari est que ça ne fait aucune différence.
+
+409
+00:33:48,250 --> 00:33:51,400
+Et il se trouve que les lois de la gravitation
+
+410
+00:33:51,400 --> 00:33:55,310
+sont telles que cela ne changerait rien non plus si les montres fonctionnaient par gravité.
+
+411
+00:33:55,310 --> 00:34:00,810
+Les lois de l’électricité et du magnétisme...
+
+412
+00:34:01,580 --> 00:34:06,380
+Cela marcherait toujours, les deux montres fonctionneraient pareil.
+
+413
+00:34:06,380 --> 00:34:14,770
+Et si la montre fonctionnait grâce à une réaction nucléaire, ça ne changerait rien non plus.
+
+414
+00:34:18,150 --> 00:34:21,280
+Mais il y aurait quand même
+une petite différence.
+
+415
+00:34:21,280 --> 00:34:23,820
+J'y reviendrai dans un instant.
+
+416
+00:34:23,820 --> 00:34:33,290
+Mais vous savez peut-être qu'il est possible de mesurer la concentration de sucre dans l'eau
+
+417
+00:34:33,310 --> 00:34:35,610
+en faisant passer de la lumière
+polarisée à travers l'eau.
+
+418
+00:34:35,620 --> 00:34:40,300
+Si on place un morceau de polaroid qui laisse seulement passer la lumière avec une certaine orientation
+
+419
+00:34:40,300 --> 00:34:44,570
+on observe que lorsqu'on regarde la lumière traverser de plus en plus profondément l'eau sucrée
+
+420
+00:34:44,580 --> 00:34:52,160
+il faut tourner le polaroid à la sortie de la solution de plus en plus vers la droite pour laisser passer la lumière.
+
+421
+00:34:52,180 --> 00:34:56,160
+Ou vers la gauche, je ne me souviens plus, disons vers la droite.
+
+422
+00:34:58,800 --> 00:35:02,510
+Si vous faites entrer la lumière par l'autre extrémité c'est toujours vers la droite.
+
+423
+00:35:02,510 --> 00:35:05,450
+Il existe donc une différence
+entre la gauche et la droite.
+
+424
+00:35:05,450 --> 00:35:08,340
+Donc si on fabrique notre montre avec de l'eau sucrée et de la lumière,
+
+425
+00:35:08,340 --> 00:35:15,360
+si on place un réservoir d'eau entre deux polaroids arrangés pour laisser passer la lumière
+
+426
+00:35:15,360 --> 00:35:18,920
+et qu'on la reproduit en miroir, en espérant que la lumière tourne à gauche,
+
+427
+00:35:18,920 --> 00:35:21,550
+non, elle tourne à droite et
+la lumière ne passe pas.
+
+428
+00:35:21,550 --> 00:35:27,700
+Donc en utilisant de l'eau sucrée nos deux montres miroirs seront différentes.
+
+429
+00:35:30,590 --> 00:35:40,410
+Il semble donc que les lois physiques ne sont pas symétriques dans le cas de la réflexion.
+
+430
+00:35:40,410 --> 00:35:45,150
+Cela dit, il est possible de faire du sucre en laboratoire, ce sucre là était un sucre de betterave,.
+
+431
+00:35:45,170 --> 00:35:47,420
+Le sucre n'est pas une molécule compliquée.
+
+432
+00:35:47,420 --> 00:35:51,310
+Il est possible de faire du sucre en laboratoire à partir de C02 et d'eau,
+
+433
+00:35:51,310 --> 00:35:54,830
+et après beaucoup d'étapes,
+obtenir du sucre artificiel.
+
+434
+00:35:54,830 --> 00:36:03,390
+Utilisez ce sucre, il semble identique chimiquement, mais il ne fait pas tourner la lumière.
+
+435
+00:36:04,270 --> 00:36:09,440
+Si vous y introduisez des bactéries, elles vont manger le sucre.
+
+436
+00:36:09,440 --> 00:36:16,050
+Si on regarde ce qu'il reste après un moment, on remarque qu'elles n'ont mangé que la moitié du sucre.
+
+437
+00:36:17,320 --> 00:36:20,570
+Et maintenant la lumière tourne vers la gauche.
+
+438
+00:36:22,380 --> 00:36:26,850
+En voici l'explication.
+
+439
+00:36:26,850 --> 00:36:34,020
+Le sucre est une molécule compliquée, un ensemble d'atomes disposés de manière compliquée.
+
+440
+00:36:34,020 --> 00:36:39,200
+Si vous faites le même arrangement mais en échangeant la gauche et la droite,
+
+441
+00:36:39,200 --> 00:36:43,460
+miroir l'une de l'autre.
+
+442
+00:36:43,460 --> 00:36:49,210
+La distance entre chaque paire d'atomes est identique dans les deux cas.
+
+443
+00:36:49,210 --> 00:36:51,720
+Leurs énergies sont les mêmes,
+
+444
+00:36:51,720 --> 00:36:57,280
+et elles sont "identiques" dans tous les phénomènes chimiques où la lumière ne joue aucun rôle.
+
+445
+00:36:57,280 --> 00:37:01,100
+Les créatures vivantes elles,
+voient leur différences.
+
+446
+00:37:01,100 --> 00:37:03,660
+La bactérie n'en mange qu'une sorte.
+
+447
+00:37:03,660 --> 00:37:09,740
+Le sucre de betterave est
+toujours une molécule "droite",
+
+448
+00:37:09,740 --> 00:37:12,110
+elle fait tourner la lumière d'un seul côté.
+
+449
+00:37:12,110 --> 00:37:14,530
+La bactérie ne peut manger
+que ce type de molécule.
+
+450
+00:37:14,530 --> 00:37:20,480
+Lorsqu'on fabrique du sucre à partir de substances non asymétriques elles-mêmes,
+
+451
+00:37:20,480 --> 00:37:23,060
+on produit les deux sortes en nombres égaux.
+
+452
+00:37:23,060 --> 00:37:27,790
+Si ensuite on introduit les bactéries, elles mangent l'espèce qu'elles peuvent manger
+
+453
+00:37:27,810 --> 00:37:30,910
+et ce qui reste fait tourner la lumière.
+
+454
+00:37:30,910 --> 00:37:37,420
+On peut différencier les deux sortes en observant les cristaux au microscope, comme l'a découvert Pasteur.
+
+455
+00:37:37,420 --> 00:37:42,270
+On peut montrer que
+chaque molécule a "un sens",
+
+456
+00:37:42,270 --> 00:37:47,620
+et concernant notre sucre artificiel, on sait les séparer nous même, sans l'aide des bactéries.
+
+457
+00:37:47,620 --> 00:37:53,840
+Si la bactérie arrive à les discerner est-ce-que ça signifie que les processus du vivant obéissent à d'autres lois ?
+
+458
+00:37:53,840 --> 00:37:59,520
+Il semble que non, ces créatures vivantes sont composées de beaucoup de molécules compliquées
+
+459
+00:37:59,520 --> 00:38:01,520
+qui ont toutes une forme de "filetage".
+
+460
+00:38:01,520 --> 00:38:08,640
+La protéine, la molécule du
+vivant la plus emblématique,
+
+461
+00:38:08,640 --> 00:38:14,480
+possède un filetage, disons, vers la droite.
+
+462
+00:38:14,480 --> 00:38:18,680
+Nous pourrions reproduire ces
+molécules vers la gauche,
+
+463
+00:38:18,680 --> 00:38:23,320
+mais elles ne fonctionneraient pas biologiquement car elles ne s'adapteraient plus aux autres.
+
+464
+00:38:23,320 --> 00:38:28,680
+Un filetage à gauche s'adapte à un filetage à gauche, mais pas à un filetage à droite.
+
+465
+00:38:28,680 --> 00:38:33,250
+La bactérie ayant un filetage chimique "à gauche"
+
+466
+00:38:33,250 --> 00:38:35,970
+peut distinguer les sucres gauche et droit.
+
+467
+00:38:35,970 --> 00:38:38,120
+Comment y sont-elles parvenues ?
+
+468
+00:38:38,120 --> 00:38:42,800
+La physique et la chimie ne peut pas fabriquer l'une ou l'autre, seulement les deux,
+
+469
+00:38:42,800 --> 00:38:45,120
+mais la biologie y arrive.
+
+470
+00:38:45,120 --> 00:38:53,960
+On peut imaginer qu'il y a bien longtemps, une molécule se forma par accident
+
+471
+00:38:53,960 --> 00:38:59,570
+et proliféra par réplication d'elle-même, et ainsi de suite, si bien que des années plus tard
+
+472
+00:38:59,570 --> 00:39:05,340
+ces drôles de trucs, aux formes bizarres, se moquant les unes des autres...
+
+473
+00:39:05,340 --> 00:39:08,760
+Ce sont les descendants des premières molécules,
+
+474
+00:39:08,760 --> 00:39:13,810
+et c'est par accident qu'elles se sont formées dans un sens plutôt que l'autre.
+
+475
+00:39:13,810 --> 00:39:19,680
+Il fallait que ça soit l'un ou l'autre, donc la chose qui se réplique est forcément gauche ou droite,
+
+476
+00:39:19,680 --> 00:39:22,520
+et cela s'est ensuite propagé et ainsi de suite.
+
+477
+00:39:22,520 --> 00:39:29,330
+C'est comme les vis dans un atelier, on utilise des vis à droite pour faire des vis à droite etc...
+
+478
+00:39:29,330 --> 00:39:37,380
+Voici sûrement la preuve la plus profonde,
+
+479
+00:39:37,380 --> 00:39:43,060
+le fait que chez tous les organismes vivants les protéines aient le même filetage,
+
+480
+00:39:43,060 --> 00:39:51,650
+c'est sûrement la preuve la plus profonde de l'origine commune de toutes les formes de vie,
+
+481
+00:39:51,650 --> 00:39:58,430
+que l'on trouve ici directement
+au niveau moléculaire.
+
+482
+00:39:58,430 --> 00:40:05,120
+Pour mieux tester cette question de la symétrie gauche/droite des lois physiques,
+
+483
+00:40:05,120 --> 00:40:07,020
+on pourrait poser le problème suivant.
+
+484
+00:40:07,020 --> 00:40:12,040
+Imaginez qu'on soit au téléphone avec un martien, ou autre chose.
+
+485
+00:40:12,040 --> 00:40:18,990
+On ignore où il se trouve, et on aimerait lui décrire, lui raconter des trucs.
+
+486
+00:40:19,010 --> 00:40:23,810
+Comment va-t-il nous comprendre ? Pr Morrison, qui a travaillé ici, y a beaucoup travaillé,
+
+487
+00:40:23,810 --> 00:40:29,260
+et il suggéra qu'une méthode serait de commencer par "tic tic" 2, "tic tic tic"  3 etc..
+
+488
+00:40:29,260 --> 00:40:34,020
+Assez vite, l'autre capte qu'il s'agit de nombres.
+
+489
+00:40:34,030 --> 00:40:37,790
+Maintenant qu'il comprend vos nombres vous pouvez lui en envoyer
+
+490
+00:40:37,790 --> 00:40:41,710
+et vous pourriez envoyer une grande suite de nombres qui énumère
+
+491
+00:40:41,710 --> 00:40:45,760
+les poids relatifs des atomes
+les uns à la suite des autres.
+
+492
+00:40:45,760 --> 00:40:49,920
+"Hydrogen: 1.00... Deuterium: etc..."
+
+493
+00:40:49,920 --> 00:40:54,650
+Il découvrirait, après s'être arraché les cheveux à comprendre tout ça,
+
+494
+00:40:54,650 --> 00:40:58,140
+que ces nombres sont les ratios des poids des éléments chimiques,
+
+495
+00:40:58,140 --> 00:41:00,590
+et que les mots sont les noms des éléments etc...
+
+496
+00:41:00,590 --> 00:41:08,680
+Petit à petit, il serait possible d'échanger avec lui dans un langage commun.
+
+497
+00:41:08,700 --> 00:41:14,590
+Maintenant que vous vous connaissez, il vous demande "À quoi vous ressemblez ?"
+
+498
+00:41:14,590 --> 00:41:17,620
+Vous dites : "On mesure environ 6 pieds de haut"
+
+499
+00:41:17,620 --> 00:41:20,760
+Lui: "6 pieds ? 1 pied c'est grand comment ?"
+
+500
+00:41:20,760 --> 00:41:28,660
+Vous: "C'est facile, 6 pieds ça correspond à la hauteur de dix-sept mille millions atomes d'hydrogène"
+
+501
+00:41:28,660 --> 00:41:33,570
+Ce n'est pas une blague, c'est une façon de décrire 6 pieds pour quelqu'un qui n'a pas la métrique.
+
+502
+00:41:33,570 --> 00:41:38,240
+Imaginez qu'on ne puisse rien lui envoyer, ni regarder le même objet.
+
+503
+00:41:38,240 --> 00:41:40,960
+Le renseigner sur notre taille ? On peut le faire.
+
+504
+00:41:40,960 --> 00:41:46,330
+Grâce au fait que les lois de la physique ne sont pas inchangées par changement d'échelle.
+
+505
+00:41:46,330 --> 00:41:53,730
+Donc on peut utiliser ce fait
+pour définir une échelle.
+
+506
+00:41:53,730 --> 00:42:01,940
+Ok, on continue à décrire notre apparence : notre taille, notre bilatéralité, on ressemble à ça etc..
+
+507
+00:42:01,960 --> 00:42:04,460
+Lui : "Intéressant, à quoi
+vous ressemblez à l’intérieur ?"
+
+508
+00:42:04,510 --> 00:42:09,580
+On décrit notre cœur etc... Et on lui dit "Visualisez le cœur à gauche".
+
+509
+00:42:09,580 --> 00:42:15,390
+La question est comment lui dire quel côté est le gauche ?
+
+510
+00:42:15,390 --> 00:42:19,730
+"Alors vous devez prendre du sucre de betterave et puis..."
+
+511
+00:42:23,400 --> 00:42:27,580
+Et il s'avère qu'il n'y a pas
+de betteraves chez lui.
+
+512
+00:42:27,580 --> 00:42:33,220
+Et nous ignorons si l'évolution a conduit aux mêmes protéines sur Mars,
+
+513
+00:42:33,220 --> 00:42:40,580
+si les accidents de l'évolution ont produit des filetages vers la droite, impossible de le supposer.
+
+514
+00:42:40,580 --> 00:42:46,270
+Après mûre réflexion, vous concluez que vous n'arriverez pas l'expliquer, que c'est impossible.
+
+515
+00:42:46,270 --> 00:42:49,700
+Pourtant, il y a 5 ou 6 ans,
+
+516
+00:42:49,700 --> 00:42:55,570
+certaines expériences ont soulevé de nombreuses questions,
+
+517
+00:42:55,570 --> 00:42:59,630
+menant à des situations
+toujours plus paradoxales,
+
+518
+00:42:59,630 --> 00:43:02,810
+jusqu'à ce que Lee et Yang proposent
+
+519
+00:43:02,810 --> 00:43:07,820
+que la symétrie gauche/droite, que la nature est la même pour les deux, n'est pas vérifiée.
+
+520
+00:43:07,820 --> 00:43:10,800
+Cela permettrait d'expliquer
+certains mystères.
+
+521
+00:43:11,610 --> 00:43:15,360
+Lee et Yang ont fait des
+expériences pour le démontrer,
+
+522
+00:43:15,360 --> 00:43:19,320
+je ne mentionne que l’expérience la plus directe pour le prouver.
+
+523
+00:43:22,880 --> 00:43:28,590
+Beaucoup de ces expériences le montrait clairement, mais voici la plus simple à expliquer.
+
+524
+00:43:28,590 --> 00:43:32,160
+Quand nous avons une désintégration radioactive
+
+525
+00:43:32,160 --> 00:43:42,280
+dans laquelle un électron et
+un antineutrino sont émis.
+
+526
+00:43:42,280 --> 00:43:46,660
+C'est un neutron qui se désintègre en un proton, un électron et un antineutrino.
+
+527
+00:43:46,660 --> 00:43:50,110
+Ce qui arrive aux neutrons
+dans un noyau, bref,
+
+528
+00:43:50,110 --> 00:43:54,770
+il y a de nombreuses activités nucléaires où la charge du noyau s'incrémente de 1,
+
+529
+00:43:54,770 --> 00:43:57,230
+en libérant un électron.
+
+530
+00:43:57,230 --> 00:44:03,120
+Ce qui est intéressant c'est que si vous mesurez son spin, les électrons "tournent" lorsqu'ils sont émis,
+
+531
+00:44:03,130 --> 00:44:07,330
+si vous mesurez le spin, vous trouvez qu'ils "tournent vers la gauche".
+
+532
+00:44:07,330 --> 00:44:16,610
+L'électron qui est émis lors de la désintégration est fileté vers la gauche.
+
+533
+00:44:16,610 --> 00:44:21,820
+C'est comme si le fusil qui tirait l'électron avait un canon rayé.
+
+534
+00:44:21,820 --> 00:44:26,290
+Et il y a deux façons de rainurer un canon, il y a une seule sortie
+
+535
+00:44:26,320 --> 00:44:29,560
+mais ça peut sortir en tournant dans un sens ou dans l'autre.
+
+536
+00:44:29,560 --> 00:44:35,370
+Les expériences montrent que les électrons sortent d'un canon rayé à gauche.
+
+537
+00:44:35,370 --> 00:44:40,100
+Et donc en se servant de ce fait, on peut appeler le martien et lui dire :
+
+538
+00:44:40,100 --> 00:44:45,800
+"Prends un truc radioactif,
+un neutron par exemple"
+
+539
+00:44:45,800 --> 00:44:50,850
+" et regarde les électrons qui sortent de la désintégration bêta "
+
+540
+00:44:50,850 --> 00:44:58,640
+"la gauche est défini par
+ce filetage là...", attendez...
+
+541
+00:44:58,640 --> 00:45:02,060
+Ça va me prendre du temps de réfléchir à comment le faire en détail...
+
+542
+00:45:02,060 --> 00:45:09,520
+Si l'électron sort par le haut, alors son sens de rotation définit la partie gauche de notre corps,
+
+543
+00:45:09,540 --> 00:45:16,080
+et c'est là qu'on trouve le cœur. Un truc comme ça, je dois y réfléchir un peu plus...
+
+544
+00:45:16,160 --> 00:45:19,660
+Mais bref, il est possible de distinguer la gauche de la droite, et donc
+
+545
+00:45:19,660 --> 00:45:27,570
+la symétrie des lois physiques pour la gauche et la droite s'est effondrée.
+
+546
+00:45:30,300 --> 00:45:38,760
+Je voudrais aborder à présent la relation entre les lois de conservation et les lois symétriques.
+
+547
+00:45:40,760 --> 00:45:44,890
+La dernière fois nous avons parlé des principes de conservation.
+
+548
+00:45:44,890 --> 00:45:49,500
+La conservation de l'énergie, de la quantité de mouvement etc...
+
+549
+00:45:49,500 --> 00:45:56,670
+Il est intéressant de remarquer la profonde relation entre les lois de conservation et les lois symétriques.
+
+550
+00:45:56,670 --> 00:46:04,100
+Cette relation ne s'interprète qu'en mécanique quantique, pour autant que nous sachions.
+
+551
+00:46:04,100 --> 00:46:11,710
+Néanmoins, je vais essayer de vous en donner une explication.
+
+552
+00:46:11,710 --> 00:46:19,310
+Si on assume que les lois de la physique peuvent être décrits par un principe de moindre action,
+
+553
+00:46:19,310 --> 00:46:25,230
+cette idée que le chemin suivi est celui qui minimise une quantité, j'en ai déjà parlé ici.
+
+554
+00:46:25,230 --> 00:46:30,650
+Si on admet que les lois de la physique obéissent à ce principe, alors on peut montrer
+
+555
+00:46:30,650 --> 00:46:39,800
+que la symétrie par translation implique la conservation de la quantité de mouvement.
+
+556
+00:46:39,800 --> 00:46:44,190
+Il y a un lien profond entre les lois de symétrie et de conservation,
+
+557
+00:46:44,190 --> 00:46:48,380
+mais ce lien nécessite de postuler le principe de moindre action.
+
+558
+00:46:48,380 --> 00:46:53,960
+Souvenez-vous, la dernière fois nous avons parlé une façon d'écrire les lois physiques
+
+559
+00:46:53,960 --> 00:46:59,070
+où l'on dit qu'une particule va d'un point à un autre en un temps donné,
+
+560
+00:46:59,070 --> 00:47:04,500
+en essayant différents chemins, et le chemin suivi a la propriété suivante.
+
+561
+00:47:04,500 --> 00:47:13,970
+Il y a une quantité malheureusement appelée "action", ce qui n'a rien à voir avec le sens commun du mot.
+
+562
+00:47:13,970 --> 00:47:17,870
+Il y a une quantité, l'action, que vous calculez pour ce chemin.
+
+563
+00:47:17,870 --> 00:47:22,860
+Si vous la calculez pour n'importe quel autre chemin, le résultat est plus grand.
+
+564
+00:47:24,850 --> 00:47:28,770
+Une façon de décrire les lois de la nature, est de dire que l'action
+
+565
+00:47:28,770 --> 00:47:35,320
+une certaine quantité, a une valeur minimum pour le chemin suivi.
+
+566
+00:47:35,320 --> 00:47:41,140
+Une autre façon de dire que c'est un minimum, est de dire que si vous changez un peu le chemin,
+
+567
+00:47:41,140 --> 00:47:44,890
+à première vue ça ne change rien.
+
+568
+00:47:44,940 --> 00:47:51,140
+Imaginez que vous vous promeniez sur des collines, aux pentes douces,
+
+569
+00:47:51,140 --> 00:47:56,090
+les mathématiques ici
+s'appliquent à des pentes douces.
+
+570
+00:47:56,090 --> 00:48:01,630
+Vous vous baladez de collines en vallées, et vous arrivez à l'endroit le plus bas.
+
+571
+00:48:01,630 --> 00:48:07,050
+Donc si vous faites un petit pas en avant vous n'allez pas changer d'altitude.
+
+572
+00:48:07,050 --> 00:48:13,070
+Quand vous êtes au point le plus haut ou le plus bas, un pas en avant ne change pas votre altitude.
+
+573
+00:48:13,070 --> 00:48:21,050
+Alors que sur une pente, si vous faites un pas en avant soit vous descendez soit vous montez,
+
+574
+00:48:21,050 --> 00:48:26,770
+et c'est pour cela qu'au point le plus bas, faire un pas ne change presque rien.
+
+575
+00:48:26,770 --> 00:48:33,720
+Car si ça faisait une différence, en fonction de votre pas vous iriez vers le haut ou vers le bas,
+
+576
+00:48:33,720 --> 00:48:40,480
+Mais comme vous êtes au plus bas, vous ne pouvez plus descendre, un pas en avant ne change rien.
+
+577
+00:48:41,850 --> 00:48:45,600
+Nous pouvons donc dire que si on change ce chemin un petit peu,
+
+578
+00:48:45,600 --> 00:48:49,500
+en première approximation, l'action ne change pas.
+
+579
+00:48:49,500 --> 00:48:53,580
+Maintenant considérez cet autre chemin possible.
+
+580
+00:48:53,580 --> 00:48:57,900
+Nous sautons d'abord à un autre point tout proche,
+
+581
+00:48:57,900 --> 00:49:01,800
+Ensuite on continue...
+
+582
+00:49:01,800 --> 00:49:08,350
+- cette partie est trop excentrique, permettez moi de dessiner un autre chemin -
+
+583
+00:49:08,350 --> 00:49:13,320
+on suit exactement le même
+chemin jusqu'à un point ici,
+
+584
+00:49:13,320 --> 00:49:18,480
+qui est déplacé ici de la
+même façon que les autres.
+
+585
+00:49:18,480 --> 00:49:22,050
+Nous venons de découvrir que les lois de la nature sont telles
+
+586
+00:49:22,050 --> 00:49:30,190
+que l'action de ces deux chemins sont les mêmes, en première approximation.
+
+587
+00:49:30,190 --> 00:49:33,630
+D'après le principe de moindre action.
+
+588
+00:49:33,630 --> 00:49:41,050
+Maintenant regardez, l'action de chacun des chemins est le même
+
+589
+00:49:41,050 --> 00:49:44,180
+si le monde est le même
+lorsque vous déplacez tout.
+
+590
+00:49:44,180 --> 00:49:48,620
+Car la seule différence entre les deux c'est que vous avez tout déplacé.
+
+591
+00:49:48,620 --> 00:49:52,960
+Donc si la symétrie par translation dans l'espace est vérifiée,
+
+592
+00:49:52,960 --> 00:49:58,700
+alors l'action totale de chaque
+chemin est identique.
+
+593
+00:49:58,700 --> 00:50:04,320
+Mais pour le vrai mouvement, l'action totale sur ce chemin
+
+594
+00:50:04,320 --> 00:50:07,810
+est très proche de celle du mouvement initial.
+
+595
+00:50:09,860 --> 00:50:17,040
+Vous avez sûrement remarqué que la contribution de chacune de ces sections sont égales.
+
+596
+00:50:17,040 --> 00:50:22,680
+Sur cette section nous allons dans un sens, et sur l'autre dans le sens opposé.
+
+597
+00:50:22,680 --> 00:50:28,520
+Donc la contribution du déplacement dans cette direction,
+
+598
+00:50:28,520 --> 00:50:34,760
+et la contribution du déplacement dans l'autre direction, de signe opposé,
+
+599
+00:50:34,760 --> 00:50:40,220
+nous le voyons, ces deux quantités doivent correspondre et s'annuler mutuellement.
+
+600
+00:50:40,220 --> 00:50:46,300
+Elles sont la manifestation dans l'action, d'un petit pas fait de côté dans l'espace.
+
+601
+00:50:46,300 --> 00:50:53,540
+L'effet du petit pas de côté sur l'action est le même au début qu' à la fin.
+
+602
+00:50:53,540 --> 00:50:57,280
+Il y a donc une quantité qui ne change pas dans le temps,
+
+603
+00:50:57,280 --> 00:51:03,960
+si le principe de moindre action et la symétrie par translation sont vérifiés.
+
+604
+00:51:03,960 --> 00:51:11,840
+Et cette quantité qui ne change pas, c'est en fait la quantité de mouvement, dont on a déjà parlé.
+
+605
+00:51:11,850 --> 00:51:20,590
+De manière analogue, la symétrie dans le temps se traduit par la conservation de l'énergie.
+
+606
+00:51:20,590 --> 00:51:28,760
+La symétrie des lois par rotation produit la conservation du moment cinétique, etc...
+
+607
+00:51:28,760 --> 00:51:34,060
+La symétrie par réflexion ne se traduit pas par un effet classique,
+
+608
+00:51:34,060 --> 00:51:38,700
+elle n'a pas d'interprétation classique simple.
+
+609
+00:51:38,700 --> 00:51:43,880
+Certains appellent ça la parité, et on a une conservation de la parité.
+
+610
+00:51:43,880 --> 00:51:47,970
+Mais ce sont des mots bien compliqués issus de la mécanique quantique.
+
+611
+00:51:47,980 --> 00:51:52,530
+On dit juste que la symétrie gauche/droite n'est pas vérifiée,
+
+612
+00:51:52,530 --> 00:51:56,940
+mais je dois parler de la conservation de la parité car vous avez peut-être lu dans les journaux
+
+613
+00:51:56,940 --> 00:51:59,980
+"La loi de la conservation de la parité est fausse"
+
+614
+00:51:59,980 --> 00:52:02,770
+Pour être plus clairs ils auraient du écrire :
+
+615
+00:52:02,770 --> 00:52:08,540
+"Le principe selon lequel on peut distinguer la gauche de la droite est faux".
+
+616
+00:52:08,540 --> 00:52:16,100
+Puisqu'on parle de symétrie, je voudrais aborder des symétries qui présentent des problèmes nouveaux.
+
+617
+00:52:16,100 --> 00:52:22,350
+Par exemple, pour chaque particule comme un électron il y a une antiparticule, un positron.
+
+618
+00:52:22,350 --> 00:52:25,100
+Le proton a un antiproton,
+
+619
+00:52:25,100 --> 00:52:28,520
+et on peut faire en principe de "l'antimatière".
+
+620
+00:52:28,520 --> 00:52:32,680
+Où chaque atome a son "anti atome".
+
+621
+00:52:32,680 --> 00:52:35,220
+Par exemple, un atome d'hydrogène a un proton et un électron.
+
+622
+00:52:35,220 --> 00:52:39,420
+Si on assemble un antiproton, qui est négativement chargé, avec un positron
+
+623
+00:52:39,420 --> 00:52:44,140
+ils vont former un atome un "anti-hydrogène", en principe. On en a jamais fait,
+
+624
+00:52:44,140 --> 00:52:51,280
+mais on a compris qu'on "pouvait" en faire, et on pourrait faire toutes sortes d'antimatière ainsi.
+
+625
+00:52:51,280 --> 00:52:57,240
+Une question qui se pose : pourquoi la matière se comporte de la même manière que l'antimatière ?
+
+626
+00:52:57,240 --> 00:53:02,680
+Car c'est le cas, et une autre loi de symétrie est que si on fabrique une chose avec de l'antimatière,
+
+627
+00:53:02,690 --> 00:53:06,250
+cette chose se comportera comme s'il était faite de matière ordinaire.
+
+628
+00:53:06,250 --> 00:53:10,700
+Bien sûr si les deux choses se rencontraient elles s'annihileraient, ça ferait des étincelles...
+
+629
+00:53:10,700 --> 00:53:14,320
+On pense que la matière et l'antimatière suivent les mêmes lois.
+
+630
+00:53:14,320 --> 00:53:16,780
+Mais voici la question suivante.
+
+631
+00:53:17,440 --> 00:53:22,250
+Une fois qu'on a découvert que la symétrie gauche/droite est fausse,
+
+632
+00:53:22,250 --> 00:53:25,970
+si cette symétrie est fausse vient une question importante.
+
+633
+00:53:25,970 --> 00:53:29,870
+Si j'observe cette désintégration mais avec de l'antimatière,
+
+634
+00:53:29,890 --> 00:53:36,580
+un antineutron se désintègre en un antiproton, un positron et un neutrino.
+
+635
+00:53:36,580 --> 00:53:45,010
+Est ce que, dans le cas de l'antimatière, l'électron sort-il avec un filetage à gauche ou l'inverse ?
+
+636
+00:53:45,040 --> 00:53:52,110
+Il y a quelques mois encore, nous croyions que ça sortait dans l'autre sens
+
+637
+00:53:52,110 --> 00:53:58,770
+et que l'antimatière faisait tourner l'électron vers la droite, puisque la matière le fait tourner vers la gauche.
+
+638
+00:53:58,770 --> 00:54:05,520
+Et donc que nous ne pouvions pas dire au martien ce qu'est le droite ou la gauche,
+
+639
+00:54:05,520 --> 00:54:08,820
+car s'il est fait d'antimatière il voit la chose tourner dans l'autre sens,
+
+640
+00:54:08,820 --> 00:54:13,550
+car il fait des expériences avec des positrons et met le cœur du mauvais côté.
+
+641
+00:54:13,550 --> 00:54:18,240
+Donc si vous téléphonez au martien pour lui expliquer comment faire un être humain
+
+642
+00:54:18,240 --> 00:54:23,490
+Imaginez qu'il en fait un qui fonctionne...
+
+643
+00:54:23,490 --> 00:54:27,140
+Il lui explique tous nos codes sociaux etc...
+
+644
+00:54:27,140 --> 00:54:31,900
+et au moment de rencontrer cet homme, après nous avoir appris un fabriquer un bon vaisseau.
+
+645
+00:54:31,900 --> 00:54:36,930
+Vous allez à sa rencontre, vous tendez votre main droite pour une poignée de mains,
+
+646
+00:54:36,930 --> 00:54:43,000
+s'il sort sa main droite alors ça va, mais s'il se sert de la gauche faites attention...
+
+647
+00:54:48,120 --> 00:54:52,770
+Vous vous annihileriez l'un l'autre.
+
+648
+00:55:02,290 --> 00:55:06,160
+Voici les symétries que j'ai eu le temps d'aborder,
+
+649
+00:55:06,160 --> 00:55:11,080
+j'aimerais pouvoir vous en présenter d'autres, mais elles sont plus difficiles à expliquer,
+
+650
+00:55:11,080 --> 00:55:16,450
+mais il y a des choses formidables comme les symétries approximatives.
+
+651
+00:55:16,450 --> 00:55:20,460
+Ce qui est formidable dans cette capacité à distinguer la gauche de la droite,
+
+652
+00:55:20,460 --> 00:55:26,280
+est qu'on peut le faire que grâce à un tout petit effet, cette désintégration bêta.
+
+653
+00:55:26,280 --> 00:55:31,690
+Ça veut dire que la nature est incapable à 99,99% de distinguer la gauche de la droite,
+
+654
+00:55:31,690 --> 00:55:40,740
+il y a juste un petit morceau, un petit phénomène qui est radicalement différent, tout à fait "bancal".
+
+655
+00:55:40,740 --> 00:55:44,810
+C'est un mystère, et personne
+ne le comprend encore.
+
+656
+00:55:44,810 --> 00:55:46,810
+Merci.
+
+657
+00:55:48,280 --> 00:55:53,210
+Sous-titres : @Galileo51 Galilei

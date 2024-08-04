@@ -1,0 +1,3555 @@
+1
+00:01:13,370 --> 00:01:21,710
+Probabilité et incertitude -
+La nature vue par la mécanique quantique
+
+2
+00:01:24,800 --> 00:01:31,970
+Au début de l'histoire des
+observations expérimentales,
+
+3
+00:01:32,020 --> 00:01:36,880
+notre intuition, basée sur l'expérience d'objets familiers,
+
+4
+00:01:37,140 --> 00:01:40,170
+suggéra des explications raisonnables à bien des choses.
+
+5
+00:01:40,340 --> 00:01:46,510
+Mais lorsque que nous voulons avoir une description plus complète et cohérente de ce que nous voyons,
+
+6
+00:01:46,620 --> 00:01:50,420
+englobant toujours davantage de phénomènes,
+
+7
+00:01:50,570 --> 00:01:55,040
+ces explications deviennent des "lois", au lieu de simples explications.
+
+8
+00:01:55,210 --> 00:01:58,300
+Leur caractéristique c'est qu'elles semblent souvent
+
+9
+00:01:58,410 --> 00:02:00,500
+devenir de plus en plus déraisonnables.
+
+10
+00:02:00,650 --> 00:02:04,260
+Elles échappent de plus en plus à l'intuition.
+
+11
+00:02:04,570 --> 00:02:05,930
+Par exemple,
+
+12
+00:02:06,010 --> 00:02:08,000
+la théorie de la relativité,
+
+13
+00:02:08,090 --> 00:02:15,200
+dont une proposition est que si deux choses arrivent au même moment,
+
+14
+00:02:15,260 --> 00:02:17,120
+ce n'est qu'un avis subjectif,
+
+15
+00:02:17,120 --> 00:02:21,400
+quelqu'un d'autre pourrait conclure qu'un des événements a eu lieu avant l'autre.
+
+16
+00:02:21,530 --> 00:02:27,770
+La simultanéité n'est qu'une impression subjective.
+
+17
+00:02:28,680 --> 00:02:32,370
+Il n'y a vraiment aucune
+raison qu'il en soit autrement.
+
+18
+00:02:32,570 --> 00:02:35,410
+Les expériences de le vie quotidienne impliquent
+
+19
+00:02:35,410 --> 00:02:37,220
+un grand nombre de particules,
+
+20
+00:02:37,320 --> 00:02:39,700
+ou des choses allant lentement,
+
+21
+00:02:39,820 --> 00:02:43,500
+ou impliquent d'autres
+conditions très particulières.
+
+22
+00:02:43,660 --> 00:02:48,100
+En fait, elles ne sont qu'une
+expérience limitée de la nature.
+
+23
+00:02:49,210 --> 00:02:53,570
+Nous n'expérimentons qu'une infime fraction des phénomènes naturels.
+
+24
+00:02:53,810 --> 00:02:56,680
+Ce n'est qu'avec des mesures précises
+
+25
+00:02:56,680 --> 00:03:00,080
+et des expériences que nous pouvons avoir une vision plus large.
+
+26
+00:03:00,170 --> 00:03:03,520
+Et alors, nous voyons des choses inattendues.
+
+27
+00:03:03,860 --> 00:03:07,560
+Nous voyons des choses que nous étions loins de deviner.
+
+28
+00:03:09,720 --> 00:03:14,060
+Nous voyons des choses qui sont loin de ce que nous aurions pu imaginer.
+
+29
+00:03:14,160 --> 00:03:17,920
+L'imagination est mise à rude épreuve,
+
+30
+00:03:18,080 --> 00:03:22,850
+pas comme dans une fiction pour imaginer des choses qui ne sont pas vraiment là,
+
+31
+00:03:22,930 --> 00:03:25,640
+mais notre imagination est mise à rude épreuve seulement
+
+32
+00:03:25,700 --> 00:03:28,650
+pour comprendre ces choses qui sont là.
+
+33
+00:03:30,480 --> 00:03:32,440
+C'est ce genre de situation
+
+34
+00:03:32,490 --> 00:03:35,020
+que je voudrai aborder ce soir.
+
+35
+00:03:37,160 --> 00:03:40,930
+Par exemple, l'histoire de la lumière, au début la lumière
+
+36
+00:03:41,170 --> 00:03:44,340
+semblait se comporter, apparaissait être
+
+37
+00:03:44,500 --> 00:03:48,200
+comme une pluie de particules, de corpuscules,
+
+38
+00:03:48,730 --> 00:03:50,080
+comme la pluie,
+
+39
+00:03:50,140 --> 00:03:52,780
+les balles, d'un revolver, même idée.
+
+40
+00:03:53,020 --> 00:03:57,660
+Après des recherches plus avancées, il devenu clair que ce n'était pas vrai,
+
+41
+00:03:57,680 --> 00:04:00,450
+et que la lumière se comportait comme des ondes
+
+42
+00:04:00,660 --> 00:04:03,140
+comme des vagues par exemple.
+
+43
+00:04:03,660 --> 00:04:07,120
+Après de nouvelles recherches au 20e siècle il est apparu
+
+44
+00:04:07,280 --> 00:04:10,050
+que la lumière se comportait de bien des façons à nouveau,
+
+45
+00:04:10,220 --> 00:04:11,440
+comme des particules.
+
+46
+00:04:11,480 --> 00:04:14,010
+Dans l'effet photoélectrique
+on peut les compter,
+
+47
+00:04:14,090 --> 00:04:17,120
+on les appelle des photons à présent, etc...
+
+48
+00:04:18,490 --> 00:04:21,450
+De même, quand on a découvert les électrons
+
+49
+00:04:21,490 --> 00:04:24,970
+se comportaient comme des particules, des balles, tout simplement.
+
+50
+00:04:25,360 --> 00:04:27,220
+Des études approfondies ont montré
+
+51
+00:04:27,370 --> 00:04:29,940
+au cours d'expériences de diffraction,
+
+52
+00:04:30,040 --> 00:04:32,460
+qu'ils se comportaient comme des ondes.
+
+53
+00:04:32,970 --> 00:04:35,970
+Le temps passant, cette confusion s'accroissait
+
+54
+00:04:35,970 --> 00:04:39,800
+sur le comportement réel de ces choses, ondes ou particules ?
+
+55
+00:04:39,800 --> 00:04:43,200
+Particules ou ondes ?
+Tout semblait être les deux à la fois.
+
+56
+00:04:43,520 --> 00:04:45,290
+Cette confusion grandissante
+
+57
+00:04:45,340 --> 00:04:48,480
+fût dissipée entre 1925 et 1926,
+
+58
+00:04:48,700 --> 00:04:52,520
+avec l'avènement des équations correctes de la mécanique quantique.
+
+59
+00:04:52,680 --> 00:04:58,480
+A présent nous savons comment les électrons et la lumière se comportent.
+
+60
+00:04:58,970 --> 00:05:00,280
+Comment appeler ceci?
+
+61
+00:05:00,340 --> 00:05:02,340
+Comme une "onde particulaire",
+
+62
+00:05:02,340 --> 00:05:06,330
+ou d'une manière typiquement quantique.
+
+63
+00:05:06,460 --> 00:05:07,770
+Il n'y a pas de mots.
+
+64
+00:05:07,820 --> 00:05:11,500
+Si je dis comme des particules je donne une mauvaise impression ...
+
+65
+00:05:11,610 --> 00:05:14,680
+Leur comportement est propre et inimitable.
+
+66
+00:05:14,800 --> 00:05:19,260
+Techniquement, nous pourrions dire de manière quantique.
+
+67
+00:05:19,690 --> 00:05:26,560
+Ils se comportent d'une manière qui ne ressemble à rien de ce que vous avez déjà pu voir.
+
+68
+00:05:27,280 --> 00:05:30,200
+Votre expérience des choses,
+ce que vous avez déjà vu,
+
+69
+00:05:30,250 --> 00:05:32,480
+est inadéquate, incomplète.
+
+70
+00:05:32,490 --> 00:05:37,690
+Le comportement des choses à très petite échelle est juste différent.
+
+71
+00:05:38,740 --> 00:05:41,210
+Ils ne se comportent pas comme des particules,
+
+72
+00:05:41,500 --> 00:05:43,890
+ils ne se comportent pas comme des ondes.
+
+73
+00:05:44,120 --> 00:05:48,360
+Les atomes ne se comportent pas comme des masses suspendues à des ressorts,
+
+74
+00:05:48,580 --> 00:05:52,180
+ou comme des reproductions miniatures du système solaire
+
+75
+00:05:52,240 --> 00:05:54,580
+avec des petites planètes sur des orbites.
+
+76
+00:05:54,860 --> 00:06:00,370
+Il n’apparaît pas non plus comme un nuage ou un brouillard autour d'un noyau.
+
+77
+00:06:00,520 --> 00:06:04,410
+Il ne ressemble à rien de ce que vous avez déjà vu.
+
+78
+00:06:04,800 --> 00:06:11,010
+Il y a une simplification, au moins les électrons se comportent de la même manière que les photons.
+
+79
+00:06:11,330 --> 00:06:16,040
+Ils sont tous les deux tordus, mais exactement de la même manière.
+
+80
+00:06:19,240 --> 00:06:23,440
+Comprendre leur comportement demande donc beaucoup d'imagination,
+
+81
+00:06:23,580 --> 00:06:26,620
+car nous allons décrire quelque-chose
+
+82
+00:06:26,920 --> 00:06:30,050
+qui est différent de tout ce que vous connaissez.
+
+83
+00:06:30,250 --> 00:06:35,100
+Cet aspect fait peut être de cette conférence la plus difficile de ce cycle
+
+84
+00:06:35,180 --> 00:06:36,880
+au sens où c'est abstrait,
+
+85
+00:06:37,060 --> 00:06:41,960
+au sens où c'est très éloigné de l'expérience,
+
+86
+00:06:42,390 --> 00:06:44,010
+et je ne peux pas faire autrement.
+
+87
+00:06:44,030 --> 00:06:47,760
+Si je faisais une série de conférences sur le caractère des lois physiques
+
+88
+00:06:47,810 --> 00:06:50,510
+en laissant de côté
+
+89
+00:06:50,580 --> 00:06:54,280
+la description du comportement des particules à petite échelle
+
+90
+00:06:54,360 --> 00:06:56,330
+je ne ferais pas mon boulot.
+
+91
+00:06:56,330 --> 00:07:00,080
+Parce que ces choses sont caractéristiques
+
+92
+00:07:00,080 --> 00:07:01,760
+de toutes les particules dans la nature
+
+93
+00:07:01,760 --> 00:07:03,760
+et ont un caractère universel.
+
+94
+00:07:04,060 --> 00:07:07,300
+Si vous voulez entendre parler du caractère des lois physiques
+
+95
+00:07:07,330 --> 00:07:10,880
+il est essentiel de parler
+de ces aspects particuliers.
+
+96
+00:07:12,590 --> 00:07:14,240
+Donc ce sera difficile.
+
+97
+00:07:14,480 --> 00:07:17,280
+Mais la difficulté est
+seulement d'ordre psychologique
+
+98
+00:07:17,310 --> 00:07:19,850
+et réside dans ce tourment perpétuel
+
+99
+00:07:19,880 --> 00:07:22,000
+que vous cause des réflexions comme:
+
+100
+00:07:22,080 --> 00:07:24,880
+" Mais comment ça peut marcher ainsi ? ",
+
+101
+00:07:25,550 --> 00:07:28,590
+qui n'est que le reflet
+d'une envie incontrôlée,
+
+102
+00:07:28,590 --> 00:07:30,690
+d'un désir vain,
+
+103
+00:07:30,720 --> 00:07:33,540
+d'en faire l'analogie avec
+quelque-chose de plus familier.
+
+104
+00:07:33,680 --> 00:07:37,410
+Je ne le décrirai pas en faisant l'analogie avec quelque-chose de plus familier,
+
+105
+00:07:37,850 --> 00:07:39,820
+je vais seulement le décrire.
+
+106
+00:07:40,930 --> 00:07:43,460
+Il fût un temps où les journaux disaient
+
+107
+00:07:43,460 --> 00:07:45,930
+que seules 12 personnes
+comprenaient la relativité,
+
+108
+00:07:46,000 --> 00:07:47,940
+je ne crois pas que ce fût le cas.
+
+109
+00:07:47,940 --> 00:07:50,100
+Il y eut un moment où
+seul un homme la comprenait
+
+110
+00:07:50,100 --> 00:07:53,660
+car il était le seul à l'avoir saisie
+avant d'en faire un article.
+
+111
+00:07:53,800 --> 00:07:57,690
+Mais après des gens lurent l'article et beaucoup finirent par comprendre
+
+112
+00:07:57,820 --> 00:08:00,700
+la théorie de la relativité,
+d'une manière ou d'une autre,
+
+113
+00:08:00,760 --> 00:08:02,620
+mais plus que 12.
+
+114
+00:08:02,620 --> 00:08:07,680
+Par contre je peux affirmer que personne ne comprend la mécanique quantique.
+
+115
+00:08:09,290 --> 00:08:11,920
+Ne prenez pas cette conférence trop au sérieux
+
+116
+00:08:12,010 --> 00:08:15,380
+en voulant comprendre ce que je vais décrire à l'aide d'un modèle,
+
+117
+00:08:15,760 --> 00:08:17,240
+détendez-vous
+et amusez-vous.
+
+118
+00:08:17,240 --> 00:08:19,100
+Je vais vous raconter
+comment se comporte la natyre,
+
+119
+00:08:19,100 --> 00:08:21,760
+et si vous admettez simplement qu'elle puisse se comporter ainsi
+
+120
+00:08:21,900 --> 00:08:25,290
+vous lui trouverez quelque-chose de charmant et d'enchanteur.
+
+121
+00:08:25,410 --> 00:08:29,700
+C'est la façon d'appréhender cette conférence, n'essayez pas de "comprendre",
+
+122
+00:08:30,050 --> 00:08:32,290
+enfin vous devez comprendre l'anglais bien sûr,
+
+123
+00:08:32,440 --> 00:08:35,680
+mais non en terme d'autres choses.
+
+124
+00:08:36,080 --> 00:08:40,160
+Ne restez pas là à vous répéter
+" Mais comment peut-il en être ainsi? "
+
+125
+00:08:40,260 --> 00:08:41,740
+car vous serez submergés,
+
+126
+00:08:41,810 --> 00:08:45,180
+entraînés dans un cul-de-sac dont personne n'a encore trouvé l'issue,
+
+127
+00:08:45,210 --> 00:08:47,290
+personne ne sait comment ça peut être ainsi.
+
+128
+00:08:47,580 --> 00:08:50,840
+Laissez-moi vous décrire
+
+129
+00:08:51,000 --> 00:08:54,640
+le comportement des électrons ou des photons
+
+130
+00:08:54,800 --> 00:08:57,820
+dans leur style typiquement quantique.
+
+131
+00:08:58,460 --> 00:09:02,540
+Je vais le faire à l'aide d'un mélange d'analogie et de contraste.
+
+132
+00:09:02,610 --> 00:09:05,160
+Si je ne fais qu'une pure
+analogie nous échouerons.
+
+133
+00:09:05,250 --> 00:09:07,860
+Il me faut donc des analogies et des différences
+
+134
+00:09:08,060 --> 00:09:09,960
+avec des choses qui
+vous sont familières.
+
+135
+00:09:10,240 --> 00:09:15,230
+Je dresserai d'abord l'analogie et la différence avec le comportement des particules
+
+136
+00:09:15,240 --> 00:09:17,330
+comme des balles,
+
+137
+00:09:17,520 --> 00:09:19,930
+et ensuite avec le comportement des vagues,
+
+138
+00:09:20,010 --> 00:09:23,840
+comme des vagues ou encore des ondes sonores.
+
+139
+00:09:27,080 --> 00:09:29,810
+Ce que je vais faire c'est que je vais inventer
+
+140
+00:09:30,010 --> 00:09:32,250
+une expérience spéciale
+
+141
+00:09:32,370 --> 00:09:35,840
+et commencer par vous dire ce que serait le résultat de cette expérience
+
+142
+00:09:35,840 --> 00:09:37,220
+en utilisant des particules,
+
+143
+00:09:37,360 --> 00:09:40,450
+ce qui se passerait dans le cas des ondes,
+
+144
+00:09:40,580 --> 00:09:44,720
+et ce qui se passe finalement si on utilise des électrons ou des photons
+
+145
+00:09:44,890 --> 00:09:49,400
+et je me servirai seulement de cette expérience qui a été pensée
+
+146
+00:09:49,610 --> 00:09:51,860
+pour contenir tout le mystère
+de la mécanique quantique,
+
+147
+00:09:51,860 --> 00:09:58,530
+pour vous confronter aux paradoxes, aux mystères et aux particularités de la nature.
+
+148
+00:09:58,680 --> 00:10:02,370
+N'importe quelle autre
+situation en mécanique quantique
+
+149
+00:10:02,580 --> 00:10:05,730
+peut toujours s'expliquer en disant :
+
+150
+00:10:05,970 --> 00:10:09,160
+" Vous vous rappelez de cette expérience avec les deux trous ? "
+
+151
+00:10:09,320 --> 00:10:10,900
+" C'est la même chose. "
+
+152
+00:10:11,130 --> 00:10:14,010
+Et donc je vais vous parler de cette expérience avec les deux trous.
+
+153
+00:10:14,140 --> 00:10:19,410
+Elle contient le mystère général,
+
+154
+00:10:19,410 --> 00:10:27,970
+je n'évite rien, je vous dévoile la nature sous sa forme la plus élégante et la plus difficile.
+
+155
+00:10:28,340 --> 00:10:30,600
+Commençons avec des balles,
+les autres expériences
+
+156
+00:10:31,000 --> 00:10:33,640
+partageront la même conception générale,
+
+157
+00:10:33,690 --> 00:10:35,440
+donc je la dessine ainsi.
+
+158
+00:10:35,440 --> 00:10:38,400
+Supposez que nous ayons une source de balles
+
+159
+00:10:38,450 --> 00:10:41,370
+ceci représente une source, que nous appelons une source,
+
+160
+00:10:41,480 --> 00:10:45,620
+et dans le cas des balles, c'est juste une mitrailleuse.
+
+161
+00:10:47,020 --> 00:10:49,250
+Et nous avons une plaque juste devant,
+
+162
+00:10:49,280 --> 00:10:51,330
+percée d'un trou pour laisser passer les balles,
+
+163
+00:10:51,370 --> 00:10:54,880
+et dans le cas des balles c'est une plaque blindée.
+
+164
+00:10:55,920 --> 00:10:57,940
+A grande distance,
+
+165
+00:10:58,060 --> 00:10:59,940
+nous avons une autre plaque,
+
+166
+00:11:00,000 --> 00:11:04,600
+que je dessine a courte distance car je n'ai pas assez de place au tableau
+
+167
+00:11:04,600 --> 00:11:07,220
+mais cette distance est sensée être bien plus grande
+
+168
+00:11:07,220 --> 00:11:08,690
+en proportion de la largeur,
+
+169
+00:11:11,730 --> 00:11:13,810
+et elle est percée de deux trous
+
+170
+00:11:13,940 --> 00:11:16,040
+voilà ces fameux deux trous
+
+171
+00:11:16,160 --> 00:11:18,120
+et je vais en parler souvent
+
+172
+00:11:18,220 --> 00:11:20,680
+alors j'appellerai ce trou le trou 1,
+
+173
+00:11:20,760 --> 00:11:23,620
+et l'autre le trou 2,
+
+174
+00:11:24,600 --> 00:11:26,520
+et je trace seulement en deux dimensions
+
+175
+00:11:26,520 --> 00:11:30,160
+vous pouvez imaginer que ce sont des trous ronds en 3D,
+
+176
+00:11:30,160 --> 00:11:32,410
+mais disons que c'est une vue en coupe.
+
+177
+00:11:32,660 --> 00:11:34,530
+Et encore à grande distance,
+
+178
+00:11:34,530 --> 00:11:38,920
+mais nous le traçons à courte distance, à cause des limitations du tableau,
+
+179
+00:11:39,050 --> 00:11:41,250
+nous avons un autre écran ici,
+
+180
+00:11:41,300 --> 00:11:43,580
+une sorte de plaque d'arrêt
+
+181
+00:11:43,650 --> 00:11:47,540
+sur lequel nous pouvons placer à différents endroits
+
+182
+00:11:47,690 --> 00:11:50,120
+ce que j’appellerai un détecteur.
+
+183
+00:11:53,740 --> 00:11:57,700
+qui dans le cas des balles
+peut être une boîte pleine de sable
+
+184
+00:11:57,800 --> 00:12:01,500
+capable de recueillir les balles pour les compter.
+
+185
+00:12:02,050 --> 00:12:04,540
+C'est notre détecteur de balles.
+
+186
+00:12:05,000 --> 00:12:07,480
+Je n'ai pas envie de redessiner l'expérience à chaque fois
+
+187
+00:12:07,480 --> 00:12:09,560
+alors je légende tout de cette façon
+
+188
+00:12:09,690 --> 00:12:15,080
+comme ça elle sera adaptée pour les autres situations.
+
+189
+00:12:15,140 --> 00:12:17,080
+Dans ces expériences
+
+190
+00:12:17,160 --> 00:12:20,680
+je compterai combien de balles arrivent dans le détecteur, notre boîte de sable,
+
+191
+00:12:20,680 --> 00:12:23,810
+quand la boîte est ici, ou ici, ou ici, ou là,
+
+192
+00:12:23,860 --> 00:12:27,440
+et pour le faire je mesure la distance de la boîte à partir d'un endroit
+
+193
+00:12:27,760 --> 00:12:29,480
+d'ici, et je l'appelle x,
+
+194
+00:12:29,520 --> 00:12:31,560
+et je parle ce qui se
+passe quand on change x,
+
+195
+00:12:31,600 --> 00:12:35,380
+c'est à dire quand je bouge la boîte vers le haut ou le bas.
+
+196
+00:12:35,760 --> 00:12:41,380
+Avant de commencer, j'aimerai faire quelques modifications
+
+197
+00:12:41,520 --> 00:12:43,680
+par rapport à de vraies balles.
+
+198
+00:12:43,740 --> 00:12:46,370
+La première est que la mitrailleuse à la tremblotte
+
+199
+00:12:46,520 --> 00:12:48,880
+si bien que les balles partent
+dans différentes directions,
+
+200
+00:12:48,930 --> 00:12:51,460
+pas seulement en ligne droite,
+
+201
+00:12:51,970 --> 00:12:54,300
+et elles peuvent ricocher
+sur les bords des fentes,
+
+202
+00:12:54,300 --> 00:12:57,200
+des fentes plutôt que des
+trous pour ces plaques blindées.
+
+203
+00:12:57,450 --> 00:13:00,140
+Et enfin,
+
+204
+00:13:00,520 --> 00:13:03,980
+disons que toutes les balles ont la même vitesse ou énergie
+
+205
+00:13:03,980 --> 00:13:05,980
+si vous voulez mais ce n'est pas important.
+
+206
+00:13:06,090 --> 00:13:09,530
+L'idéalisation la plus importante, où l'on s'écarte le plus des balles réelles,
+
+207
+00:13:09,530 --> 00:13:12,800
+c'est que je veux ces balles
+absolument indestructibles.
+
+208
+00:13:13,010 --> 00:13:15,820
+On ne trouve pas dans une boîte un bout de plomb,
+
+209
+00:13:15,880 --> 00:13:17,960
+ou une balle brisée en deux,
+
+210
+00:13:18,050 --> 00:13:19,400
+mais une balle entière.
+
+211
+00:13:19,400 --> 00:13:21,690
+Imaginez donc des balles indestructibles,
+
+212
+00:13:21,740 --> 00:13:25,810
+ou des balles solides et des plaques blindées souples, ou autre chose...
+
+213
+00:13:26,780 --> 00:13:29,610
+La première chose que nous remarquerons
+
+214
+00:13:29,810 --> 00:13:31,250
+à propos des balles,
+
+215
+00:13:31,340 --> 00:13:34,560
+c'est que ce qui arrive, arrive par morceaux,
+
+216
+00:13:34,960 --> 00:13:38,800
+quand l’énergie arrive, c'est en
+un seul coup, un "bang".
+
+217
+00:13:39,160 --> 00:13:42,640
+Si vous comptez les balles
+il y a 1, 2, 3, 4 balles.
+
+218
+00:13:42,850 --> 00:13:47,200
+Ces choses arrivent par unité, on suppose qu'elles sont de tailles égales,
+
+219
+00:13:47,240 --> 00:13:48,810
+et quand quelque-chose
+arrive dans la boîte
+
+220
+00:13:48,810 --> 00:13:51,400
+c'est soit complètement
+dedans ou pas du tout.
+
+221
+00:13:51,580 --> 00:13:52,820
+Elles arrivent par unité.
+
+222
+00:13:52,820 --> 00:13:55,660
+Si je place deux boîtes ici
+
+223
+00:13:55,890 --> 00:13:59,800
+je n'ai jamais une balle dans chaque boîte au même moment.
+
+224
+00:14:00,040 --> 00:14:03,770
+Enfin si l'arme tire trop vite et que je n'ai pas assez de temps entre...
+
+225
+00:14:03,850 --> 00:14:06,520
+je ralentis la cadence de l'arme...
+
+226
+00:14:08,410 --> 00:14:12,000
+si vous placez ces deux boîtes et regardez rapidement dedans
+
+227
+00:14:12,010 --> 00:14:15,810
+vous n'aurez jamais deux balles au même moment dans chaque boîte,
+
+228
+00:14:15,920 --> 00:14:19,850
+car une balle est une unité identifiable.
+
+229
+00:14:20,090 --> 00:14:24,490
+Je dis que la caractéristique de cet objet est qu'il arrive par morceaux.
+
+230
+00:14:24,730 --> 00:14:28,700
+La première chose à savoir sur les balles
+
+231
+00:14:30,050 --> 00:14:34,280
+est qu'elles arrivent par morceaux.
+
+232
+00:14:35,770 --> 00:14:37,500
+A présent je vais mesurer
+
+233
+00:14:37,500 --> 00:14:39,800
+combien de balles arrivent ici en moyenne
+
+234
+00:14:39,890 --> 00:14:41,800
+sur une longue durée.
+
+235
+00:14:41,980 --> 00:14:46,800
+Attendez une heure et comptez combien de balles il y a dans la boîte,
+
+236
+00:14:46,900 --> 00:14:50,580
+et faites en la moyenne, enfin...
+
+237
+00:14:51,410 --> 00:14:57,640
+disons qu'on cherche le nombre de balles qui arrivent par heure
+
+238
+00:14:57,700 --> 00:15:01,480
+et on peut appeler ça la probabilité d'arrivée
+
+239
+00:15:01,480 --> 00:15:06,330
+car ça donne la chance qu'une balle passant par tout ça arrive dans la boîte.
+
+240
+00:15:08,250 --> 00:15:11,250
+Une façon de la mesurer est de mesurer le nombre moyen de balles qui arrivent
+
+241
+00:15:11,250 --> 00:15:13,250
+sur une certaine durée.
+
+242
+00:15:13,360 --> 00:15:16,450
+Le nombre de balles qui arrivent dans cette boîte
+
+243
+00:15:16,560 --> 00:15:18,920
+change quand je fais varier x.
+
+244
+00:15:18,920 --> 00:15:23,250
+Je vais faire un graphe ici,
+où je trace horizontalement
+
+245
+00:15:23,360 --> 00:15:27,380
+le nombre de balles que j'obtiens si je laisse la boîte ici pendant une heure.
+
+246
+00:15:27,490 --> 00:15:32,840
+J'obtiendrai une courbe qui ressemblera plus ou moins à ça,
+
+247
+00:15:33,280 --> 00:15:37,280
+car lorsque la boîte est derrière l'un des trous
+
+248
+00:15:37,420 --> 00:15:40,760
+elle reçoit beaucoup de balles qui sont passées par ce trou
+
+249
+00:15:40,760 --> 00:15:43,010
+ou autrement à travers ce trou,
+
+250
+00:15:43,010 --> 00:15:45,370
+si elle s'en écarte elle en recevra moins
+
+251
+00:15:45,400 --> 00:15:48,090
+car les balles doivent rebondir sur le bord des trous
+
+252
+00:15:48,200 --> 00:15:50,320
+et la courbe finit donc
+par disparaître comme ceci.
+
+253
+00:15:50,320 --> 00:15:53,400
+C'est le nombre que nous obtenons en une heure
+
+254
+00:15:53,600 --> 00:15:58,530
+quand les deux trous sont ouverts, et j'appelle cette courbe N12.
+
+255
+00:15:58,570 --> 00:16:04,250
+ce qui représente juste le nombre qui arrive quand les trous 1 et 2 sont ouverts.
+
+256
+00:16:04,360 --> 00:16:05,930
+Voilà ce qu'on obtient.
+
+257
+00:16:07,540 --> 00:16:10,690
+Je dois insister sur le fait que le nombre tracé ici
+
+258
+00:16:10,820 --> 00:16:14,000
+ne se présente pas par unité, il peut prendre n'importe quelle valeur.
+
+259
+00:16:14,000 --> 00:16:16,960
+Par exemple je peux avoir 2,5 balles par heure
+
+260
+00:16:17,020 --> 00:16:18,900
+bien que les balles arrivent par unité.
+
+261
+00:16:18,900 --> 00:16:20,890
+Ce que j'entends par 2,5 balles par heure
+
+262
+00:16:20,890 --> 00:16:24,400
+c'est que si vous attendez longtemps, disons 10h, vous obtiendrez 25 balles.
+
+263
+00:16:24,490 --> 00:16:26,850
+C'est 2,5 balles en moyenne.
+
+264
+00:16:26,930 --> 00:16:30,300
+Ce nombre (N) peut prendre n'importe quelle valeur car c'est une moyenne.
+
+265
+00:16:30,370 --> 00:16:32,300
+Je suis sûr que vous connaissez tous la blague
+
+266
+00:16:32,300 --> 00:16:37,700
+à propos du fait qu'une famille américaine a en moyenne 2,5 enfants.
+
+267
+00:16:37,810 --> 00:16:40,960
+Cela ne signifie pas qu'il y ait un
+demi enfant par famille.
+
+268
+00:16:41,010 --> 00:16:42,920
+Les enfants arrivent par morceaux.
+
+269
+00:16:44,580 --> 00:16:48,060
+Néanmoins, quand vous prenez le nombre moyen pour une famille
+
+270
+00:16:48,130 --> 00:16:49,660
+ça peut être n'importe quel nombre,
+
+271
+00:16:49,660 --> 00:16:54,020
+et donc ce nombre N, le nombre de balles arrivant dans le récipient,
+
+272
+00:16:54,080 --> 00:16:56,220
+par heure, en moyenne,
+
+273
+00:16:56,380 --> 00:16:58,040
+n'est pas nécessairement un entier.
+
+274
+00:16:58,060 --> 00:17:04,970
+Il peut valoir 1/10, ce qui signifie qu'il faut attendre en moyenne 10h pour obtenir une balle.
+
+275
+00:17:07,970 --> 00:17:11,420
+Ce que nous mesurons
+c'est la probabilité d'arrivée.
+
+276
+00:17:13,090 --> 00:17:17,460
+N est la probabilité d'arrivée,
+
+277
+00:17:18,020 --> 00:17:19,600
+qui n'est qu'un terme technique
+
+278
+00:17:19,600 --> 00:17:23,720
+pour dire le nombre moyen
+arrivant en un temps donné.
+
+279
+00:17:24,940 --> 00:17:28,410
+Enfin, si nous analysons la courbe N12
+
+280
+00:17:28,410 --> 00:17:30,780
+nous pouvons la comprendre facilement.
+
+281
+00:17:30,920 --> 00:17:35,480
+On peut la comprendre comme la somme de deux courbes, que je vais tracer ici.
+
+282
+00:17:37,650 --> 00:17:39,880
+Je trace deux courbes ici,
+
+283
+00:17:39,880 --> 00:17:43,100
+une qui représente ce que j'appelle N1
+
+284
+00:17:43,210 --> 00:17:46,720
+le nombre qui arrive si le trou 2 est fermé,
+
+285
+00:17:46,840 --> 00:17:49,130
+en plaçant un bout de plaque devant,
+
+286
+00:17:49,130 --> 00:17:51,300
+où toutes les balles passent par le trou 1.
+
+287
+00:17:51,440 --> 00:17:56,690
+Et N2 est le nombre arrivant par le trou 2 seulement.
+
+288
+00:17:56,850 --> 00:17:59,330
+N1  est le nombre arrivant par le trou 1 seulement,
+
+289
+00:17:59,330 --> 00:18:01,530
+et N2 est le nombre arrivant par le trou 2 seulement,
+
+290
+00:18:01,530 --> 00:18:04,500
+ces nombres étant obtenus en bouchant les trous respectifs.
+
+291
+00:18:04,580 --> 00:18:07,490
+Nous découvrons alors une loi importante.
+
+292
+00:18:07,690 --> 00:18:09,940
+Le nombre arrivant lorsque les
+deux trous sont ouverts
+
+293
+00:18:09,940 --> 00:18:12,580
+est le nombre arrivant par le trou 1
+
+294
+00:18:12,580 --> 00:18:15,090
+plus le nombre arrivant par le trou 2.
+
+295
+00:18:15,530 --> 00:18:19,360
+Cette proposition, le fait qu'il suffise d’additionner ces deux nombres,
+
+296
+00:18:19,450 --> 00:18:24,130
+je l'appelle " pas d'interférence ".
+
+297
+00:18:24,880 --> 00:18:26,960
+Ce que vous obtenez lorsque les deux trous sont ouverts
+
+298
+00:18:26,960 --> 00:18:31,450
+est identique à ce que vous obtenez en additionnant les contributions de chaque trou.
+
+299
+00:18:31,570 --> 00:18:34,450
+Voilà, nous en avons fini avec les balles.
+
+300
+00:18:36,170 --> 00:18:37,520
+Je recommence.
+
+301
+00:18:37,660 --> 00:18:40,460
+Cette fois-ci, avec des ondes sur l'eau.
+
+302
+00:18:40,890 --> 00:18:43,680
+Ici nous avons une grosse masse
+
+303
+00:18:43,680 --> 00:18:45,680
+qui s'agite du haut vers le bas.
+
+304
+00:18:46,600 --> 00:18:48,860
+Ceci est une longue berge,
+
+305
+00:18:49,000 --> 00:18:52,980
+ou des digues, séparées par un espace rempli d'eau.
+
+306
+00:18:53,320 --> 00:18:57,420
+Ce serait mieux de faire l'expérience avec des rides plutôt que des vagues océaniques...
+
+307
+00:18:57,570 --> 00:19:00,620
+Je tapote ici avec mon doigt et là nous avons des petits morceaux de bois
+
+308
+00:19:00,660 --> 00:19:02,450
+des rides se forment ici,
+
+309
+00:19:02,450 --> 00:19:08,720
+et j'ai placé des barrières dans le réservoir pour former mes deux trous.
+
+310
+00:19:08,900 --> 00:19:10,940
+Nous avons ici notre soit-disant détecteur.
+
+311
+00:19:13,040 --> 00:19:16,420
+Le détecteur détecte le niveau d'agitation de l'eau.
+
+312
+00:19:16,520 --> 00:19:18,540
+Je mets par exemple un bouchon à la surface,
+
+313
+00:19:18,570 --> 00:19:20,320
+il bougera de haut en bas,
+
+314
+00:19:20,320 --> 00:19:24,920
+et je mesure l'énergie de l'agitation du bouchon,
+
+315
+00:19:24,980 --> 00:19:29,000
+qui est exactement proportionnelle à l'énergie transportée par les ondes.
+
+316
+00:19:32,890 --> 00:19:34,140
+J'ai oublié de préciser
+
+317
+00:19:34,140 --> 00:19:36,960
+que l'agitation est parfaitement régulière,
+
+318
+00:19:37,020 --> 00:19:40,400
+de sorte que les ondes sont toutes équidistantes les unes des autres.
+
+319
+00:19:40,490 --> 00:19:43,810
+Je vais décrire ce que nous obtenons dans ces conditions.
+
+320
+00:19:44,530 --> 00:19:45,810
+Dans ce but,
+
+321
+00:19:46,140 --> 00:19:47,810
+ma première remarque,
+
+322
+00:19:48,080 --> 00:19:49,810
+voyons...
+
+323
+00:19:51,810 --> 00:19:53,900
+On peut mesurer l'énergie du bouchon,
+
+324
+00:19:53,900 --> 00:19:58,640
+mais il faut préciser une chose pour les ondes, les vagues.
+
+325
+00:19:59,530 --> 00:20:01,180
+Pour les ondes
+
+326
+00:20:01,740 --> 00:20:03,830
+ce que nous mesurons
+
+327
+00:20:03,830 --> 00:20:05,830
+peut avoir n'importe quelle taille.
+
+328
+00:20:05,900 --> 00:20:07,760
+Nous mesurons l'intensité de l'onde
+
+329
+00:20:07,760 --> 00:20:09,290
+l'énergie dans le bouchon,
+
+330
+00:20:09,300 --> 00:20:14,020
+et si l'onde est douce, et que le type agite l'eau légèrement,
+
+331
+00:20:14,320 --> 00:20:16,710
+ce sera la même pour le bouchon etc...
+
+332
+00:20:16,710 --> 00:20:19,360
+peut importe combien, ce sera proportionnel.
+
+333
+00:20:19,370 --> 00:20:21,610
+Je peux avoir n'importe quelle taille.
+
+334
+00:20:26,620 --> 00:20:29,440
+Ca ne vient pas par morceaux,
+ce n'est pas tout ou rien.
+
+335
+00:20:29,440 --> 00:20:31,630
+Ce que nous allons mesurer
+
+336
+00:20:31,900 --> 00:20:35,170
+c'est l'intensité de l'onde
+
+337
+00:20:35,330 --> 00:20:38,200
+qui, si vous voulez, pour être précis
+
+338
+00:20:38,760 --> 00:20:42,880
+est l'énergie générée par l'onde en un point.
+
+339
+00:20:43,650 --> 00:20:44,630
+Que se passe-t-il?
+
+340
+00:20:44,630 --> 00:20:48,790
+Si nous mesurons l'intensité, que je dessine sur une troisième courbe ici,
+
+341
+00:20:48,830 --> 00:20:53,200
+que j'appelle I pour rappeler que c'est une intensité et non un nombre de particules,
+
+342
+00:20:53,240 --> 00:20:55,790
+et I12, quand les deux trous sont ouverts,
+
+343
+00:20:55,790 --> 00:20:58,810
+est une courbe qui ressemble à peu près à ça,
+
+344
+00:21:01,700 --> 00:21:05,340
+avec une tête compliquée assez intéressante,
+
+345
+00:21:05,360 --> 00:21:07,790
+et qui est symétrique.
+
+346
+00:21:11,900 --> 00:21:13,360
+Une courbe compliquée,
+
+347
+00:21:13,360 --> 00:21:15,200
+si nous plaçons le détecteur en différents points
+
+348
+00:21:15,240 --> 00:21:18,260
+nous obtenons une intensité très différente, qui varie rapidement
+
+349
+00:21:18,400 --> 00:21:19,820
+d'une manière particulière.
+
+350
+00:21:19,820 --> 00:21:22,510
+Ce phénomène vous est sûrement familier.
+
+351
+00:21:22,510 --> 00:21:25,570
+La raison est que les rides qui arrivent ici
+
+352
+00:21:25,570 --> 00:21:28,020
+forment des crêtes et des creux à partir d'ici,
+
+353
+00:21:28,020 --> 00:21:30,880
+et des crêtes et des creux venant d'ici aussi.
+
+354
+00:21:30,880 --> 00:21:33,060
+Si nous nous plaçons en un point
+
+355
+00:21:33,060 --> 00:21:37,100
+par exemple exactement entre ces deux trous
+
+356
+00:21:37,250 --> 00:21:40,160
+de sorte que les deux ondes arrivent en même temps
+
+357
+00:21:40,240 --> 00:21:43,670
+les crêtes vont se superposer et il y a aura une agitation très forte
+
+358
+00:21:43,670 --> 00:21:46,570
+ce qui est l'exact opposé de cette courbe...
+
+359
+00:21:50,920 --> 00:21:53,420
+Il faut que je rajoute ici au autre pic...
+
+360
+00:21:54,910 --> 00:21:57,410
+Nous avons beaucoup d'agitation au centre.
+
+361
+00:21:59,410 --> 00:22:00,580
+D'un autre côté,
+
+362
+00:22:00,580 --> 00:22:03,430
+si je me déplace ici
+
+363
+00:22:03,430 --> 00:22:06,770
+puisque je suis plus loin du trou 2 que du trou 1
+
+364
+00:22:06,800 --> 00:22:10,720
+cela prend plus de temps aux ondes du trou 2 pour arriver
+
+365
+00:22:10,880 --> 00:22:13,220
+et quand une crête arrive du trou 1
+
+366
+00:22:13,280 --> 00:22:16,170
+la crête du trou 2 n'est pas encore arrivée
+
+367
+00:22:16,180 --> 00:22:18,510
+en fait c'est un trou qui arrive de 2.
+
+368
+00:22:18,510 --> 00:22:21,800
+Donc l'eau essaye de monter et essaye de descendre
+
+369
+00:22:21,800 --> 00:22:24,830
+sous l'influence des ondes provenant des deux trous
+
+370
+00:22:24,830 --> 00:22:27,040
+et il en résulte qu'elle ne bouge pas du tout
+
+371
+00:22:27,040 --> 00:22:28,320
+ou presque pas,
+
+372
+00:22:28,320 --> 00:22:31,610
+et nous avons donc ici ces petits pics.
+
+373
+00:22:31,750 --> 00:22:33,910
+Et si vous vous éloignez encore un peu
+
+374
+00:22:33,910 --> 00:22:35,490
+il y a suffisamment de retard,
+
+375
+00:22:35,490 --> 00:22:39,470
+et quand une crête arrive, l'autre
+crête est en retard d'un trou
+
+376
+00:22:39,470 --> 00:22:43,930
+et c'est donc deux crêtes qui se superposent
+
+377
+00:22:43,930 --> 00:22:45,750
+mais pas les mêmes crêtes,
+
+378
+00:22:45,750 --> 00:22:49,330
+la 4e crête d'ici et la 5e de là...
+
+379
+00:22:49,410 --> 00:22:51,470
+Donc une grande à nouveau, puis une petite
+
+380
+00:22:51,470 --> 00:22:56,500
+dépendant seulement de la façon dont les trous et les crêtes interfèrent, comme on dit.
+
+381
+00:22:56,640 --> 00:23:01,040
+Le mot interférence, encore une fois, est utilisé en science d'une manière rigolote,
+
+382
+00:23:01,120 --> 00:23:05,590
+car nous pouvons avoir des interférences constructives
+
+383
+00:23:05,590 --> 00:23:09,070
+quand elles interfèrent ici, c'est plus fort.
+
+384
+00:23:09,070 --> 00:23:12,700
+Bon... On appelle ça quand même interférences.
+
+385
+00:23:12,700 --> 00:23:17,730
+mais la chose importante est que I12 est différente de I1+I2,
+
+386
+00:23:17,730 --> 00:23:21,120
+et nous appelons ça "il y a des interférences".
+
+387
+00:23:23,530 --> 00:23:25,440
+C'est le drôle de terme qu'on utilise.
+
+388
+00:23:25,440 --> 00:23:27,880
+Interférences constructives et destructives...
+
+389
+00:23:27,880 --> 00:23:29,960
+Je n'ai pas précisé à quoi ressemble I1 et I2
+
+390
+00:23:29,960 --> 00:23:33,680
+mais on peut le trouver en fermant celui ci par exemple pour trouver I1
+
+391
+00:23:33,680 --> 00:23:37,040
+l'intensité que vous obtenez ici si le trou est fermé
+
+392
+00:23:37,910 --> 00:23:41,910
+est seulement ce qui arrive d'un trou quand il n'y a pas d'interférences
+
+393
+00:23:41,920 --> 00:23:44,680
+et c'est cette courbe, N1 est la même que I1
+
+394
+00:23:44,680 --> 00:23:48,320
+et de même pour I2, mais
+cette courbe est très différente
+
+395
+00:23:48,380 --> 00:23:49,770
+de la somme des deux.
+
+396
+00:23:49,770 --> 00:23:55,550
+En fait, la mathématique de cette courbe est assez intéressante. Voici ce qu'on peut dire:
+
+397
+00:23:55,600 --> 00:23:58,840
+l'élévation de l'eau, quand les deux trous sont ouverts,
+
+398
+00:23:58,870 --> 00:24:01,930
+est égale a la hauteur que vous obtenez lorsque le trou 1 est ouvert
+
+399
+00:24:01,930 --> 00:24:04,380
+plus la hauteur que vous obtenez du trou 2.
+
+400
+00:24:04,380 --> 00:24:07,050
+Donc si c'est un trou, l'élévation du trou 2 est négative
+
+401
+00:24:07,050 --> 00:24:09,170
+et annule l'élévation du trou 1.
+
+402
+00:24:09,200 --> 00:24:12,230
+Si vous parlez de l'élévation de l'eau, vous pouvez faire la somme
+
+403
+00:24:12,230 --> 00:24:14,850
+mais il se trouve que l'intensité
+
+404
+00:24:14,850 --> 00:24:16,850
+par exemple quand les deux trous sont ouverts,
+
+405
+00:24:16,850 --> 00:24:22,230
+est proportionnel au carré de l'élévation.
+
+406
+00:24:22,230 --> 00:24:27,380
+Et c'est parce que nous avons affaire au carré que nous obtenons cette courbe intéressante.
+
+407
+00:24:36,050 --> 00:24:37,540
+On recommence
+
+408
+00:24:37,540 --> 00:24:40,710
+mais cette fois avec des électrons.
+
+409
+00:24:40,710 --> 00:24:43,450
+Nous avons ici un filament, des plaques de tungstène
+
+410
+00:24:43,450 --> 00:24:45,150
+des trous dans les plaques,
+
+411
+00:24:45,150 --> 00:24:47,450
+et pour le détecteur, un système électrique
+
+412
+00:24:47,450 --> 00:24:51,680
+assez sensible pour mesurer la charge d'un électron venant de la source
+
+413
+00:24:51,690 --> 00:24:53,730
+peu importe son énergie.
+
+414
+00:24:53,830 --> 00:24:56,030
+Ou si vous préférez, on peut utiliser des photons
+
+415
+00:24:56,030 --> 00:24:59,140
+et ceci est du papier noir avec des trous, deux trous,
+
+416
+00:24:59,150 --> 00:25:00,660
+et une autre feuille de papier noir,
+
+417
+00:25:00,660 --> 00:25:04,400
+le papier est à éviter, car les trous ne sont pas nets a cause des fibres,
+
+418
+00:25:04,420 --> 00:25:07,250
+et comme détecteur un photomultiplicateur
+
+419
+00:25:07,250 --> 00:25:10,590
+capable de détecter des photons qui arrivent.
+
+420
+00:25:10,650 --> 00:25:12,130
+Ce qu'il se passe dans ce cas,
+
+421
+00:25:12,130 --> 00:25:16,410
+- je ne parlerai que du cas de l'électron, le cas des photons étant identique -
+
+422
+00:25:16,490 --> 00:25:17,240
+est ceci:
+
+423
+00:25:17,240 --> 00:25:21,490
+premièrement, ce que nous voyons avec notre détecteur électrique
+
+424
+00:25:21,490 --> 00:25:24,310
+couplé à un amplificateur assez puissant,
+
+425
+00:25:24,340 --> 00:25:26,310
+sont des clics.
+
+426
+00:25:26,480 --> 00:25:27,650
+Clic !
+
+427
+00:25:27,710 --> 00:25:29,690
+Clic, clic, clic etc..
+
+428
+00:25:31,330 --> 00:25:32,790
+Des morceaux.
+
+429
+00:25:33,280 --> 00:25:34,590
+Absolument unitaire.
+
+430
+00:25:34,590 --> 00:25:38,350
+Quand on entend clic il a une certaine taille, et cette taille est la même
+
+431
+00:25:38,400 --> 00:25:42,120
+si vous diminuez la puissance de la source les clics s'éloignent les uns des autres,
+
+432
+00:25:42,190 --> 00:25:44,150
+mais c'est un clic de même taille.
+
+433
+00:25:44,240 --> 00:25:47,580
+Augmentez la puissance, et clicclicclic, l'amplificateur est saturé.
+
+434
+00:25:47,640 --> 00:25:49,580
+Vous devez l'abaisser assez
+
+435
+00:25:49,580 --> 00:25:53,080
+pour qu'il n'y ait pas trop de
+clics pour votre détecteur.
+
+436
+00:25:53,200 --> 00:25:57,600
+Ensuite, si vous placez un autre détecteur ici
+
+437
+00:25:57,600 --> 00:26:01,370
+et écoutez les deux, nous n'aurez jamais deux clics au même instant,
+
+438
+00:26:01,370 --> 00:26:06,020
+si la source est assez faible, ça dépend de la précision à laquelle vous mesurez en temps.
+
+439
+00:26:06,020 --> 00:26:09,330
+Si vous diminuez l'intensité de la source, il en arrive moins
+
+440
+00:26:09,360 --> 00:26:12,160
+et un clic n'arrive jamais dans chaque détecteur.
+
+441
+00:26:12,650 --> 00:26:14,820
+Ca signifie que la chose qui arrive
+
+442
+00:26:14,820 --> 00:26:16,190
+arrive par morceaux.
+
+443
+00:26:16,190 --> 00:26:20,390
+Il a une taille bien définie, et n'arrive qu'à un endroit à un instant donné.
+
+444
+00:26:20,620 --> 00:26:22,990
+Parfait, donc pour les électrons
+
+445
+00:26:23,080 --> 00:26:24,510
+ou pour les photons,
+
+446
+00:26:30,590 --> 00:26:32,750
+ça arrive par morceaux.
+
+447
+00:26:35,280 --> 00:26:39,210
+Et donc nous pouvons faire la même chose qu'avec les balles.
+
+448
+00:26:40,000 --> 00:26:41,520
+On mesure le nombre qui arrive,
+
+449
+00:26:41,520 --> 00:26:43,640
+et on mesure la probabilité d'arrivée.
+
+450
+00:26:43,950 --> 00:26:47,240
+On peut placer le détecteur à un certain endroit
+
+451
+00:26:48,640 --> 00:26:50,980
+ou s'il n'est pas cher,
+
+452
+00:26:50,980 --> 00:26:55,290
+vous pouvez mettre des détecteurs partout et dessiner la courbe entière de manière simultanée.
+
+453
+00:26:55,990 --> 00:26:57,660
+Mais supposons qu'on le
+place à un endroit
+
+454
+00:26:57,660 --> 00:27:00,380
+et mesurons combien d'électrons
+arrivent en une heure,
+
+455
+00:27:00,410 --> 00:27:02,610
+et en faisons la moyenne.
+
+456
+00:27:03,190 --> 00:27:06,050
+D'ailleurs si je place des
+détecteurs tout le long
+
+457
+00:27:06,060 --> 00:27:08,670
+quand l'électron arrive, il tombe
+dans un seul détecteur
+
+458
+00:27:08,680 --> 00:27:12,000
+l'autre est off, l'autre aussi etc...
+
+459
+00:27:12,140 --> 00:27:14,000
+exactement comme les balles.
+
+460
+00:27:14,000 --> 00:27:18,570
+Et nous mesurons alors la probabilité d'arrivée des électrons.
+
+461
+00:27:19,520 --> 00:27:20,480
+Et qu'avons nous?
+
+462
+00:27:20,480 --> 00:27:24,460
+Le nombre d'électrons qui arrivent, l'équivalent de notre N12 d'avant...
+
+463
+00:27:24,600 --> 00:27:28,400
+... voici ce qu'on obtient pour N12.
+
+464
+00:27:32,730 --> 00:27:37,690
+N12 est ce qu'on obtient avec les deux trous ouverts.
+
+465
+00:27:37,950 --> 00:27:41,760
+Et c'est un phénomène naturel, c'est elle qui produit la courbe,
+
+466
+00:27:41,810 --> 00:27:47,360
+qui est identique à celle que vous auriez avec des ondes en interférence.
+
+467
+00:27:47,420 --> 00:27:50,250
+Mais ce n'est pas la courbe
+de l'énergie de l'onde,
+
+468
+00:27:50,250 --> 00:27:53,520
+mais celle de la probabilité d'arrivée de ces morceaux.
+
+469
+00:27:53,650 --> 00:27:57,080
+Les maths sont simples, vous changez I en N
+
+470
+00:27:57,080 --> 00:27:59,690
+et vous devez changez h par quelque-chose d'autre.
+
+471
+00:27:59,690 --> 00:28:00,820
+quelque-chose de nouveau,
+
+472
+00:28:00,820 --> 00:28:03,280
+c'est quelque-chose car
+ce n'est l'élévation de rien,
+
+473
+00:28:03,280 --> 00:28:06,640
+mais cette courbe a une
+forme mathématique simple.
+
+474
+00:28:06,750 --> 00:28:11,210
+Il existe un a, qu'on peut
+écrire comme un a1+a2
+
+475
+00:28:11,260 --> 00:28:13,310
+appelé "l'amplitude de probabilité",
+
+476
+00:28:13,310 --> 00:28:14,740
+car on ne sait pas ce que ça signifie,
+
+477
+00:28:14,740 --> 00:28:19,530
+et qui arrive du trou 1, plus l'amplitude de probabilité qui arrive du trou 2,
+
+478
+00:28:19,530 --> 00:28:21,060
+et la somme des deux,
+
+479
+00:28:21,060 --> 00:28:24,720
+forme l'amplitude totale de probabilité d'arrivée, et mettez la au carré.
+
+480
+00:28:24,800 --> 00:28:27,050
+Ce n'est qu'une imitation
+du cas des ondes
+
+481
+00:28:27,070 --> 00:28:31,240
+car on a la même courbe et donc les mêmes mathématiques.
+
+482
+00:28:34,430 --> 00:28:37,570
+Je voudrai mentionner quand même une chose
+
+483
+00:28:37,730 --> 00:28:39,990
+sur les interférences, que j'ai oublié de dire.
+
+484
+00:28:39,990 --> 00:28:41,810
+Qu'arrive-t-il si on ferme un des trous?
+
+485
+00:28:41,810 --> 00:28:44,370
+Essayons d'analyser cette courbe intéressante
+
+486
+00:28:44,370 --> 00:28:49,610
+qui a présent, pour les électrons -j'efface tous les trucs liés à la lumière-
+
+487
+00:28:52,220 --> 00:28:54,120
+et nous parlons que des électrons.
+
+488
+00:28:54,120 --> 00:28:56,580
+Cette courbe n'est plus importante ici.
+
+489
+00:28:56,580 --> 00:28:58,580
+Ceci est le nombre qui arrive.
+
+490
+00:28:59,090 --> 00:29:02,720
+A présent, nous voudrions analyser cette courbe.
+
+491
+00:29:08,310 --> 00:29:10,570
+On va essayer ceci. On se dit que peut-être
+
+492
+00:29:12,570 --> 00:29:15,520
+l'électron passe par ce trou ou l'autre.
+
+493
+00:29:15,600 --> 00:29:18,950
+On ferme donc un trou et on mesure ce qui passe par le trou 1
+
+494
+00:29:18,950 --> 00:29:20,630
+et nous obtenons cette courbe.
+
+495
+00:29:20,670 --> 00:29:23,830
+Ou on ferme ce trou, et on regarde ce qui passe par le trou 2
+
+496
+00:29:23,830 --> 00:29:25,540
+et on trouve cette courbe.
+
+497
+00:29:25,560 --> 00:29:28,000
+Et la somme de ces deux courbes ne donne pas ça
+
+498
+00:29:28,000 --> 00:29:31,390
+Et donc la somme (N12) est différente de N1+N2,
+
+499
+00:29:31,640 --> 00:29:34,320
+et on a bien des interférences.
+
+500
+00:29:38,020 --> 00:29:41,590
+Et la courbe est donnée par cette formule bizarre:
+
+501
+00:29:41,610 --> 00:29:45,880
+la probabilité d'arrivée est le carré d'une amplitude
+
+502
+00:29:45,880 --> 00:29:50,160
+qui elle-même est la somme des autres.
+
+503
+00:29:53,110 --> 00:29:57,120
+Personne... La question est comment ça peut arriver?
+
+504
+00:29:57,120 --> 00:29:59,680
+Quand ils passent par le trou 1 ils sont distribués ainsi,
+
+505
+00:29:59,680 --> 00:30:02,250
+et par le trou 2 ainsi.
+
+506
+00:30:02,250 --> 00:30:05,930
+Pourquoi lorsque les deux trous sont ouverts on n'obtient par la somme des deux?
+
+507
+00:30:05,930 --> 00:30:06,940
+Par exemple,
+
+508
+00:30:06,970 --> 00:30:09,780
+Si je place le détecteur ici,
+
+509
+00:30:10,010 --> 00:30:12,280
+je ne vois quasiment rien.
+
+510
+00:30:12,740 --> 00:30:14,740
+Si je bouche un trou,
+
+511
+00:30:14,810 --> 00:30:16,360
+j'en vois plein.
+
+512
+00:30:16,360 --> 00:30:19,410
+Si je ferme l'autre trou, je vois quelque chose.
+
+513
+00:30:19,640 --> 00:30:23,330
+Si je laisse les deux trous ouverts, je ne vois rien.
+
+514
+00:30:23,480 --> 00:30:25,170
+Quand je les laisse passer
+par les deux trous
+
+515
+00:30:25,170 --> 00:30:26,730
+ils n'y viennent plus.
+
+516
+00:30:26,730 --> 00:30:28,300
+Prenez le point au centre,
+
+517
+00:30:28,300 --> 00:30:33,080
+vous pouvez montrer que c'est plus que la somme des deux.
+
+518
+00:30:33,080 --> 00:30:35,730
+J'en vois plus ici quand
+les deux trous sont ouverts
+
+519
+00:30:35,730 --> 00:30:37,930
+que lorsque l'un des deux est fermé.
+
+520
+00:30:37,930 --> 00:30:39,860
+Vous pourriez penser que
+si vous êtes assez malin,
+
+521
+00:30:39,860 --> 00:30:43,280
+vous pouvez imaginer qu'ils
+fassent des allers-retours,
+
+522
+00:30:43,280 --> 00:30:47,280
+des choses compliquées, qu'ils se divisent en deux et passent par les deux trous etc...
+
+523
+00:30:47,340 --> 00:30:49,460
+afin d'expliquer ce phénomène.
+
+524
+00:30:49,460 --> 00:30:55,970
+Cependant, personne n'a réussi à trouver une explication satisfaisante.
+
+525
+00:30:55,970 --> 00:30:58,220
+car au final les mathématiques sont très simples,
+
+526
+00:30:58,250 --> 00:31:00,260
+la courbe est très simple.
+
+527
+00:31:01,100 --> 00:31:02,860
+Je vais résumer en disant que:
+
+528
+00:31:03,040 --> 00:31:05,260
+les électrons arrivent par morceaux,
+
+529
+00:31:05,340 --> 00:31:06,900
+comme les particules,
+
+530
+00:31:06,900 --> 00:31:09,900
+mais la probabilité d'arrivée de ces morceaux
+
+531
+00:31:09,900 --> 00:31:14,770
+est déterminée comme le serait l'intensité des ondes.
+
+532
+00:31:14,900 --> 00:31:19,600
+C'est en ce sens que les électrons se comportent, comme on le dit,
+
+533
+00:31:19,600 --> 00:31:21,770
+parfois comme des particules,
+parfois comme des ondes,
+
+534
+00:31:21,770 --> 00:31:24,350
+ils se comportent des deux manières à la fois.
+
+535
+00:31:24,450 --> 00:31:26,200
+Il n'y a rien d'autre à ajouter.
+
+536
+00:31:26,200 --> 00:31:30,470
+J'ai donné une description mathématique de la probabilité d'arrivée des électrons,
+
+537
+00:31:30,520 --> 00:31:34,970
+s'appliquant à toutes les circonstances et ça devrait signer la fin de la conférence,
+
+538
+00:31:35,020 --> 00:31:41,470
+sauf que cette façon qu'à la nature de se comporter recèle certaines subtilités.
+
+539
+00:31:41,470 --> 00:31:44,070
+Il y a quelques choses spéciales.
+
+540
+00:31:44,070 --> 00:31:49,200
+Et je voudrai aborder ces singularités
+
+541
+00:31:49,200 --> 00:31:51,720
+car elles ne sont peut être pas encore apparues.
+
+542
+00:31:53,200 --> 00:31:56,570
+On commence par une proposition
+
+543
+00:31:56,570 --> 00:32:00,770
+qui vous ne choquera pas puisque ce sont des morceaux,
+
+544
+00:32:00,770 --> 00:32:04,670
+puisque ce qui arrive est toujours un électron,
+
+545
+00:32:04,670 --> 00:32:07,200
+un morceau entier.
+
+546
+00:32:07,200 --> 00:32:14,370
+C'est évident qu'il est raisonnable de proposer que
+
+547
+00:32:14,370 --> 00:32:24,350
+un électron passe soit par le trou n°1
+
+548
+00:32:26,100 --> 00:32:29,850
+soit par le trou n°2.
+
+549
+00:32:29,850 --> 00:32:38,550
+Cela sonne très... évident, il ne peut rien faire d'autre puisque c'est un morceau.
+
+550
+00:32:38,550 --> 00:32:43,500
+Comme je vais discuter de cette proposition je vais l'appeler proposition A.
+
+551
+00:32:43,500 --> 00:32:46,100
+Nous avons déjà discuté un peu de ce qui arrive
+
+552
+00:32:46,100 --> 00:32:51,720
+si c'était vrai que l'électron passe soit par le trou 1 soit par le trou 2
+
+553
+00:32:51,720 --> 00:32:58,670
+alors le total qui arrive ici devrait être analysable comme la somme des deux contributions.
+
+554
+00:32:58,670 --> 00:33:04,850
+le total qui arrive ici devrait être le total qui arrive du trou 1, plus le total qui arrive du trou 2.
+
+555
+00:33:04,850 --> 00:33:10,720
+Puisque cette courbe ne peut pas être analysée comme la simple somme de deux parties
+
+556
+00:33:10,720 --> 00:33:16,500
+et puisque toutes les expériences qui mesurent ce qui serait arrivé (arriven),
+
+557
+00:33:16,500 --> 00:33:19,220
+avec seulement l'un des trous ouvert,
+
+558
+00:33:19,220 --> 00:33:23,350
+montrent que le total n'est
+pas la somme des deux,
+
+559
+00:33:23,350 --> 00:33:27,150
+alors il est évident d'en conclure que la proposition A est fausse.
+
+560
+00:33:27,150 --> 00:33:32,470
+Ce n'est pas vrai que l'électron passe soit par le trou 1 soit par le trou 2.
+
+561
+00:33:32,550 --> 00:33:35,770
+Peut être se divise-t-il en route etc...
+
+562
+00:33:35,850 --> 00:33:38,020
+Donc la proposition A est fausse.
+
+563
+00:33:38,020 --> 00:33:44,400
+C'est logique, malheureusement, ou pas, on peut tester la logique par l'expérience.
+
+564
+00:33:44,400 --> 00:33:47,720
+Tout ce qu'on a à faire c'est de savoir si c'est vrai ou non.
+
+565
+00:33:47,720 --> 00:33:52,850
+Passent-t-ils par les deux trous?
+Se divisent-t-il en deux?
+
+566
+00:33:52,850 --> 00:33:56,370
+Que pouvons nous faire? Tout ce qu'on à a faire c'est de les regarder.
+
+567
+00:33:56,370 --> 00:33:58,370
+Pour regarder on a besoin de lumière.
+
+568
+00:33:58,370 --> 00:34:02,150
+Donc je place derrière le
+trou une source de lumière.
+
+569
+00:34:02,150 --> 00:34:04,600
+Une lumière très intense.
+
+570
+00:34:04,650 --> 00:34:07,820
+La lumière est diffusée, elle rebondit sur les électrons.
+
+571
+00:34:07,820 --> 00:34:10,950
+Vous pouvez alors voir les électrons passer.
+
+572
+00:34:10,950 --> 00:34:12,670
+On se place ici,
+
+573
+00:34:12,670 --> 00:34:20,100
+et on regarde si on voit un flash lumineux lorsqu'un électron est compté ici,
+
+574
+00:34:20,170 --> 00:34:23,850
+un flash derrière le trou 1, ou un flash derrière le trou 2,
+
+575
+00:34:23,850 --> 00:34:28,450
+ou alors peut être un "demi-flash" aux deux endroits au même moment.
+
+576
+00:34:28,450 --> 00:34:31,870
+On va le découvrir maintenant, en regardant.
+
+577
+00:34:31,970 --> 00:34:34,250
+Allumez la lumière et regardez.
+
+578
+00:34:34,470 --> 00:34:41,950
+Et ô, vous découvrez un flash soit derrière le trou 1 soit derrière le trou 2 à chaque fois que vous en comptez un.
+
+579
+00:34:42,020 --> 00:34:46,350
+A chaque fois que vous un compter un, vous voyez un flash derrière le trou 1 ou derrière le trou 2.
+
+580
+00:34:46,370 --> 00:34:56,320
+Vous trouvez que l'électron passe à 100% par le trou 1 ou par le trou 2, quand vous regardez.
+
+581
+00:34:57,270 --> 00:34:59,400
+C'est une sorte de paradoxe.
+
+582
+00:34:59,400 --> 00:35:03,570
+Poussons la nature dans ses derniers retranchements.
+
+583
+00:35:03,570 --> 00:35:06,170
+Je vais vous montrer ce qu'on va faire.
+
+584
+00:35:06,170 --> 00:35:13,200
+Nous allons laisser la lumière allumée et compter combien d'électrons arrivent,
+
+585
+00:35:13,450 --> 00:35:16,050
+et nous allons faire deux colonnes.
+
+586
+00:35:19,300 --> 00:35:25,600
+Je regarde soigneusement le trou pendant que vous comptez ce qui arrive dans le détecteur.
+
+587
+00:35:25,750 --> 00:35:29,520
+Vous dites "J'en ai un", et je réponds "Je l'ai vu quand il est passé par le trou 1".
+
+588
+00:35:29,520 --> 00:35:34,250
+Nous avons ici deux colonnes,
+
+589
+00:35:34,320 --> 00:35:38,700
+#1 pour le trou 1, et #2 pour le trou 2
+
+590
+00:35:38,900 --> 00:35:41,020
+et à chaque fois que vous en avez un,
+
+591
+00:35:41,070 --> 00:35:44,570
+vous me dites que vous en avez un, moi je l'ai vu et je vous dis lequel.
+
+592
+00:35:44,570 --> 00:35:49,500
+Le premier ? trou 1, le second? trou 2, trou 2 etc...
+
+593
+00:35:49,600 --> 00:35:54,470
+Donc les électrons que j'ai vus et que vous avez comptés
+
+594
+00:35:54,470 --> 00:35:58,020
+je peux les séparer expérimentalement en deux colonnes
+
+595
+00:35:58,020 --> 00:36:07,650
+ceux qui arrivent par le trou 1 ... et ceux qui arrivent par le trou 2.
+
+596
+00:36:12,670 --> 00:36:16,320
+A quoi ressemble cette colonne quand on en fait la somme pour différentes positions?
+
+597
+00:36:16,320 --> 00:36:21,350
+C'est juste le total qui arrive par le trou 1, et qu'est ce que je vois?
+
+598
+00:36:21,350 --> 00:36:25,670
+Je vois cette courbe, cette colonne est distribuée ainsi.
+
+599
+00:36:25,670 --> 00:36:27,700
+Comme lorsqu'on ferme le trou 2.
+
+600
+00:36:27,700 --> 00:36:32,050
+La distribution est la même qu'on regarde ou qu'on ferme le trou 2.
+
+601
+00:36:34,750 --> 00:36:41,820
+De la même manière, la distribution de la colonne 2 donne aussi cette simple courbe.
+
+602
+00:36:41,920 --> 00:36:49,150
+Maintenant, le nombre total d'électrons qui arrive doit être... le nombre total.
+
+603
+00:36:49,200 --> 00:36:52,700
+Il doit être la somme de ce nombre et de ce nombre.
+
+604
+00:36:52,720 --> 00:36:57,400
+Le nombre total qui arrive doit absolument être la somme des deux,
+
+605
+00:36:57,450 --> 00:36:59,720
+il doit être distribué de cette manière.
+
+606
+00:36:59,720 --> 00:37:03,370
+Mais j'ai dit que c'était distribué comme ça... C'est distribué comme ça.
+
+607
+00:37:05,220 --> 00:37:09,600
+Il l'est vraiment. Puisqu'il doit l'être, il l'est. C'est distribué comme ça.
+
+608
+00:37:12,600 --> 00:37:18,100
+Si nous marquons d'un " ' " les résultats lorsque la lumière est allumée
+
+609
+00:37:18,100 --> 00:37:22,470
+nous trouvons que N1'=N1,
+
+610
+00:37:22,470 --> 00:37:25,550
+et N2'=N2.
+
+611
+00:37:25,700 --> 00:37:29,550
+Mais le nombre que l'on voit quand la lumière est allumée
+
+612
+00:37:29,550 --> 00:37:35,920
+est égal au nombre qu'on voit à travers 1 et à travers 2
+
+613
+00:37:35,920 --> 00:37:40,300
+N12'=N1+N2, c'est ce qu'on obtient quand la lumière est allumée.
+
+614
+00:37:40,500 --> 00:37:45,920
+Autrement dit, on trouve une réponse différente lorsque la lumière est allumée ou non.
+
+615
+00:37:46,120 --> 00:37:50,600
+Si j'ai la lumière allumée, voici la distribution que je trouve.
+
+616
+00:37:50,700 --> 00:37:54,450
+Si j'éteins la lumière voici la distribution que j'obtiens.
+
+617
+00:37:54,770 --> 00:37:59,120
+Allume la lumière, c'est cette réponse. Eteins la lumière, c'est cette là.
+
+618
+00:37:59,170 --> 00:38:03,270
+Vous voyez, la nature a botté en touche.
+
+619
+00:38:04,850 --> 00:38:06,600
+A présent,
+
+620
+00:38:06,920 --> 00:38:10,600
+nous pouvons dire que la lumière affecte le résultat.
+
+621
+00:38:10,870 --> 00:38:14,620
+Lorsque la lumière est allumée vous trouvez une autre réponse que lorsqu'elle est éteinte.
+
+622
+00:38:20,070 --> 00:38:22,450
+La lumière modifie le
+comportement des électrons.
+
+623
+00:38:22,570 --> 00:38:26,120
+Si vous voulez le voir en terme de mouvement de l'électron,
+
+624
+00:38:26,120 --> 00:38:29,320
+vous pouvez dire que la
+lumière affecte le mouvement.
+
+625
+00:38:29,320 --> 00:38:34,220
+Ceux qui auraient du arriver à un maximum ont été déviés,
+
+626
+00:38:34,220 --> 00:38:37,150
+poussés par la lumière et sont arrivés à la place à un minimum,
+
+627
+00:38:37,150 --> 00:38:41,570
+lissant cette courbe pour produire celle-là.
+
+628
+00:38:42,470 --> 00:38:45,070
+Vous voyez, les électrons sont très délicats.
+
+629
+00:38:45,270 --> 00:38:48,970
+Lorsque vous éclairez une balle de baseball ça ne change rien,
+
+630
+00:38:48,970 --> 00:38:50,400
+la balle continue sa route.
+
+631
+00:38:50,420 --> 00:38:52,900
+Les électrons sont très fragiles et délicats,
+
+632
+00:38:52,900 --> 00:38:57,660
+et si vous les éclairez ils subiront un choc,
+
+633
+00:38:58,320 --> 00:39:01,840
+et au lieu de donner ça ils donnent ceci, car la lumière est trop forte.
+
+634
+00:39:01,850 --> 00:39:03,160
+Vous les frappez avec un marteau,
+
+635
+00:39:03,160 --> 00:39:08,300
+ce n'est pas la même chose que d'éclairer une balle de baseball.
+
+636
+00:39:09,790 --> 00:39:12,280
+Vous avez donc mis une lumière trop puissante.
+
+637
+00:39:12,350 --> 00:39:15,950
+Voilez là, rendez là de plus en plus faible
+
+638
+00:39:15,950 --> 00:39:19,170
+et utilisez des détecteurs très sensibles qui peuvent voir cette lumière très faible.
+
+639
+00:39:19,170 --> 00:39:27,500
+Alors que la lumière faiblit encore et encore, vous vous attendez à ce qu'elle affecte les électrons
+
+640
+00:39:27,550 --> 00:39:31,650
+de sorte que leur distribution passe complètement de l'une à l'autre.
+
+641
+00:39:31,650 --> 00:39:36,820
+Plus la lumière faiblit et plus vous vous retrouvez dans le cas "sans lumière".
+
+642
+00:39:37,150 --> 00:39:39,950
+Et comment passe-t-on de l'une à l'autre?
+
+643
+00:39:40,620 --> 00:39:44,670
+Il se trouve que la lumière n'est pas comme une onde à la surface de l'eau,
+
+644
+00:39:44,720 --> 00:39:48,650
+mais elle arrive sous la forme de particules, appelés photons.
+
+645
+00:39:48,970 --> 00:39:51,900
+Et lorsque vous diminuez l'intensité de la lumière
+
+646
+00:39:52,320 --> 00:39:58,700
+vous ne diminuez pas son effet, mais le nombre de photons qu'émet la source.
+
+647
+00:39:59,020 --> 00:40:02,920
+Donc quand je diminue la lumière j'ai de moins en moins de photons.
+
+648
+00:40:03,020 --> 00:40:06,120
+Pour détecter un électron j'ai besoin d'au moins un photon
+
+649
+00:40:06,120 --> 00:40:08,770
+et si je n'ai pas assez de photons
+
+650
+00:40:08,770 --> 00:40:15,000
+et bien parfois l'électron passera, ça arrivera sans flash, sans que je puisse le voir.
+
+651
+00:40:15,220 --> 00:40:19,370
+Une lumière très faible ne signifie pas une très faible perturbation, mais moins de photons.
+
+652
+00:40:19,500 --> 00:40:23,050
+Il se trouve que je doive inventer une troisième colonne.
+
+653
+00:40:23,200 --> 00:40:28,700
+Vous obtenez un "clic" ici, je vous réponds "j'ai vu ça, c'était au trou 1",
+
+654
+00:40:28,820 --> 00:40:33,750
+Un autre au trou 2, et un autre mais "je l'ai pas vu".
+
+655
+00:40:33,870 --> 00:40:36,300
+Il n'y avait pas assez de lumière pour me donner un photon cette fois
+
+656
+00:40:36,300 --> 00:40:41,050
+donc il doit y avoir une troisième colonne "pas vu".
+
+657
+00:40:41,620 --> 00:40:46,520
+Quand la lumière est forte il y en a peu, et quand la lumière est faible la plupart y sont.
+
+658
+00:40:46,600 --> 00:40:50,550
+Donc il y a trois colonnes: #1, #2 et "pas vu".
+
+659
+00:40:50,750 --> 00:40:52,650
+Vous avez deviné ce qui arrive.
+
+660
+00:40:52,900 --> 00:40:54,970
+Ceux que je vois sont distribués comme ça,
+
+661
+00:40:54,970 --> 00:40:57,720
+Ceux que je n'ai pas vus sont distribués comme ça.
+
+662
+00:40:58,200 --> 00:41:00,800
+Et plus je diminue la lumière,
+
+663
+00:41:01,070 --> 00:41:04,870
+et moins j'en vois, une plus
+grande fraction n'est pas vue
+
+664
+00:41:04,900 --> 00:41:09,160
+et la courbe devient
+un mélange de ça et ça.
+
+665
+00:41:09,160 --> 00:41:14,160
+Quand lumière faiblit, de moins en moins sont vus et ça passe de manière continue vers cette forme.
+
+666
+00:41:18,450 --> 00:41:21,050
+Si les électrons n'ont pas été vus
+
+667
+00:41:21,060 --> 00:41:26,490
+et rien ne vient rebondir dessus, alors vous trouvez ce comportement compliqué pour ceux là.
+
+668
+00:41:26,500 --> 00:41:30,420
+Ceux qui sont dans la colonne "pas vu" sont exactement distribués de cette manière compliquée
+
+669
+00:41:30,450 --> 00:41:33,760
+et les deux autres colonnes de cette façon.
+
+670
+00:41:38,800 --> 00:41:39,650
+A présent,
+
+671
+00:41:39,720 --> 00:41:42,930
+vous dites "j'ai une autre façon de savoir par quel trou il passe"
+
+672
+00:41:43,060 --> 00:41:44,930
+et je suis désolé je n'ai pas le temps
+
+673
+00:41:44,930 --> 00:41:48,850
+d'aborder un grand nombre d'inventions auxquelles vous auriez pensé
+
+674
+00:41:48,920 --> 00:41:51,300
+pour découvrir par quel trou l'électron passe,
+
+675
+00:41:51,320 --> 00:41:53,300
+et ce qu'il arrive dans chaque cas.
+
+676
+00:41:53,970 --> 00:41:59,190
+Il se trouve qu'il n'est jamais possible d'arranger la lumière
+
+677
+00:41:59,500 --> 00:42:02,770
+permettant de dire par quel trou l'électron est passé
+
+678
+00:42:03,010 --> 00:42:07,170
+sans faire passer la probabilité d'arrivée de l'électron de cette forme à celle-ci,
+
+679
+00:42:07,170 --> 00:42:09,500
+sans détruire les interférences.
+
+680
+00:42:10,490 --> 00:42:14,470
+Mais pas qu'avec de la lumière, avec n'importe quoi: des neutrinos,
+
+681
+00:42:14,500 --> 00:42:17,420
+c'est un principe, c'est impossible à réaliser.
+
+682
+00:42:18,230 --> 00:42:21,840
+Vous pouvez inventer une méthode pour savoir par quel trou l'électron passe,
+
+683
+00:42:21,890 --> 00:42:24,050
+et il se trouve qu'il passe par l'un ou l'autre,
+
+684
+00:42:24,210 --> 00:42:30,110
+mais si vous utilisez des instruments qui ne perturbent pas le mouvement des électrons
+
+685
+00:42:30,200 --> 00:42:34,600
+alors vous ne pouvez plus savoir par lequel il passe, et vous trouvez ça.
+
+686
+00:42:34,600 --> 00:42:37,140
+Si vous ne pouvez pas savoir vous obtenez ceci.
+
+687
+00:42:37,630 --> 00:42:40,960
+Heisenberg remarqua, lorsqu'il découvrit les lois de la mécanique quantique,
+
+688
+00:42:40,960 --> 00:42:43,470
+que les nouvelles lois de la
+nature qu'il avait découvertes
+
+689
+00:42:43,550 --> 00:42:48,840
+ne pouvaient être cohérentes seulement s'il existait une limitation à nos capacités expérimentales
+
+690
+00:42:48,930 --> 00:42:51,860
+encore inconnue jusqu'alors.
+
+691
+00:42:52,020 --> 00:42:56,260
+Expérimentalement, vous ne pouvez pas être aussi délicat que vous le souhaitez.
+
+692
+00:42:56,520 --> 00:43:02,650
+Et il proposa le principe d'indétermination dont la traduction dans notre expérience est la suivante,
+
+693
+00:43:02,690 --> 00:43:06,650
+il le posa en d'autres termes mais ils sont exactement équivalents, vous pouvez passer de l'un à lautre
+
+694
+00:43:06,650 --> 00:43:09,950
+mais malheureusement je n'ai pas le temps d'expliquer comment.
+
+695
+00:43:10,120 --> 00:43:14,170
+Dans notre expérience, le principe d'indétermination s'énoncerait ainsi:
+
+696
+00:43:14,420 --> 00:43:18,300
+il est impossible de concevoir un appareil, quel qu'il soit,
+
+697
+00:43:18,560 --> 00:43:20,850
+capable de déterminer par quel trou l'électron est passé
+
+698
+00:43:29,770 --> 00:43:35,440
+qui en même temps ne perturbera pas l'électron suffisamment pour détruire la courbe d'interférence.
+
+699
+00:43:35,620 --> 00:43:39,940
+Et personne n'a pu contourné ce fait, et je suis sûr que vous êtes plein d'inventions
+
+700
+00:43:40,030 --> 00:43:43,290
+et de méthodes permettant de savoir par quel trou l'électron est passé
+
+701
+00:43:43,320 --> 00:43:46,750
+mais si vous analysez soigneusement chacune d'elle, vous trouvez une faille
+
+702
+00:43:46,750 --> 00:43:49,860
+et si vous pensez que vous pouvez le faire sans perturber l'électron
+
+703
+00:43:49,970 --> 00:43:52,430
+mais il y a toujours un problème,
+
+704
+00:43:52,430 --> 00:43:56,460
+et vous décelez dans la courbe une différence due à la perturbation de l'instrument
+
+705
+00:43:56,460 --> 00:44:00,300
+utilisé pour savoir par quel trou l'électron est passé.
+
+706
+00:44:03,100 --> 00:44:06,030
+C'est donc une caractéristique interne de la nature,
+
+707
+00:44:06,040 --> 00:44:08,480
+et nous apprend quelquechose de très général.
+
+708
+00:44:08,530 --> 00:44:12,910
+Si demain une nouvelle particule est trouvée, un kaon, en fait elle a déjà été découverte,
+
+709
+00:44:13,690 --> 00:44:15,720
+n'importe laquelle, donnez lui un nom, disons un kaon
+
+710
+00:44:15,720 --> 00:44:18,430
+et j'utilise des kaons pour interagir avec les électrons
+
+711
+00:44:18,430 --> 00:44:20,690
+pour savoir par quel trou ils passent.
+
+712
+00:44:20,810 --> 00:44:27,740
+J'en sais déjà assez à l'avance, j'espère, sur le comportement des kaons pour dire
+
+713
+00:44:27,790 --> 00:44:32,620
+qu'il ne sera pas de nature à ce que je puisse dire par quel trou l'électron passera,
+
+714
+00:44:32,890 --> 00:44:37,410
+sans à la fois venir perturber l'électron et changer la courbe.
+
+715
+00:44:37,550 --> 00:44:40,180
+Donc le principe d'incertitude
+
+716
+00:44:40,210 --> 00:44:42,320
+est utilisé comme un principe général pour deviner à l'avance
+
+717
+00:44:42,320 --> 00:44:45,860
+de nombreuses caractéristiques d'objets inconnus.
+
+718
+00:44:45,980 --> 00:44:48,410
+Ils sont comme limités dans leur nature.
+
+719
+00:44:49,000 --> 00:44:52,660
+Bien, revenons en arrière, qu'en est-il de la proposition A?
+
+720
+00:44:52,700 --> 00:44:56,520
+Passe-t-il par un trou ou l'autre? Ou pas?
+
+721
+00:44:56,520 --> 00:45:02,430
+Bon... les physiciens ont une convention, une façon d'éviter les pièges qui existent
+
+722
+00:45:02,520 --> 00:45:07,020
+Ils adoptent la règle de pensée suivante:
+
+723
+00:45:07,720 --> 00:45:12,060
+si vous avez un appareil capable de vous dire par quel trou l'électron est passé,
+
+724
+00:45:12,060 --> 00:45:14,530
+et vous pouvez avoir un tel appareil,
+
+725
+00:45:14,720 --> 00:45:18,760
+alors, on peut dire que l'électron est passé par ce trou ou l'autre.
+
+726
+00:45:18,780 --> 00:45:23,060
+Et c'est le cas, quand vous regardez il passe toujours par l'un des deux trous. Quand vous regardez.
+
+727
+00:45:24,640 --> 00:45:31,560
+Mais quand vous n'essayez par de savoir, aucun appareil sous la main, pour savoir par quel trou il passe
+
+728
+00:45:31,560 --> 00:45:33,020
+dans ces circonstances,
+
+729
+00:45:33,070 --> 00:45:37,070
+vous ne pouvez pas dire que l'électron est passé par ce trou ou par l'autre.
+
+730
+00:45:37,450 --> 00:45:40,610
+Vous pouvez le dire pourvu
+que vous arrêtiez d'y penser,
+
+731
+00:45:40,610 --> 00:45:43,970
+et que vous n'en tiriez aucune conclusion. Nous préférons ne pas le dire,
+
+732
+00:45:44,000 --> 00:45:47,010
+plutôt que de cesser de penser à ce moment.
+
+733
+00:45:47,050 --> 00:45:49,790
+Quand on ne regarde pas, on ne peut pas dire par quel trou il est passé
+
+734
+00:45:49,790 --> 00:45:53,200
+mais quand vous regardez vous voyez bien qu'il passe par l'un des deux trous.
+
+735
+00:45:53,280 --> 00:45:56,840
+Mais, de conclure que l'électron est passé par l'un des trous sans regarder
+
+736
+00:45:56,840 --> 00:46:00,730
+revient à faire une erreur de prédiction.
+
+737
+00:46:00,910 --> 00:46:07,070
+Voilà la corde logique raide sur laquelle il faut travailler si l'on veut interpréter la nature.
+
+738
+00:46:10,780 --> 00:46:14,620
+La proposition dont je parle est plus générale.
+
+739
+00:46:14,740 --> 00:46:16,890
+Elle ne vaut pas seulement pour deux trous,
+
+740
+00:46:16,890 --> 00:46:19,680
+c'est une proposition générale que l'on peut énoncer comme ceci:
+
+741
+00:46:19,770 --> 00:46:23,130
+la probabilité de n'importe quel évènement dans une expérience idéale,
+
+742
+00:46:23,130 --> 00:46:26,830
+c'est à dire quand tout est spécifié aussi bien que possible,
+
+743
+00:46:26,830 --> 00:46:29,800
+la probabilité d'un évènement est égale au carré de quelquechose
+
+744
+00:46:29,840 --> 00:46:33,320
+que j'ai nommée a, on appelle ça l'amplitude de probabilité
+
+745
+00:46:33,490 --> 00:46:37,890
+et quand un évènement peut avoir plusieurs issues possibles
+
+746
+00:46:37,930 --> 00:46:44,730
+l'amplitude de probabilité, le nombre a est la somme des a de chaque alternative.
+
+747
+00:46:45,770 --> 00:46:48,060
+Enfin, si une expérience est réalisée
+
+748
+00:46:48,060 --> 00:46:51,530
+qui permet de savoir quelle alternative est choisie
+
+749
+00:46:51,530 --> 00:46:53,530
+la probabilité de l'évènement
+
+750
+00:46:53,730 --> 00:46:57,780
+est la somme des probabilités de chaque alternative, vous perdez alors l'interférence.
+
+751
+00:46:58,730 --> 00:47:00,720
+La question est comment tout ça fonctionne?
+
+752
+00:47:00,820 --> 00:47:04,810
+Quelle machinerie produit ces choses?
+
+753
+00:47:05,340 --> 00:47:08,180
+Personne ne peut connaître une telle machinerie.
+
+754
+00:47:08,340 --> 00:47:12,160
+Personne ne peut vous donner une explication plus profonde de ce phénomène
+
+755
+00:47:12,200 --> 00:47:14,520
+que celle que je vous ai donnée, qui en est la description.
+
+756
+00:47:14,590 --> 00:47:17,710
+On peut vous donner une explication plus large
+
+757
+00:47:17,740 --> 00:47:20,400
+au sens où on peut vous
+en donner plus d'exemples,
+
+758
+00:47:20,620 --> 00:47:23,400
+pour montrer qu'il est impossible de savoir par quel trou il passe
+
+759
+00:47:23,400 --> 00:47:26,130
+sans également détruire
+la figure d'interférence.
+
+760
+00:47:26,270 --> 00:47:29,150
+On peut vous montrer une série d'expériences plus vaste
+
+761
+00:47:29,160 --> 00:47:31,710
+que la seule expérience des deux trous etc...
+
+762
+00:47:31,760 --> 00:47:35,410
+Mais ça ne fait que répéter la même chose pour mieux la faire rentrer.
+
+763
+00:47:35,500 --> 00:47:37,470
+Ce n'est pas plus profond, c'est juste plus large.
+
+764
+00:47:37,470 --> 00:47:39,470
+Les mathématiques peuvent être plus précises,
+
+765
+00:47:39,540 --> 00:47:41,960
+en mentionnant que ce sont des nombres complexes et non réels,
+
+766
+00:47:41,960 --> 00:47:45,850
+et quelques points qui n'ont rien à voir avec l'idée principale.
+
+767
+00:47:46,010 --> 00:47:50,400
+Le mystère le plus profond est ce que je viens de décrire.
+
+768
+00:47:50,480 --> 00:47:53,690
+Et personne ne peut aller plus loin aujourd'hui.
+
+769
+00:47:53,870 --> 00:47:56,000
+Seulement brasser plus large.
+
+770
+00:48:00,210 --> 00:48:01,810
+A présent,
+
+771
+00:48:02,210 --> 00:48:04,560
+j'ai mentionné les probabilités dans ce calcul
+
+772
+00:48:04,560 --> 00:48:07,570
+ce que nous avons calculé ici, cette courbe,
+
+773
+00:48:07,610 --> 00:48:10,780
+est la probabilité d'arrivée d'un électron.
+
+774
+00:48:11,450 --> 00:48:15,530
+Y'a t-il un moyen de savoir où il arrive?
+
+775
+00:48:16,010 --> 00:48:19,060
+Nous ne sommes pas averses à l'utilisation des probabilités,
+
+776
+00:48:19,130 --> 00:48:21,850
+de calculer les chances quand la situation est compliquée.
+
+777
+00:48:21,850 --> 00:48:25,360
+Jetez un dé, il tourne tellement de fois
+
+778
+00:48:25,440 --> 00:48:29,260
+la résistance de l'air, les atomes, et toute cette physique compliquée...
+
+779
+00:48:29,390 --> 00:48:33,520
+Nous sommes tout à fait prêt à admettre que nous ne connaissons pas assez les détails
+
+780
+00:48:33,520 --> 00:48:38,000
+et donc nous calculons les chances qu'il se passe ceci ou cela.
+
+781
+00:48:38,480 --> 00:48:41,780
+Mais ici, nous proposons
+
+782
+00:48:41,780 --> 00:48:46,360
+qu'il existe des probabilités dans les lois fondamentales elles-mêmes.
+
+783
+00:48:46,680 --> 00:48:50,730
+Dans les lois fondamentales de la physique il y a des chances.
+
+784
+00:48:50,780 --> 00:48:56,250
+Par exemple, supposez que je monte une expérience avec la lumière éteinte,
+
+785
+00:48:56,270 --> 00:48:59,800
+alors j'obtiens des interférences, je sais ça.
+
+786
+00:49:00,140 --> 00:49:04,650
+Je prétends qu'avec la lumière allumée, je ne peux prédire par quel trou il passe.
+
+787
+00:49:04,720 --> 00:49:08,320
+Je sais seulement qu'à chaque fois que je regarde il passera par l'un ou l'autre.
+
+788
+00:49:08,370 --> 00:49:12,580
+Mais il n'y pas moyen de prédire à l'avance par lequel il passera.
+
+789
+00:49:12,800 --> 00:49:16,370
+En d'autres termes, le futur est imprévisible.
+
+790
+00:49:16,530 --> 00:49:20,410
+Il est impossible de prédire, à partir d'information obtenue à l'avance,
+
+791
+00:49:20,500 --> 00:49:25,500
+par quel trou il passera, ou derrière quel trou on verra de la lumière.
+
+792
+00:49:29,940 --> 00:49:35,890
+Cela signifie que la physique a abandonné son but original, tout le monde pensait que ce l'était,
+
+793
+00:49:35,970 --> 00:49:40,450
+d'en savoir assez sur une situation donnée pour prédire ce qui arrivera.
+
+794
+00:49:40,460 --> 00:49:42,770
+Donnez moi les circonstances,
+je vous dirai ce qui arrive.
+
+795
+00:49:42,770 --> 00:49:48,670
+Voici nos circonstances: une source de lumière intense, dites moi par quel trou je verrai l'électron passer.
+
+796
+00:49:48,780 --> 00:49:52,980
+Vous vous dites, la raison pour laquelle je ne peux prédire par quel trou l'électron passera
+
+797
+00:49:53,060 --> 00:49:56,570
+réside dans des choses très compliquées en amont.
+
+798
+00:49:56,800 --> 00:50:01,790
+Si j'en sais assez sur cet électron, son rouage interne etc...
+
+799
+00:50:01,880 --> 00:50:05,120
+Là réside ce qui détermine
+par quel trou il passe.
+
+800
+00:50:05,180 --> 00:50:08,000
+Donc c'est 50/50 car, comme pour un dé,
+
+801
+00:50:08,000 --> 00:50:10,760
+cela définit une sorte de hasard.
+
+802
+00:50:10,990 --> 00:50:15,820
+Et donc si j'étudie ça suffisamment, la physique est incomplète, si la physique devient plus complète
+
+803
+00:50:15,950 --> 00:50:19,120
+alors vous pourrez prédire par quel trou il passe.
+
+804
+00:50:19,170 --> 00:50:22,240
+C'est la théorie des "variables cachées".
+
+805
+00:50:22,400 --> 00:50:23,730
+Mais c'est impossible.
+
+806
+00:50:23,780 --> 00:50:27,320
+Ce n'est pas à cause d'un manque de connaissance des détails,
+
+807
+00:50:27,380 --> 00:50:33,060
+car j'ai dit que si j'éteins la lumière j'aurai cette figure d'interférence.
+
+808
+00:50:33,170 --> 00:50:39,970
+Si j'ai la figure d'interférence il est impossible d'analyser le résultat en disant "il est passé par ici ou là"
+
+809
+00:50:40,240 --> 00:50:46,900
+cette courbe, si simple, est différente mathématiquement de la contribution des deux courbes de probabilité.
+
+810
+00:50:47,140 --> 00:50:55,410
+Donc si vous étiez capable de déterminer par quel trou il passe avec la lumière allumée
+
+811
+00:50:56,030 --> 00:51:00,570
+alors qu'elle soit allumée n'a rien à voir ici. S'il y avaient des rouages, vous les auriez observés,
+
+812
+00:51:00,650 --> 00:51:03,930
+ils vous auraient permis de me dire par quel trou l'électron passe
+
+813
+00:51:03,960 --> 00:51:06,830
+et vous pourriez le faire aussi la lumière éteinte.
+
+814
+00:51:07,100 --> 00:51:14,330
+Donc vous auriez pu me dire avec la lumière éteinte par quel trou il passe.
+
+815
+00:51:14,440 --> 00:51:20,590
+Mais si vous le pouviez, cette courbe serait la somme de ceux qui passent par ici et par là,
+
+816
+00:51:20,590 --> 00:51:22,410
+et ce n'est pas le cas.
+
+817
+00:51:22,530 --> 00:51:26,690
+Il est donc impossible d'avoir
+une information à l'avance
+
+818
+00:51:26,750 --> 00:51:31,070
+à propos du trou par lequel il passera que la lumière soit éteinte ou allumée,
+
+819
+00:51:32,240 --> 00:51:36,270
+lorsque l'expérience est montée de sorte à obtenir les interférences.
+
+820
+00:51:36,680 --> 00:51:40,530
+Donc ce n'est pas le fait de rouages inconnus,
+
+821
+00:51:40,880 --> 00:51:45,050
+un manque de complications internes, qui fait entrer les probabilités dans la nature.
+
+822
+00:51:45,050 --> 00:51:47,480
+On dirait que c'est
+en un sens intrinsèque,
+
+823
+00:51:47,490 --> 00:51:54,460
+Quelqu'un a dit que "la nature elle-même ne sait pas par quel trou l'électron passera".
+
+824
+00:51:56,600 --> 00:51:59,230
+Un philosophe a dit un jour:
+
+825
+00:52:00,830 --> 00:52:03,970
+"Il est nécessaire pour l'existence de la science"
+
+826
+00:52:04,010 --> 00:52:08,490
+"que les mêmes conditions produisent toujours les mêmes résultats."
+
+827
+00:52:08,690 --> 00:52:13,230
+Et bien, elles ne le font pas.
+
+828
+00:52:14,380 --> 00:52:17,950
+Même si vous avez les mêmes
+conditions à chaque fois
+
+829
+00:52:17,980 --> 00:52:21,720
+vous ne pouvez pas prédire par quel trou passera l'électron.
+
+830
+00:52:25,850 --> 00:52:28,940
+Pourtant, la science continue malgré tout.
+
+831
+00:52:28,940 --> 00:52:31,010
+Bien que les mêmes conditions ne produisent pas les mêmes résultats.
+
+832
+00:52:31,050 --> 00:52:34,140
+Ca nous embête de
+ne pas pouvoir prédire,
+
+833
+00:52:34,160 --> 00:52:37,960
+d'ailleurs vous pouvez rendre les circonstances très dangereuses
+
+834
+00:52:37,960 --> 00:52:40,240
+où les hommes doivent savoir
+mais ne peuvent prédire.
+
+835
+00:52:40,240 --> 00:52:44,010
+Nous pourrions préparer un mécanisme, il vaut mieux pas, de manière
+
+836
+00:52:44,010 --> 00:52:50,270
+à ce que si une cellule photosensible détecte un électron derrière le trou 1
+
+837
+00:52:50,380 --> 00:52:53,930
+elle déclenche le lancement d'une bombe nucléaire et la troisième guerre mondiale.
+
+838
+00:52:54,220 --> 00:53:00,140
+si elle le voit derrière le trou 2, la paix est déclarée...
+
+839
+00:53:00,410 --> 00:53:03,550
+et repousse la guerre à plus tard.
+
+840
+00:53:03,660 --> 00:53:07,630
+Le futur des hommes serait dépendant d'une chose
+
+841
+00:53:07,710 --> 00:53:10,600
+qu'aucune dose de science ne peut prédire.
+
+842
+00:53:10,830 --> 00:53:13,180
+Le futur est imprévisible.
+
+843
+00:53:15,050 --> 00:53:18,400
+Ce qui est nécessaire pour l'existence de la science
+
+844
+00:53:18,400 --> 00:53:20,850
+et ce que sont les caractéristiques de la nature
+
+845
+00:53:20,900 --> 00:53:23,810
+ne doivent pas être déterminés par des déclarations pompeuses.
+
+846
+00:53:23,880 --> 00:53:28,600
+Ils sont toujours déterminés par le matériau avec lequel nous travaillons, la nature elle même.
+
+847
+00:53:28,620 --> 00:53:31,220
+Nous regardons et nous voyons ce qu'on trouve.
+
+848
+00:53:31,250 --> 00:53:35,250
+Et nous ne pouvons pas dire à l'avance, avec succès, à quoi ça ressemblera.
+
+849
+00:53:35,300 --> 00:53:40,280
+Les possibilités les plus raisonnables ne sont souvent pas vérifiées en pratique.
+
+850
+00:53:40,720 --> 00:53:43,840
+Ce qui est nécessaire pour que la science existe
+
+851
+00:53:43,890 --> 00:53:46,680
+est seulement la capacité d'expérimenter,
+
+852
+00:53:46,890 --> 00:53:48,990
+l'honnêteté des résultats,
+
+853
+00:53:48,990 --> 00:53:54,520
+les résultats doivent être rapportés sans que quelqu'un dise qu'il aurait préféré "qu'ils soient autrement".
+
+854
+00:53:54,520 --> 00:53:58,810
+Et finalement, une chose importante, interpréter les résultats intelligemment,
+
+855
+00:53:58,810 --> 00:54:01,580
+mais, un point important à
+propos de cette intelligence,
+
+856
+00:54:01,680 --> 00:54:06,620
+elle ne doit pas être sûre à
+l'avance de ce qu'il doit être.
+
+857
+00:54:06,820 --> 00:54:11,970
+Elle peut avoir des préjugés, et penser que "C'est improbable, je n'aime pas ça".
+
+858
+00:54:12,120 --> 00:54:14,510
+Mais un préjugé est différent
+d'une certitude absolue.
+
+859
+00:54:14,540 --> 00:54:20,590
+J'entends préjugé au sens d'un parti pris, sans qu'il soit stricte.
+
+860
+00:54:20,590 --> 00:54:24,510
+Tant que ce n'est qu'un préjugé ça ne change rien, car si les faits sont avérés,
+
+861
+00:54:24,600 --> 00:54:29,280
+il y aura une perpétuelle accumulation d'expériences qui vous gênera toujours davantage
+
+862
+00:54:29,300 --> 00:54:31,990
+jusqu'à ce qu'elle ne puisse plus être ignorée.
+
+863
+00:54:32,040 --> 00:54:35,070
+Elle ne peut être ignorée que si vous êtes absolument sûr à l'avance
+
+864
+00:54:35,080 --> 00:54:37,660
+des conditions que la
+science doit remplir a priori.
+
+865
+00:54:37,740 --> 00:54:42,200
+En fait ce qui est nécessaire pour l'existence de la science
+
+866
+00:54:42,270 --> 00:54:49,150
+c'est que des esprits se dressent contre l'idée que la nature doive satisfaire des préconceptions
+
+867
+00:54:49,240 --> 00:54:51,230
+comme celles de nos philosophes.
+
+868
+00:54:51,300 --> 00:54:52,730
+Merci.
+
+869
+00:54:56,840 --> 00:54:58,360
+sous-titres: Galileo51 Galilei
