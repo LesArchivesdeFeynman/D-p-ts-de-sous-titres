@@ -11,4 +11,6 @@ Vous ne devez un aucun cas modifier ou supprimer un fichier qui n'est pas le vot
 
 Une grande partie de ces traduction à été réalisée par Galileo51 Galilée ( La Nature de la Physique - Conférences 1,2,3,4,6 )
 
+La license présente sur ce dépôt est seulement liée aux conférences 1,2,3,4 et 6 du cycle La Nature de la Physique de Feynman, elle n'est en aucun cas valable pour les autres fichiers présent sur ce dépôt.
+
 Nous remercions tous ceux qui contribuent ou ont contribué à ce site.
